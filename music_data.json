@@ -37223,6 +37223,77 @@
         }
     },
     {
+        "id": "10117",
+        "title": "炎歌 -ほむらうた-",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            5.8,
+            9.8,
+            13.0
+        ],
+        "level": [
+            "2",
+            "5+",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    109,
+                    11,
+                    4,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    155,
+                    14,
+                    6,
+                    17,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    208,
+                    34,
+                    42,
+                    40,
+                    15
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    372,
+                    43,
+                    74,
+                    22,
+                    16
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "炎歌 -ほむらうた-",
+            "artist": "Hiro/森山愛子",
+            "genre": "舞萌",
+            "bpm": 108,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[盖章]"
+        }
+    },
+    {
         "id": "10128",
         "title": "御旗のもとに",
         "type": "DX",
@@ -79324,6 +79395,290 @@
         }
     },
     {
+        "id": "11674",
+        "title": "Cider P@rty",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            11.0,
+            13.5
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    192,
+                    9,
+                    4,
+                    11,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    14,
+                    10,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    439,
+                    39,
+                    52,
+                    45,
+                    42
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    584,
+                    75,
+                    126,
+                    27,
+                    14
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Cider P@rty",
+            "artist": "Ryo Fukuda",
+            "genre": "舞萌",
+            "bpm": 180,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [メトロポリスちほー8]"
+        }
+    },
+    {
+        "id": "11675",
+        "title": "勦滅",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.8,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    190,
+                    10,
+                    7,
+                    15,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    22,
+                    8,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    116,
+                    45,
+                    32,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    773,
+                    73,
+                    59,
+                    77,
+                    48
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "勦滅",
+            "artist": "siqlo",
+            "genre": "舞萌",
+            "bpm": 200,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [メトロポリスちほー8]"
+        }
+    },
+    {
+        "id": "11676",
+        "title": "Lunatic Vibes",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.7,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    234,
+                    12,
+                    3,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    329,
+                    24,
+                    4,
+                    28,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    384,
+                    81,
+                    49,
+                    6,
+                    75
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    672,
+                    76,
+                    113,
+                    55,
+                    38
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Lunatic Vibes",
+            "artist": "K-forest",
+            "genre": "舞萌",
+            "bpm": 185,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [メトロポリスちほー8]"
+        }
+    },
+    {
+        "id": "11677",
+        "title": "Bloody Trail",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.8,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    226,
+                    13,
+                    8,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    16,
+                    6,
+                    31,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    533,
+                    127,
+                    53,
+                    21,
+                    41
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    882,
+                    129,
+                    42,
+                    3,
+                    100
+                ],
+                "charter": "翠楼屋"
+            }
+        ],
+        "basic_info": {
+            "title": "Bloody Trail",
+            "artist": "Hommarju",
+            "genre": "舞萌",
+            "bpm": 195,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[完美挑战曲] [メトロポリスちほー8]"
+        }
+    },
+    {
         "id": "11687",
         "title": "MarbleBlue.",
         "type": "DX",
@@ -80152,6 +80507,574 @@
         }
     },
     {
+        "id": "11704",
+        "title": "DUAL ROZES",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    149,
+                    12,
+                    4,
+                    15,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    240,
+                    16,
+                    7,
+                    40,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    278,
+                    66,
+                    30,
+                    9,
+                    18
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    596,
+                    43,
+                    79,
+                    21,
+                    86
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "DUAL ROZES",
+            "artist": "SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi",
+            "genre": "其他游戏",
+            "bpm": 160,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11705",
+        "title": "VOLT",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            10.9,
+            13.4
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    137,
+                    10,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    5,
+                    10,
+                    23,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    328,
+                    48,
+                    26,
+                    3,
+                    39
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    461,
+                    29,
+                    77,
+                    52,
+                    33
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "VOLT",
+            "artist": "aran",
+            "genre": "其他游戏",
+            "bpm": 174,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11706",
+        "title": "tiny tales continue",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            11.0,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    165,
+                    11,
+                    6,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    278,
+                    16,
+                    10,
+                    30,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    61,
+                    38,
+                    11,
+                    22
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    528,
+                    96,
+                    80,
+                    62,
+                    52
+                ],
+                "charter": "サファ太 & ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "tiny tales continue",
+            "artist": "黒魔",
+            "genre": "其他游戏",
+            "bpm": 188,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11707",
+        "title": "ouroboros -twin stroke of the end-",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "6",
+            "9",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    15,
+                    8,
+                    18,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    391,
+                    22,
+                    8,
+                    16,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    510,
+                    72,
+                    74,
+                    30,
+                    31
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    917,
+                    82,
+                    68,
+                    116,
+                    74
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ouroboros -twin stroke of the end-",
+            "artist": "Cranky VS MASAKI",
+            "genre": "其他游戏",
+            "bpm": 188,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [グルーヴコースターちほー2]"
+        }
+    },
+    {
+        "id": "11710",
+        "title": "サイバーサンダーサイダー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.5,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "4",
+            "6",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    154,
+                    12,
+                    4,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    185,
+                    16,
+                    10,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    277,
+                    116,
+                    30,
+                    23,
+                    20
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    502,
+                    70,
+                    55,
+                    50,
+                    93
+                ],
+                "charter": "みぞれヤナギ & サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サイバーサンダーサイダー",
+            "artist": "EZFG",
+            "genre": "niconico & VOCALOID",
+            "bpm": 145,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11711",
+        "title": "おくすり飲んで寝よう",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    128,
+                    14,
+                    3,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    16,
+                    6,
+                    34,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    54,
+                    42,
+                    17,
+                    9
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    547,
+                    69,
+                    98,
+                    17,
+                    12
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "おくすり飲んで寝よう",
+            "artist": "もちうつね",
+            "genre": "niconico & VOCALOID",
+            "bpm": 130,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11712",
+        "title": "バラバラ〜仮初レインボーローズ〜",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            10.7,
+            12.7
+        ],
+        "level": [
+            "2",
+            "6",
+            "10+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    75,
+                    14,
+                    2,
+                    5,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    156,
+                    17,
+                    4,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    327,
+                    21,
+                    22,
+                    5,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    286,
+                    33,
+                    80,
+                    16,
+                    46
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "バラバラ〜仮初レインボーローズ〜",
+            "artist": "花畑チャイカ＆椎名唯華",
+            "genre": "流行&动漫",
+            "bpm": 135,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11713",
+        "title": "QUATTUORUX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.8,
+            13.0,
+            14.5
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    230,
+                    12,
+                    6,
+                    36,
+                    32
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    31,
+                    17,
+                    31,
+                    16
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    512,
+                    79,
+                    77,
+                    71,
+                    61
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    584,
+                    68,
+                    104,
+                    66,
+                    300
+                ],
+                "charter": "サファ太 Vs. Safari Vs. さふぁた"
+            }
+        ],
+        "basic_info": {
+            "title": "QUATTUORUX",
+            "artist": "打打だいず Vs. Tanchiky Vs. からめる",
+            "genre": "其他游戏",
+            "bpm": 220,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "11714",
         "title": "匿名M",
         "type": "DX",
@@ -80220,6 +81143,290 @@
             "from": "maimai 舞萌DX 2025",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": "11727",
+        "title": "ラヴィ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    8,
+                    8,
+                    9,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    24,
+                    8,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    403,
+                    45,
+                    59,
+                    30,
+                    33
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    609,
+                    73,
+                    94,
+                    69,
+                    46
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ラヴィ",
+            "artist": "すりぃ",
+            "genre": "niconico & VOCALOID",
+            "bpm": 183,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11728",
+        "title": "スティールユー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            11.0,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    162,
+                    22,
+                    8,
+                    8,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    9,
+                    6,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    539,
+                    75,
+                    52,
+                    15,
+                    6
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    731,
+                    28,
+                    152,
+                    59,
+                    31
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "スティールユー",
+            "artist": "Omoi",
+            "genre": "niconico & VOCALOID",
+            "bpm": 190,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11729",
+        "title": "オシオキGIMMICK!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            10.7,
+            12.9
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    192,
+                    12,
+                    4,
+                    11,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    22,
+                    6,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    480,
+                    49,
+                    41,
+                    15,
+                    41
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    568,
+                    32,
+                    153,
+                    50,
+                    29
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "オシオキGIMMICK!!",
+            "artist": "Junky",
+            "genre": "niconico & VOCALOID",
+            "bpm": 176,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11733",
+        "title": "MUSIC PЯAYER",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.5,
+            10.0,
+            13.5
+        ],
+        "level": [
+            "4",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    183,
+                    14,
+                    4,
+                    8,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    8,
+                    6,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    468,
+                    39,
+                    43,
+                    12,
+                    69
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    720,
+                    20,
+                    138,
+                    24,
+                    78
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "MUSIC PЯAYER",
+            "artist": "A-One",
+            "genre": "音击&中二节奏",
+            "bpm": 168,
+            "release_date": "20250820",
+            "from": "maimai 舞萌DX 2025",
+            "is_new": true,
+            "key": "【需要解禁】[机台联动]"
         }
     },
     {
@@ -80838,6 +82045,40 @@
         }
     },
     {
+        "id": "100998",
+        "title": "[宴]Oshama Scramble! (Cranky Remix)",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            14.7
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    849,
+                    66,
+                    210,
+                    76
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[宴]Oshama Scramble! (Cranky Remix)",
+            "artist": "Cranky",
+            "genre": "宴会场",
+            "bpm": 190,
+            "release_date": "20250716",
+            "from": "maimai 舞萌DX 2024",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": "110114",
         "title": "[耐]Space Harrier Main Theme [Reborn]",
         "type": "UTAGE",
@@ -81412,6 +82653,53 @@
             "genre": "宴会场",
             "bpm": 148,
             "release_date": "20250611",
+            "from": "maimai 舞萌DX 2024",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": "111636",
+        "title": "[奏]さくゆいたいそう",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!!",
+        "ds": [
+            12.7,
+            12.7
+        ],
+        "level": [
+            "12+?",
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    390,
+                    139,
+                    58,
+                    49,
+                    71
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    405,
+                    129,
+                    63,
+                    50,
+                    61
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]さくゆいたいそう",
+            "artist": "さくゆい",
+            "genre": "宴会场",
+            "bpm": 160,
+            "release_date": "20250716",
             "from": "maimai 舞萌DX 2024",
             "is_new": false,
             "key": ""
