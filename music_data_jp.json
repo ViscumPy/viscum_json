@@ -39939,6 +39939,140 @@
         }
     },
     {
+        "id": "1736",
+        "title": "プリズム△▽リズム",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            4.0,
+            6.5,
+            9.5,
+            13.2
+        ],
+        "level": [
+            "4",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    187,
+                    18,
+                    7,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    249,
+                    16,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    30,
+                    30,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    57,
+                    117,
+                    13
+                ],
+                "charter": "譜面-100号"
+            }
+        ],
+        "basic_info": {
+            "title": "プリズム△▽リズム",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 155,
+            "release_date": "20250712",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+        }
+    },
+    {
+        "id": "1819",
+        "title": "AFTER PANDORA",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            12.5,
+            14.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    165,
+                    6,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    11,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    255,
+                    44,
+                    29,
+                    5
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    428,
+                    21,
+                    102,
+                    25
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "AFTER PANDORA",
+            "artist": "削除",
+            "genre": "maimai",
+            "bpm": 85,
+            "release_date": "20250712",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+        }
+    },
+    {
         "id": "10030",
         "title": "ネコ日和。",
         "type": "DX",
@@ -40006,7 +40140,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】[友人赛季]"
+            "key": ""
         }
     },
     {
@@ -43767,6 +43901,77 @@
             "from": "maimai でらっくす",
             "is_new": false,
             "key": ""
+        }
+    },
+    {
+        "id": "10835",
+        "title": "Believe the Rainbow",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            9.9,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    144,
+                    11,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    198,
+                    17,
+                    9,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    203,
+                    48,
+                    39,
+                    64,
+                    21
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    237,
+                    25,
+                    116,
+                    96,
+                    35
+                ],
+                "charter": "チャン@DP皆伝"
+            }
+        ],
+        "basic_info": {
+            "title": "Believe the Rainbow",
+            "artist": "Shoichiro Hirata feat.Sana",
+            "genre": "maimai",
+            "bpm": 133,
+            "release_date": "20250712",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
         }
     },
     {
@@ -94369,8 +94574,8 @@
             },
             {
                 "notes": [
-                    625,
-                    99,
+                    621,
+                    98,
                     114,
                     72,
                     124
@@ -94457,7 +94662,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】[LEGEND]"
+            "key": ""
         }
     },
     {
@@ -94467,9 +94672,9 @@
         "comment": "",
         "ds": [
             4.0,
-            7.6,
-            10.6,
-            13.6
+            7.8,
+            10.8,
+            13.7
         ],
         "level": [
             "4",
@@ -94507,7 +94712,7 @@
                     18,
                     53
                 ],
-                "charter": "-"
+                "charter": "はっぴー"
             },
             {
                 "notes": [
@@ -94538,9 +94743,9 @@
         "comment": "",
         "ds": [
             5.0,
-            8.6,
-            11.0,
-            13.6
+            8.7,
+            11.5,
+            13.8
         ],
         "level": [
             "5",
@@ -94578,7 +94783,7 @@
                     38,
                     50
                 ],
-                "charter": "-"
+                "charter": "Jack"
             },
             {
                 "notes": [
@@ -94609,9 +94814,9 @@
         "comment": "",
         "ds": [
             3.0,
-            7.6,
-            11.6,
-            14.0
+            7.9,
+            11.8,
+            14.2
         ],
         "level": [
             "3",
@@ -94622,24 +94827,42 @@
         "cids": [],
         "charts": [
             {
-                "notes": [],
-                "charter": "-"
-            },
-            {
-                "notes": [],
-                "charter": "-"
-            },
-            {
-                "notes": [],
+                "notes": [
+                    138,
+                    12,
+                    7,
+                    8,
+                    28
+                ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    677,
+                    298,
+                    16,
+                    14,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    112,
+                    47,
+                    13,
+                    77
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    680,
                     36,
                     140,
-                    50,
-                    55
+                    49,
+                    54
                 ],
                 "charter": "はっぴー"
             }
@@ -94661,29 +94884,47 @@
         "type": "DX",
         "comment": "",
         "ds": [
-            6.0,
-            10.0,
-            12.7,
+            5.0,
+            8.0,
+            12.9,
             14.8
         ],
         "level": [
-            "6",
-            "10",
+            "5",
+            "8",
             "12+",
             "14+"
         ],
         "cids": [],
         "charts": [
             {
-                "notes": [],
+                "notes": [
+                    203,
+                    12,
+                    6,
+                    8,
+                    14
+                ],
                 "charter": "-"
             },
             {
-                "notes": [],
+                "notes": [
+                    297,
+                    20,
+                    10,
+                    28,
+                    3
+                ],
                 "charter": "-"
             },
             {
-                "notes": [],
+                "notes": [
+                    420,
+                    31,
+                    63,
+                    19,
+                    62
+                ],
                 "charter": "はっぴー"
             },
             {
@@ -94706,6 +94947,444 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": "11815",
+        "title": "IMBRUED:FLUX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            11.0,
+            14.1
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    175,
+                    8,
+                    10,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    10,
+                    11,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    66,
+                    39,
+                    53,
+                    43
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    656,
+                    60,
+                    101,
+                    82,
+                    39
+                ],
+                "charter": "きょむりん vs Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "IMBRUED:FLUX",
+            "artist": "qfeileadh feat.のあ",
+            "genre": "maimai",
+            "bpm": 176,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [7sRefちほー4]"
+        }
+    },
+    {
+        "id": "11816",
+        "title": "砂の函",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            11.2,
+            14.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "11",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    10,
+                    4,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    30,
+                    8,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    106,
+                    63,
+                    20,
+                    40
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    510,
+                    56,
+                    75,
+                    60,
+                    78
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "砂の函",
+            "artist": "Nego_tiator",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [7sRefちほー4]"
+        }
+    },
+    {
+        "id": "11817",
+        "title": "Amereistr",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            12.5,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    13,
+                    4,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    18,
+                    10,
+                    34,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    121,
+                    53,
+                    12,
+                    31,
+                    45
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    466,
+                    102,
+                    31,
+                    67,
+                    72
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Amereistr",
+            "artist": "rN",
+            "genre": "maimai",
+            "bpm": 147,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[完美挑战曲] [7sRefちほー4]"
+        }
+    },
+    {
+        "id": "11818",
+        "title": "World's end BLACKBOX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            7.8,
+            10.5,
+            13.1,
+            14.9
+        ],
+        "level": [
+            "7+",
+            "10",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    340,
+                    27,
+                    8,
+                    25,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    574,
+                    20,
+                    14,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    670,
+                    34,
+                    54,
+                    70,
+                    50
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    831,
+                    137,
+                    116,
+                    115,
+                    123
+                ],
+                "charter": "7sRef -DOVE-"
+            }
+        ],
+        "basic_info": {
+            "title": "World's end BLACKBOX",
+            "artist": "打打だいず",
+            "genre": "maimai",
+            "bpm": 205,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11820",
+        "title": "Xaleid◆scopiX",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            7.9,
+            11.0,
+            13.7,
+            14.9,
+            15.0
+        ],
+        "level": [
+            "7+",
+            "11",
+            "13+",
+            "14+",
+            "15"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    515,
+                    26,
+                    12,
+                    36,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    865,
+                    51,
+                    20,
+                    60,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    1010,
+                    103,
+                    90,
+                    75,
+                    72
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    1553,
+                    143,
+                    168,
+                    93,
+                    221
+                ],
+                "charter": "KALEIDXSCOPE"
+            },
+            {
+                "notes": [
+                    1590,
+                    173,
+                    103,
+                    134,
+                    222
+                ],
+                "charter": "Xaleid◆scopiX"
+            }
+        ],
+        "basic_info": {
+            "title": "Xaleid◆scopiX",
+            "artist": "xi",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "20250712",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+        }
+    },
+    {
+        "id": "11821",
+        "title": "Ref:rain (for 7th Heaven)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            12.5,
+            14.0
+        ],
+        "level": [
+            "4",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    275,
+                    28,
+                    14,
+                    32,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    515,
+                    20,
+                    19,
+                    31,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    757,
+                    58,
+                    69,
+                    96,
+                    56
+                ],
+                "charter": "きょむりん ＆ Luxizhel"
+            },
+            {
+                "notes": [
+                    766,
+                    107,
+                    147,
+                    147,
+                    47
+                ],
+                "charter": "Jack + Soma"
+            }
+        ],
+        "basic_info": {
+            "title": "Ref:rain (for 7th Heaven)",
+            "artist": "カモメサノエレクトリックオーケストラ include Limonène",
+            "genre": "maimai",
+            "bpm": 188,
+            "release_date": "20250712",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
         }
     },
     {
@@ -94776,7 +95455,7 @@
             "release_date": "20250313",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】[机台联动]"
+            "key": ""
         }
     },
     {
@@ -94847,7 +95526,7 @@
             "release_date": "20250313",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "【需要解禁】[机台联动]"
+            "key": ""
         }
     },
     {
@@ -95061,6 +95740,290 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": "11827",
+        "title": "サウンドプレイヤー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    170,
+                    11,
+                    4,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    13,
+                    9,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    380,
+                    65,
+                    44,
+                    8,
+                    22
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    551,
+                    73,
+                    73,
+                    107,
+                    33
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サウンドプレイヤー",
+            "artist": "tilt-six feat.バル",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 143,
+            "release_date": "20250711",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11828",
+        "title": "crazy (about you)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.8
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    147,
+                    14,
+                    3,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    225,
+                    10,
+                    10,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    261,
+                    32,
+                    40,
+                    27,
+                    42
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    490,
+                    75,
+                    52,
+                    89,
+                    33
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "crazy (about you)",
+            "artist": "kamome sano",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 145,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11829",
+        "title": "Drivessover",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            12.2,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    188,
+                    9,
+                    4,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    319,
+                    18,
+                    6,
+                    30,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    64,
+                    55,
+                    28,
+                    16
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    504,
+                    91,
+                    98,
+                    43,
+                    43
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "Drivessover",
+            "artist": "Taishi",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 182,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [CHUNITHMちほー4]"
+        }
+    },
+    {
+        "id": "11830",
+        "title": "Tidal Wave",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            12.3,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    173,
+                    10,
+                    4,
+                    20,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    263,
+                    12,
+                    13,
+                    21,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    342,
+                    44,
+                    34,
+                    17,
+                    16
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    424,
+                    30,
+                    111,
+                    25,
+                    16
+                ],
+                "charter": "あまくちジンジャー"
+            }
+        ],
+        "basic_info": {
+            "title": "Tidal Wave",
+            "artist": "D-Cee",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 175,
+            "release_date": "20250716",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[机台联动]"
         }
     },
     {
@@ -96597,9 +97560,9 @@
         "comment": "",
         "ds": [
             3.0,
-            6.0,
-            9.0,
-            12.0
+            6.5,
+            9.5,
+            12.5
         ],
         "level": [
             "3",
@@ -96636,7 +97599,7 @@
                     22,
                     43
                 ],
-                "charter": "-"
+                "charter": "はっぴー"
             },
             {
                 "notes": [
@@ -96652,7 +97615,7 @@
         "basic_info": {
             "title": "好きな惣菜発表ドラゴン",
             "artist": "ンバヂ",
-            "genre": "maimai",
+            "genre": "niconico & ボーカロイド",
             "bpm": 160,
             "release_date": "20250509",
             "from": "maimai でらっくす PRiSM PLUS",
@@ -96853,10 +97816,11 @@
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0
+                    647,
+                    81,
+                    111,
+                    50,
+                    121
                 ],
                 "charter": "ぴちネコ"
             }
@@ -96893,37 +97857,41 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0
+                    219,
+                    25,
+                    8,
+                    12,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0
+                    337,
+                    27,
+                    10,
+                    45,
+                    2
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0
+                    549,
+                    45,
+                    61,
+                    25,
+                    78
                 ],
                 "charter": "Luxizhel"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0
+                    622,
+                    63,
+                    57,
+                    64,
+                    300
                 ],
                 "charter": "サファ太 Vs. Safari Vs. Saf Vs. モリモリさふぁた"
             }
@@ -97587,6 +98555,77 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": "11879",
+        "title": "縺ｾ縺ｸ縺､縺昴ｄ縺ｸ繧",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "level": [
+            "縺ｪ縺",
+            "繧上°繧峨↑縺",
+            "繝輔Γ繧､",
+            "縺ｵ繧√＞"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    246,
+                    15,
+                    6,
+                    20,
+                    85
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    420,
+                    43,
+                    9,
+                    28,
+                    92
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    515,
+                    93,
+                    45,
+                    28,
+                    138
+                ],
+                "charter": "縺ｵ繧√ｓ縺帙＞縺輔￥縺励ｃ 縺ｵ繧√"
+            },
+            {
+                "notes": [
+                    914,
+                    89,
+                    105,
+                    47,
+                    250
+                ],
+                "charter": "縺ｵ繧√ｓ縺帙＞縺輔￥縺励ｃ 縺ｵ繧√"
+            }
+        ],
+        "basic_info": {
+            "title": "縺ｾ縺ｸ縺､縺昴ｄ縺ｸ繧",
+            "artist": "縺､縺｡縺ｳ縺ｨ",
+            "genre": "maimai",
+            "bpm": 2147483647,
+            "release_date": "繧ｻ繝ｼ繧ｰ",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
         }
     },
     {
