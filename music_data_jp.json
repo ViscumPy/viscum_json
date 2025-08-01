@@ -40783,6 +40783,76 @@
         }
     },
     {
+        "id": "10187",
+        "title": "ローリンガール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.9,
+            13.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    9,
+                    4,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    274,
+                    12,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    388,
+                    65,
+                    44,
+                    23
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    463,
+                    49,
+                    109,
+                    32,
+                    35
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "ローリンガール",
+            "artist": "wowaka",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 195,
+            "release_date": "20250801",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [niconicoDXnew]"
+        }
+    },
+    {
         "id": "10188",
         "title": "天ノ弱",
         "type": "DX",
@@ -97908,6 +97978,77 @@
         }
     },
     {
+        "id": "11861",
+        "title": "∀",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.2,
+            11.9,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    195,
+                    17,
+                    4,
+                    8,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    8,
+                    9,
+                    9,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    42,
+                    30,
+                    9,
+                    29
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    474,
+                    61,
+                    56,
+                    49,
+                    30
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "∀",
+            "artist": "ああああ",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 245,
+            "release_date": "20250801",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "11862",
         "title": "㋰責任集合体",
         "type": "DX",
@@ -98552,6 +98693,77 @@
             "genre": "niconico & ボーカロイド",
             "bpm": 140,
             "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11878",
+        "title": "Pixel Galaxy",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.4,
+            9.9,
+            13.1
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    130,
+                    10,
+                    8,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    13,
+                    12,
+                    21,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    301,
+                    70,
+                    30,
+                    31,
+                    59
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    523,
+                    49,
+                    76,
+                    13,
+                    60
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Pixel Galaxy",
+            "artist": "Snail's House",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 150,
+            "release_date": "20250801",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
