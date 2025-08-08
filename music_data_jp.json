@@ -40140,7 +40140,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": ""
+            "key": "【需要解禁】[友人赛季]"
         }
     },
     {
@@ -64147,7 +64147,7 @@
                     44,
                     21
                 ],
-                "charter": "はっぴー"
+                "charter": "カマボコ君"
             }
         ],
         "basic_info": {
@@ -94732,7 +94732,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": ""
+            "key": "【需要解禁】[LEGEND]"
         }
     },
     {
@@ -97901,6 +97901,290 @@
             "genre": "ゲーム & バラエティ",
             "bpm": 186,
             "release_date": "20250521",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11856",
+        "title": "MIRA",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.0,
+            9.5,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    118,
+                    10,
+                    4,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    12,
+                    8,
+                    11,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    43,
+                    39,
+                    8,
+                    8
+                ],
+                "charter": "カマボコ君"
+            },
+            {
+                "notes": [
+                    311,
+                    40,
+                    49,
+                    87,
+                    53
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "MIRA",
+            "artist": "Kanaria",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 148,
+            "release_date": "20250808",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11857",
+        "title": "空回りライブラリ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            12.8
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    152,
+                    9,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    267,
+                    16,
+                    4,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    32,
+                    37,
+                    13,
+                    39
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    484,
+                    55,
+                    87,
+                    17,
+                    24
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "空回りライブラリ",
+            "artist": "雪乃イト",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 130,
+            "release_date": "20250808",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11858",
+        "title": "お呪い",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    92,
+                    7,
+                    6,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    205,
+                    8,
+                    6,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    210,
+                    78,
+                    10,
+                    18,
+                    21
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    382,
+                    16,
+                    73,
+                    39,
+                    39
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "お呪い",
+            "artist": "なきそ",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 115,
+            "release_date": "20250808",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11859",
+        "title": "ありきたりな恋の歌",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    208,
+                    8,
+                    4,
+                    18,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    343,
+                    19,
+                    9,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    411,
+                    89,
+                    25,
+                    28,
+                    24
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    503,
+                    53,
+                    122,
+                    136,
+                    117
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ありきたりな恋の歌",
+            "artist": "GYARI",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 180,
+            "release_date": "20250808",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
