@@ -28516,6 +28516,86 @@
             }
         ]
     },
+    "11874": {
+        "name": "NO ONE YES MAN",
+        "ver": "25518",
+        "composer": "MYUKKE.",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 7.7
+            },
+            {
+                "lv": 12.0
+            },
+            {
+                "lv": 13.9
+            }
+        ]
+    },
+    "11875": {
+        "name": "Leave All Behind",
+        "ver": "25518",
+        "composer": "rider",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.8
+            },
+            {
+                "lv": 11.2
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
+    "11876": {
+        "name": "Retribution ～ Cycle of Redemption ～",
+        "ver": "25518",
+        "composer": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 6.0
+            },
+            {
+                "lv": 8.0
+            },
+            {
+                "lv": 13.0
+            },
+            {
+                "lv": 14.4
+            }
+        ]
+    },
+    "11877": {
+        "name": "Luminescence",
+        "ver": "25517",
+        "composer": "米虾Fomiki & 初云CLoudie",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.6
+            },
+            {
+                "lv": 11.2
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
     "11878": {
         "name": "Pixel Galaxy",
         "ver": "25516",

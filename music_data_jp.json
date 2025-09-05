@@ -16697,7 +16697,7 @@
     },
     {
         "id": 383,
-        "title": "Link",
+        "title": "Link(COF)",
         "type": "SD",
         "comment": "",
         "ds": [
@@ -16752,7 +16752,7 @@
             }
         ],
         "basic_info": {
-            "title": "Link",
+            "title": "Link(COF)",
             "artist": "Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)",
             "genre": "niconico & ボーカロイド",
             "bpm": 198,
@@ -98977,6 +98977,290 @@
             "genre": "niconico & ボーカロイド",
             "bpm": 140,
             "release_date": "20250606",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11874,
+        "title": "NO ONE YES MAN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            12.0,
+            13.9
+        ],
+        "level": [
+            "3",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    150,
+                    11,
+                    8,
+                    6,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    260,
+                    14,
+                    7,
+                    28,
+                    1
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    45,
+                    60,
+                    11,
+                    40
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    515,
+                    73,
+                    81,
+                    92,
+                    66
+                ],
+                "charter": "鳩ホルダー & Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "NO ONE YES MAN",
+            "artist": "MYUKKE.",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 170,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11875,
+        "title": "Leave All Behind",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.8,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "3",
+            "6+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    127,
+                    11,
+                    4,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    15,
+                    8,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    46,
+                    38,
+                    26,
+                    38
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    501,
+                    39,
+                    48,
+                    60,
+                    36
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Leave All Behind",
+            "artist": "rider",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 150,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [Phigrosちほー]"
+        }
+    },
+    {
+        "id": 11876,
+        "title": "Retribution ～ Cycle of Redemption ～",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            13.0,
+            14.4
+        ],
+        "level": [
+            "6",
+            "8",
+            "13",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    336,
+                    6,
+                    8,
+                    17,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    341,
+                    28,
+                    6,
+                    49,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    640,
+                    57,
+                    36,
+                    40,
+                    29
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    726,
+                    100,
+                    93,
+                    64,
+                    105
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Retribution ～ Cycle of Redemption ～",
+            "artist": "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 112,
+            "release_date": "20250905",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [Phigrosちほー]"
+        }
+    },
+    {
+        "id": 11877,
+        "title": "Luminescence",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.6,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    22,
+                    4,
+                    7,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    20,
+                    16,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    78,
+                    61,
+                    46,
+                    61
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    599,
+                    40,
+                    72,
+                    129,
+                    42
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Luminescence",
+            "artist": "米虾Fomiki & 初云CLoudie",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 184,
+            "release_date": "20250905",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
