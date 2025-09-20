@@ -62991,10 +62991,10 @@
         "title": "[蔵]In Chaos",
         "type": "UTAGE",
         "longmusic": false,
-        "comment": "チャンさんは今日もアクセル全開",
+        "comment": "LET'S PARTY!",
         "cn_is_open": true,
         "intl_is_open": true,
-        "jp_is_open": true,
+        "jp_is_open": false,
         "ds": {
             "cn": [
                 14.7
@@ -63002,9 +63002,7 @@
             "intl": [
                 14.7
             ],
-            "jp": [
-                14.7
-            ]
+            "jp": []
         },
         "level": {
             "cn": [
@@ -63013,9 +63011,7 @@
             "intl": [
                 "14+?"
             ],
-            "jp": [
-                "14+?"
-            ]
+            "jp": []
         },
         "charts": [
             {
@@ -63033,7 +63029,7 @@
             "cn_key": "",
             "intl": "20240517",
             "intl_key": "",
-            "jp": "20231225",
+            "jp": "",
             "jp_key": ""
         },
         "version": {
@@ -63041,7 +63037,7 @@
             "cn_is_new": false,
             "intl": "maimai でらっくす BUDDiES",
             "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
+            "jp": "",
             "jp_is_new": false
         },
         "artist": "Hiro「Crackin’DJ」",
@@ -63121,7 +63117,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250712",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -63208,7 +63204,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250712",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -63309,7 +63305,7 @@
             "intl": "20250905",
             "intl_key": "【需要解禁】[盖章]",
             "jp": "20250411",
-            "jp_key": "【需要解禁】[友人赛季]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -63668,6 +63664,61 @@
         "artist": "SOUND HOLIC feat. Nana Takahashi",
         "genre": "宴会場",
         "bpm": 140
+    },
+    {
+        "id": 100207,
+        "title": "[蛸]時空を超えて久しぶり！",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "つなげたりして消すぷよ（令和最新版）",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                12.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "12+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    478,
+                    119,
+                    18,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+        "genre": "宴会場",
+        "bpm": 145
     },
     {
         "id": 100220,
@@ -64053,7 +64104,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[盖章]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[盖章]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -64736,7 +64787,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250801",
-            "jp_key": "【需要解禁】[课题曲] [niconicoDXnew]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -65192,6 +65243,97 @@
         "artist": "Last Note.",
         "genre": "niconico & ボーカロイド",
         "bpm": 145
+    },
+    {
+        "id": 10199,
+        "title": "チルノのパーフェクトさんすう教室",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.5,
+                9.7,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "9+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    147,
+                    9,
+                    4,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    12,
+                    4,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    186,
+                    122,
+                    19,
+                    26,
+                    9
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    457,
+                    43,
+                    107,
+                    49,
+                    37
+                ],
+                "charter": "まぐランド"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": "【需要解禁】[盖章]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+        "genre": "東方Project",
+        "bpm": 175
     },
     {
         "id": 10202,
@@ -66493,7 +66635,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250704",
-            "jp_key": "【需要解禁】[课题曲] [東方ProjectDXnew]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -67292,7 +67434,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250606",
-            "jp_key": "【需要解禁】[友人赛季]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -67393,7 +67535,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240912",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -68013,7 +68155,7 @@
             "intl": "20250328",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20241011",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -68176,7 +68318,7 @@
             "intl": "20250704",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20250124",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -69742,7 +69884,7 @@
             "intl": "20250411",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20241122",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -70278,7 +70420,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250712",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -141405,7 +141547,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240912",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -141506,7 +141648,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240912",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -141607,7 +141749,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[完美挑战曲] [?]",
             "jp": "20240912",
-            "jp_key": "【需要解禁】[完美挑战曲] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -141910,7 +142052,7 @@
             "intl": "20250523",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20241025",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -142011,7 +142153,7 @@
             "intl": "20250523",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20241025",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -142112,7 +142254,7 @@
             "intl": "20250523",
             "intl_key": "【需要解禁】[完美挑战曲] [?]",
             "jp": "20241025",
-            "jp_key": "【需要解禁】[完美挑战曲] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -142718,7 +142860,7 @@
             "intl": "20250227",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20250227",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -142819,7 +142961,7 @@
             "intl": "20250227",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20250227",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -142920,7 +143062,7 @@
             "intl": "20250227",
             "intl_key": "【需要解禁】[完美挑战曲] [?]",
             "jp": "20250227",
-            "jp_key": "【需要解禁】[完美挑战曲] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -143526,7 +143668,7 @@
             "intl": "20250620",
             "intl_key": "【需要解禁】[课题曲] [チュウニズム&オンゲキ]",
             "jp": "20250207",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -143627,7 +143769,7 @@
             "intl": "20250620",
             "intl_key": "【需要解禁】[课题曲] [チュウニズム&オンゲキ]",
             "jp": "20250207",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -146423,7 +146565,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20250110",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -146524,7 +146666,7 @@
             "intl": "20250116",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20250110",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -146625,7 +146767,7 @@
             "intl": "20250523",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20241206",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -147635,7 +147777,7 @@
             "intl": "20250704",
             "intl_key": "【需要解禁】[课题曲] [バラエティ]",
             "jp": "20250214",
-            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -148140,7 +148282,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[课题曲] [なないろちほー]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[课题曲] [なないろちほー]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -148241,7 +148383,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[课题曲] [なないろちほー]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[课题曲] [なないろちほー]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -148342,7 +148484,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[完美挑战曲] [なないろちほー]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[完美挑战曲] [なないろちほー]"
+            "jp_key": "【需要解禁】[完美挑战曲] [?]"
         },
         "version": {
             "cn": "",
@@ -148443,7 +148585,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[KALEIDXSCOPE] [黄の扉]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [黄の扉]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -148606,7 +148748,7 @@
             "intl": "20250801",
             "intl_key": "【需要解禁】[LEGEND]",
             "jp": "20250411",
-            "jp_key": "【需要解禁】[LEGEND]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -148697,7 +148839,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250509",
-            "jp_key": "【需要解禁】[课题曲] [ドラゴンちほー4]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -148788,7 +148930,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250509",
-            "jp_key": "【需要解禁】[课题曲] [ドラゴンちほー4]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -148879,7 +149021,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250509",
-            "jp_key": "【需要解禁】[完美挑战曲] [ドラゴンちほー4]"
+            "jp_key": "【需要解禁】[完美挑战曲] [?]"
         },
         "version": {
             "cn": "",
@@ -148970,7 +149112,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250509",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [赤の扉]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -149061,7 +149203,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250711",
-            "jp_key": "【需要解禁】[课题曲] [7sRefちほー4]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -149211,7 +149353,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250711",
-            "jp_key": "【需要解禁】[课题曲] [7sRefちほー4]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -149302,7 +149444,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250711",
-            "jp_key": "【需要解禁】[完美挑战曲] [7sRefちほー4]"
+            "jp_key": "【需要解禁】[完美挑战曲] [?]"
         },
         "version": {
             "cn": "",
@@ -149393,7 +149535,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250711",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [プリズムタワー]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -149496,7 +149638,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250712",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -149789,7 +149931,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250712",
-            "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -150274,7 +150416,7 @@
             "intl": "20250801",
             "intl_key": "【需要解禁】[课题曲] [CHUNITHMちほー4]",
             "jp": "20250716",
-            "jp_key": "【需要解禁】[课题曲] [CHUNITHMちほー4]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -150375,7 +150517,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[机台联动]",
             "jp": "20250716",
-            "jp_key": "【需要解禁】[机台联动]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -150577,7 +150719,7 @@
             "intl": "20250724",
             "intl_key": "【需要解禁】[课题曲] [NEEDY GIRL OVERDOSEちほー2]",
             "jp": "20250313",
-            "jp_key": "【需要解禁】[课题曲] [NEEDY GIRL OVERDOSEちほー2]"
+            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -154742,7 +154884,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250905",
-            "jp_key": "【需要解禁】[课题曲] [Phigrosちほー]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -154833,7 +154975,7 @@
             "intl": "",
             "intl_key": "",
             "jp": "20250905",
-            "jp_key": "【需要解禁】[课题曲] [Phigrosちほー]"
+            "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
@@ -155114,11 +155256,1569 @@
             "intl": "",
             "intl_is_new": false,
             "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
+            "jp_is_new": false
         },
         "artist": "縺､縺｡縺ｳ縺ｨ",
         "genre": "maimai",
         "bpm": 2147483647
+    },
+    {
+        "id": 11880,
+        "title": "CiRCLE CAMPAiGN",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.8,
+                11.0,
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "11",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    9,
+                    8,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    18,
+                    15,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    418,
+                    65,
+                    54,
+                    19,
+                    63
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    661,
+                    40,
+                    188,
+                    37,
+                    39
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "サツキ feat.天音かなた",
+        "genre": "maimai",
+        "bpm": 182
+    },
+    {
+        "id": 11881,
+        "title": "Magical Paradox",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                5.0,
+                8.5,
+                11.7,
+                13.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "5",
+                "8",
+                "11+",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    227,
+                    30,
+                    4,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    319,
+                    16,
+                    13,
+                    46,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    84,
+                    68,
+                    47,
+                    22
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    737,
+                    82,
+                    102,
+                    45,
+                    86
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": "【需要解禁】[课题曲] [トリコロちほー]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Mr.Asyu",
+        "genre": "maimai",
+        "bpm": 192
+    },
+    {
+        "id": 11882,
+        "title": "殿ッ！？ご乱心！？",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                6.0,
+                8.0,
+                12.7,
+                14.2
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "6",
+                "8",
+                "12+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": "【需要解禁】[完美挑战曲] [トリコロちほー]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Shu feat. 天羽しろっぷ",
+        "genre": "maimai",
+        "bpm": 200
+    },
+    {
+        "id": 11899,
+        "title": "イーヴィルガール",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.8,
+                11.2,
+                13.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "11",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    15,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    18,
+                    8,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    438,
+                    99,
+                    62,
+                    18,
+                    25
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    782,
+                    128,
+                    78,
+                    65,
+                    67
+                ],
+                "charter": "Luxizhel & 鳩ホルダー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": "【需要解禁】[机台联动]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Fushi feat.吉乃",
+        "genre": "オンゲキ & CHUNITHM",
+        "bpm": 180
+    },
+    {
+        "id": 11900,
+        "title": "Dazzle hop",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                6.0,
+                9.0,
+                12.8,
+                14.2
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "6",
+                "9",
+                "12+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    229,
+                    5,
+                    11,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    12,
+                    19,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    470,
+                    98,
+                    79,
+                    12,
+                    75
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    593,
+                    58,
+                    111,
+                    78,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": "【需要解禁】[机台联动]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Sampling Masters MEGA",
+        "genre": "オンゲキ & CHUNITHM",
+        "bpm": 220
+    },
+    {
+        "id": 11906,
+        "title": "Unwelcome School",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.2,
+                10.7,
+                12.2,
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7",
+                "10+",
+                "12",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    12,
+                    6,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    76,
+                    48,
+                    16,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    566,
+                    29,
+                    95,
+                    33,
+                    22
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    706,
+                    17,
+                    152,
+                    37,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+        "genre": "ゲーム & バラエティ",
+        "bpm": 180
+    },
+    {
+        "id": 11907,
+        "title": "彩りキャンバス",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.5,
+                10.2,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "10",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    88,
+                    13,
+                    2,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    16,
+                    8,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    28,
+                    30,
+                    20,
+                    15
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    333,
+                    28,
+                    56,
+                    22,
+                    27
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+        "genre": "ゲーム & バラエティ",
+        "bpm": 180
+    },
+    {
+        "id": 11908,
+        "title": "死ぬな！",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                7.5,
+                9.8,
+                13.3
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "7",
+                "9+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    19,
+                    4,
+                    19,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    11,
+                    7,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    48,
+                    43,
+                    15
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    457,
+                    32,
+                    64,
+                    58,
+                    30
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "こっちのけんと",
+        "genre": "POPS & アニメ",
+        "bpm": 220
+    },
+    {
+        "id": 11909,
+        "title": "どんぐりGAME",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                2.0,
+                6.5,
+                10.2,
+                13.6
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "2",
+                "6",
+                "10",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    13,
+                    4,
+                    10,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    207,
+                    19,
+                    7,
+                    28,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    91,
+                    33,
+                    39,
+                    20
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    326,
+                    13,
+                    189,
+                    57,
+                    23
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "こっちのけんと",
+        "genre": "POPS & アニメ",
+        "bpm": 130
+    },
+    {
+        "id": 11910,
+        "title": "君だったから",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.5,
+                9.8,
+                12.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "9+",
+                "12+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    132,
+                    8,
+                    5,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    219,
+                    8,
+                    8,
+                    28,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    300,
+                    43,
+                    27,
+                    19,
+                    25
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    316,
+                    34,
+                    76,
+                    40,
+                    67
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "中野家の五つ子",
+        "genre": "POPS & アニメ",
+        "bpm": 125
+    },
+    {
+        "id": 11911,
+        "title": "Overdose",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                1.0,
+                6.5,
+                9.7,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "1",
+                "6",
+                "9+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    84,
+                    10,
+                    3,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    181,
+                    8,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    12,
+                    32,
+                    12,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    336,
+                    23,
+                    88,
+                    6,
+                    15
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "なとり",
+        "genre": "POPS & アニメ",
+        "bpm": 118
+    },
+    {
+        "id": 11912,
+        "title": "Bring it on",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.5,
+                10.2,
+                13.4
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "10",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    10,
+                    6,
+                    10,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    233,
+                    10,
+                    10,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    31,
+                    40,
+                    29,
+                    56
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    572,
+                    84,
+                    87,
+                    59,
+                    22
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ROF-MAO",
+        "genre": "POPS & アニメ",
+        "bpm": 143
+    },
+    {
+        "id": 11913,
+        "title": "モニタリング",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.2,
+                10.7,
+                11.8,
+                13.4
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "10+",
+                "11+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    11,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    202,
+                    8,
+                    9,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    49,
+                    60,
+                    17,
+                    17
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    344,
+                    26,
+                    97,
+                    19,
+                    11
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    439,
+                    43,
+                    102,
+                    31,
+                    31
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "DECO*27",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 132
+    },
+    {
+        "id": 11914,
+        "title": "テトリス",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.0,
+                10.8,
+                12.0,
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7",
+                "10+",
+                "12",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    218,
+                    7,
+                    4,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    19,
+                    8,
+                    24,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    65,
+                    60,
+                    26,
+                    64
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    545,
+                    20,
+                    142,
+                    13,
+                    21
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    618,
+                    38,
+                    171,
+                    55,
+                    59
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "柊マグネタイト",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 170
+    },
+    {
+        "id": 11916,
+        "title": "有頂天ドリーマーズ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.2,
+                10.8,
+                13.1
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7",
+                "10+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    13,
+                    4,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    14,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    56,
+                    21,
+                    17,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    481,
+                    37,
+                    74,
+                    18,
+                    35
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "森羅万象",
+        "genre": "東方Project",
+        "bpm": 188
+    },
+    {
+        "id": 11917,
+        "title": "Eureka",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                7.7,
+                11.8,
+                14.1
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "7+",
+                "11+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    10,
+                    5,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    28,
+                    8,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    294,
+                    88,
+                    46,
+                    23,
+                    24
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    629,
+                    112,
+                    72,
+                    60,
+                    34
+                ],
+                "charter": "Luxizhel vs サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+        "genre": "ゲーム & バラエティ",
+        "bpm": 150
+    },
+    {
+        "id": 11918,
+        "title": "ニルヴの心臓",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                6.0,
+                8.0,
+                12.7,
+                14.3
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "6",
+                "8",
+                "12+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    278,
+                    8,
+                    12,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    15,
+                    8,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    506,
+                    97,
+                    18,
+                    43,
+                    9
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    585,
+                    111,
+                    72,
+                    33,
+                    79
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+        "genre": "ゲーム & バラエティ",
+        "bpm": 256
     },
     {
         "id": 110227,
@@ -155181,6 +156881,97 @@
         "artist": "t+pazolite",
         "genre": "宴会場",
         "bpm": 256
+    },
+    {
+        "id": 11951,
+        "title": "サイエンス",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.7,
+                10.0,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "10",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    162,
+                    13,
+                    8,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    12,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    359,
+                    72,
+                    47,
+                    42,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    530,
+                    61,
+                    93,
+                    32,
+                    34
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "MIMI",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 188
     },
     {
         "id": 110281,
@@ -155525,10 +157316,10 @@
         "title": "[右]The wheel to the right",
         "type": "UTAGE",
         "longmusic": false,
-        "comment": "インド人含め右に",
+        "comment": "LET'S PARTY!",
         "cn_is_open": true,
         "intl_is_open": true,
-        "jp_is_open": true,
+        "jp_is_open": false,
         "ds": {
             "cn": [
                 14.7
@@ -155536,9 +157327,7 @@
             "intl": [
                 14.7
             ],
-            "jp": [
-                14.7
-            ]
+            "jp": []
         },
         "level": {
             "cn": [
@@ -155547,9 +157336,7 @@
             "intl": [
                 "14+?"
             ],
-            "jp": [
-                "14+?"
-            ]
+            "jp": []
         },
         "charts": [
             {
@@ -155567,7 +157354,7 @@
             "cn_key": "",
             "intl": "20240705",
             "intl_key": "",
-            "jp": "20240229",
+            "jp": "",
             "jp_key": ""
         },
         "version": {
@@ -155575,7 +157362,7 @@
             "cn_is_new": false,
             "intl": "maimai でらっくす BUDDiES",
             "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
+            "jp": "",
             "jp_is_new": false
         },
         "artist": "Sampling Masters MEGA",
@@ -155587,10 +157374,10 @@
         "title": "[逆]KING is BACK!!",
         "type": "UTAGE",
         "longmusic": false,
-        "comment": "お前がBACKするんかーーーい!!",
+        "comment": "LET'S PARTY!",
         "cn_is_open": true,
         "intl_is_open": true,
-        "jp_is_open": true,
+        "jp_is_open": false,
         "ds": {
             "cn": [
                 13.7
@@ -155598,9 +157385,7 @@
             "intl": [
                 13.7
             ],
-            "jp": [
-                13.7
-            ]
+            "jp": []
         },
         "level": {
             "cn": [
@@ -155609,9 +157394,7 @@
             "intl": [
                 "13+?"
             ],
-            "jp": [
-                "13+?"
-            ]
+            "jp": []
         },
         "charts": [
             {
@@ -155629,7 +157412,7 @@
             "cn_key": "",
             "intl": "20240705",
             "intl_key": "",
-            "jp": "20240229",
+            "jp": "",
             "jp_key": ""
         },
         "version": {
@@ -155637,7 +157420,7 @@
             "cn_is_new": false,
             "intl": "maimai でらっくす BUDDiES",
             "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
+            "jp": "",
             "jp_is_new": false
         },
         "artist": "A-One",
@@ -157093,6 +158876,60 @@
         "bpm": 234
     },
     {
+        "id": 111545,
+        "title": "[餡]隠密あんみつDX",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "いい感じに同時押しするといい感じになる！",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                12.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "12+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    444,
+                    10,
+                    8,
+                    278
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
+        "genre": "宴会場",
+        "bpm": 155
+    },
+    {
         "id": 111557,
         "title": "[蛸]不機嫌なスリーカード",
         "type": "UTAGE",
@@ -157532,6 +159369,128 @@
         "artist": "南ノ南",
         "genre": "宴会場",
         "bpm": 220
+    },
+    {
+        "id": 111670,
+        "title": "[奏]のじゃロリック",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "のじゃロリックがはじまるぞ",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                13.0,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "13?",
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    577,
+                    66,
+                    73,
+                    17,
+                    110
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    581,
+                    62,
+                    75,
+                    23,
+                    83
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+        "genre": "宴会場",
+        "bpm": 160
+    },
+    {
+        "id": 111697,
+        "title": "[音]ラビットホール",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "～音取りほぼMAXバージョン～",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    956,
+                    19,
+                    120,
+                    32,
+                    68
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "DECO*27",
+        "genre": "宴会場",
+        "bpm": 173
     },
     {
         "id": 111714,
@@ -157984,6 +159943,61 @@
         "artist": "GYARI",
         "genre": "宴会場",
         "bpm": 180
+    },
+    {
+        "id": 111908,
+        "title": "[耐]死ぬな！",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "命はひとつ",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    438,
+                    44,
+                    64,
+                    65,
+                    61
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "こっちのけんと",
+        "genre": "宴会場",
+        "bpm": 220
     },
     {
         "id": 120227,

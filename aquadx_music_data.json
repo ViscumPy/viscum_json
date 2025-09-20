@@ -12235,6 +12235,26 @@
             }
         ]
     },
+    "10199": {
+        "name": "チルノのパーフェクトさんすう教室",
+        "ver": "26000",
+        "composer": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+        "genre": "東方Project",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 9.7
+            },
+            {
+                "lv": 13.0
+            }
+        ]
+    },
     "10202": {
         "name": "Grip & Break down !!",
         "ver": "22501",
@@ -27446,7 +27466,7 @@
     },
     "11821": {
         "name": "Ref:rain (for 7th Heaven)",
-        "ver": "25514",
+        "ver": "25513",
         "composer": "カモメサノエレクトリックオーケストラ include Limonène",
         "genre": "maimai",
         "notes": [
@@ -27546,7 +27566,7 @@
     },
     "11826": {
         "name": "Lover's Trick",
-        "ver": "25512",
+        "ver": "25511",
         "composer": "litmus*",
         "genre": "オンゲキCHUNITHM",
         "notes": [
@@ -27626,7 +27646,7 @@
     },
     "11830": {
         "name": "Tidal Wave",
-        "ver": "25515",
+        "ver": "25514",
         "composer": "D-Cee",
         "genre": "オンゲキCHUNITHM",
         "notes": [
@@ -28215,7 +28235,7 @@
     },
     "11859": {
         "name": "ありきたりな恋の歌",
-        "ver": "25517",
+        "ver": "25516",
         "composer": "GYARI",
         "genre": "niconicoボーカロイド",
         "notes": [
@@ -28295,7 +28315,7 @@
     },
     "11863": {
         "name": "三日月ステップ 2023",
-        "ver": "25511",
+        "ver": "25510",
         "composer": "r-906",
         "genre": "niconicoボーカロイド",
         "notes": [
@@ -28355,7 +28375,7 @@
     },
     "11866": {
         "name": "帝国少女",
-        "ver": "25518",
+        "ver": "25517",
         "composer": "R Sound Design",
         "genre": "niconicoボーカロイド",
         "notes": [
@@ -28438,7 +28458,7 @@
     },
     "11870": {
         "name": "BlackFlagBreaker!!",
-        "ver": "25510",
+        "ver": "25509",
         "composer": "社築 × sasakure.UK",
         "genre": "POPSアニメ",
         "notes": [
@@ -28498,7 +28518,7 @@
     },
     "11873": {
         "name": "抜錨",
-        "ver": "25509",
+        "ver": "25508",
         "composer": "ナナホシ管弦楽団",
         "genre": "niconicoボーカロイド",
         "notes": [
@@ -28578,7 +28598,7 @@
     },
     "11877": {
         "name": "Luminescence",
-        "ver": "25517",
+        "ver": "25518",
         "composer": "米虾Fomiki & 初云CLoudie",
         "genre": "ゲームバラエティ",
         "notes": [
@@ -28598,7 +28618,7 @@
     },
     "11878": {
         "name": "Pixel Galaxy",
-        "ver": "25516",
+        "ver": "25515",
         "composer": "Snail's House",
         "genre": "ゲームバラエティ",
         "notes": [
@@ -28618,7 +28638,7 @@
     },
     "11879": {
         "name": "Xaleid◆scopiX (2)",
-        "ver": "25513",
+        "ver": "25512",
         "composer": "xi",
         "genre": "maimai",
         "notes": [
@@ -28636,6 +28656,375 @@
             }
         ]
     },
+    "11880": {
+        "name": "CiRCLE CAMPAiGN",
+        "ver": "26000",
+        "composer": "サツキ feat.天音かなた",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 11.0
+            },
+            {
+                "lv": 13.7
+            }
+        ]
+    },
+    "11881": {
+        "name": "Magical Paradox",
+        "ver": "26000",
+        "composer": "Mr.Asyu",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 5.0
+            },
+            {
+                "lv": 8.5
+            },
+            {
+                "lv": 11.7
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
+    "11882": {
+        "name": "殿ッ！？ご乱心！？",
+        "ver": "26000",
+        "composer": "Shu feat. 天羽しろっぷ",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 6.0
+            },
+            {
+                "lv": 8.0
+            },
+            {
+                "lv": 12.7
+            },
+            {
+                "lv": 14.2
+            }
+        ]
+    },
+    "11899": {
+        "name": "イーヴィルガール",
+        "ver": "26000",
+        "composer": "Fushi feat.吉乃",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 11.2
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
+    "11900": {
+        "name": "Dazzle hop",
+        "ver": "26000",
+        "composer": "Sampling Masters MEGA",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 6.0
+            },
+            {
+                "lv": 9.0
+            },
+            {
+                "lv": 12.8
+            },
+            {
+                "lv": 14.2
+            }
+        ]
+    },
+    "11906": {
+        "name": "Unwelcome School",
+        "ver": "26000",
+        "composer": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.2
+            },
+            {
+                "lv": 10.7
+            },
+            {
+                "lv": 12.2
+            },
+            {
+                "lv": 14.0
+            }
+        ]
+    },
+    "11907": {
+        "name": "彩りキャンバス",
+        "ver": "26000",
+        "composer": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 10.2
+            },
+            {
+                "lv": 13.0
+            }
+        ]
+    },
+    "11908": {
+        "name": "死ぬな！",
+        "ver": "26000",
+        "composer": "こっちのけんと",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 7.5
+            },
+            {
+                "lv": 9.8
+            },
+            {
+                "lv": 13.3
+            }
+        ]
+    },
+    "11909": {
+        "name": "どんぐりGAME",
+        "ver": "26000",
+        "composer": "こっちのけんと",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 2.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 10.2
+            },
+            {
+                "lv": 13.6
+            }
+        ]
+    },
+    "11910": {
+        "name": "君だったから",
+        "ver": "26000",
+        "composer": "中野家の五つ子",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 9.8
+            },
+            {
+                "lv": 12.8
+            }
+        ]
+    },
+    "11911": {
+        "name": "Overdose",
+        "ver": "26000",
+        "composer": "なとり",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 1.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 9.7
+            },
+            {
+                "lv": 13.0
+            }
+        ]
+    },
+    "11912": {
+        "name": "Bring it on",
+        "ver": "26000",
+        "composer": "ROF-MAO",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 10.2
+            },
+            {
+                "lv": 13.4
+            }
+        ]
+    },
+    "11913": {
+        "name": "モニタリング",
+        "ver": "26000",
+        "composer": "DECO*27",
+        "genre": "niconicoボーカロイド",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.2
+            },
+            {
+                "lv": 10.7
+            },
+            {
+                "lv": 11.8
+            },
+            {
+                "lv": 13.4
+            }
+        ]
+    },
+    "11914": {
+        "name": "テトリス",
+        "ver": "26000",
+        "composer": "柊マグネタイト",
+        "genre": "niconicoボーカロイド",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.0
+            },
+            {
+                "lv": 10.8
+            },
+            {
+                "lv": 12.0
+            },
+            {
+                "lv": 13.7
+            }
+        ]
+    },
+    "11916": {
+        "name": "有頂天ドリーマーズ",
+        "ver": "26000",
+        "composer": "森羅万象",
+        "genre": "東方Project",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.2
+            },
+            {
+                "lv": 10.8
+            },
+            {
+                "lv": 13.1
+            }
+        ]
+    },
+    "11917": {
+        "name": "Eureka",
+        "ver": "26000",
+        "composer": "sasakure.UK × ArmyTom (w/z Bitplane)",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 7.7
+            },
+            {
+                "lv": 11.8
+            },
+            {
+                "lv": 14.1
+            }
+        ]
+    },
+    "11918": {
+        "name": "ニルヴの心臓",
+        "ver": "26000",
+        "composer": "TJ.hangneil + Atomic Sphere feat.Annabel",
+        "genre": "ゲームバラエティ",
+        "notes": [
+            {
+                "lv": 6.0
+            },
+            {
+                "lv": 8.0
+            },
+            {
+                "lv": 12.7
+            },
+            {
+                "lv": 14.3
+            }
+        ]
+    },
+    "11951": {
+        "name": "サイエンス",
+        "ver": "26000",
+        "composer": "MIMI",
+        "genre": "niconicoボーカロイド",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.7
+            },
+            {
+                "lv": 10.0
+            },
+            {
+                "lv": 13.0
+            }
+        ]
+    },
     "100018": {
         "name": "[協]Love You",
         "ver": "24000",
@@ -28644,17 +29033,6 @@
         "notes": [
             {
                 "lv": 12.0
-            }
-        ]
-    },
-    "100022": {
-        "name": "[蔵]In Chaos",
-        "ver": "24010",
-        "composer": "Hiro「Crackin’DJ」",
-        "genre": "宴会場",
-        "notes": [
-            {
-                "lv": 14.7
             }
         ]
     },
@@ -28677,6 +29055,17 @@
         "notes": [
             {
                 "lv": 13.0
+            }
+        ]
+    },
+    "100207": {
+        "name": "[蛸]時空を超えて久しぶり！",
+        "ver": "26000",
+        "composer": "アルル(CV 園崎未恵)「ぷよぷよ」",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 12.7
             }
         ]
     },
@@ -28900,28 +29289,6 @@
             }
         ]
     },
-    "110606": {
-        "name": "[右]The wheel to the right",
-        "ver": "24015",
-        "composer": "Sampling Masters MEGA",
-        "genre": "宴会場",
-        "notes": [
-            {
-                "lv": 14.7
-            }
-        ]
-    },
-    "110631": {
-        "name": "[逆]KING is BACK!!",
-        "ver": "24015",
-        "composer": "A-One",
-        "genre": "宴会場",
-        "notes": [
-            {
-                "lv": 13.7
-            }
-        ]
-    },
     "110647": {
         "name": "[協]エイリアンエイリアン",
         "ver": "24500",
@@ -29131,6 +29498,17 @@
             }
         ]
     },
+    "111545": {
+        "name": "[餡]隠密あんみつDX",
+        "ver": "26000",
+        "composer": "カルロス袴田 feat. 日南めい, 古川由彩",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 12.7
+            }
+        ]
+    },
     "111557": {
         "name": "[蛸]不機嫌なスリーカード",
         "ver": "25006",
@@ -29208,6 +29586,28 @@
             }
         ]
     },
+    "111670": {
+        "name": "[奏]のじゃロリック",
+        "ver": "26000",
+        "composer": "なみぐる feat.ちょこ 桃寝ちのい",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 13.0
+            }
+        ]
+    },
+    "111697": {
+        "name": "[音]ラビットホール",
+        "ver": "26000",
+        "composer": "DECO*27",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 13.7
+            }
+        ]
+    },
     "111714": {
         "name": "[匿]匿名M",
         "ver": "25500",
@@ -29282,6 +29682,17 @@
         "notes": [
             {
                 "lv": 13.7
+            }
+        ]
+    },
+    "111908": {
+        "name": "[耐]死ぬな！",
+        "ver": "26000",
+        "composer": "こっちのけんと",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 13.0
             }
         ]
     },
