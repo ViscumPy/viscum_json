@@ -39268,6 +39268,77 @@
         }
     },
     {
+        "id": 10367,
+        "title": "Dragoon",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    129,
+                    10,
+                    4,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    252,
+                    16,
+                    10,
+                    28,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    43,
+                    54,
+                    36,
+                    29
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    482,
+                    43,
+                    108,
+                    48,
+                    26
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Dragoon",
+            "artist": "Shandy kubota",
+            "genre": "maimai",
+            "bpm": 175,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[盖章]"
+        }
+    },
+    {
         "id": 10375,
         "title": "One Step Ahead",
         "type": "DX",
@@ -91081,6 +91152,290 @@
         }
     },
     {
+        "id": 11811,
+        "title": "概して過誤",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    181,
+                    13,
+                    5,
+                    17,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    306,
+                    16,
+                    14,
+                    29,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    318,
+                    69,
+                    43,
+                    18,
+                    53
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    608,
+                    52,
+                    78,
+                    19,
+                    43
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "概して過誤",
+            "artist": "isonosuke feat.知声",
+            "genre": "maimai",
+            "bpm": 170,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [ドラゴンちほー4]"
+        }
+    },
+    {
+        "id": 11812,
+        "title": "Unfinished Epic",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.7,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    247,
+                    11,
+                    4,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    405,
+                    14,
+                    12,
+                    20,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    427,
+                    63,
+                    77,
+                    38,
+                    50
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    584,
+                    46,
+                    126,
+                    71,
+                    76
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Unfinished Epic",
+            "artist": "SLAVE.V-V-R feat.Sor△",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [ドラゴンちほー4]"
+        }
+    },
+    {
+        "id": 11813,
+        "title": "忙シー日",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.9,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    139,
+                    12,
+                    7,
+                    8,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    298,
+                    16,
+                    14,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    280,
+                    112,
+                    47,
+                    13,
+                    77
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    683,
+                    36,
+                    140,
+                    49,
+                    54
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "忙シー日",
+            "artist": "原口沙輔, 式部めぐり",
+            "genre": "maimai",
+            "bpm": 150,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[完美挑战曲] [ドラゴンちほー4]"
+        }
+    },
+    {
+        "id": 11814,
+        "title": "FLΛME/FRΦST",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            12.9,
+            14.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    12,
+                    6,
+                    8,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    297,
+                    20,
+                    10,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    424,
+                    31,
+                    63,
+                    19,
+                    62
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    687,
+                    46,
+                    73,
+                    118,
+                    122
+                ],
+                "charter": "SΛFΛRI/RΦCHER"
+            }
+        ],
+        "basic_info": {
+            "title": "FLΛME/FRΦST",
+            "artist": "FANTAGIRAFF",
+            "genre": "maimai",
+            "bpm": 174,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[KALEIDXSCOPE] [赤の扉]"
+        }
+    },
+    {
         "id": 11822,
         "title": "Supersonic Generation",
         "type": "DX",
@@ -91217,6 +91572,219 @@
             "genre": "オンゲキ & CHUNITHM",
             "bpm": 222,
             "release_date": "20250724",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11824,
+        "title": "なんかノイズにきこえる",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            9.7,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    210,
+                    9,
+                    4,
+                    6,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    316,
+                    16,
+                    10,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    416,
+                    39,
+                    47,
+                    6,
+                    36
+                ],
+                "charter": "じゃこレモン"
+            },
+            {
+                "notes": [
+                    661,
+                    37,
+                    135,
+                    11,
+                    49
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "なんかノイズにきこえる",
+            "artist": "HaNaMiNa feat.Hana",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 160,
+            "release_date": "20251017",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11825,
+        "title": "JIGOKU STATION CENTRAL GATE",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.4,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    227,
+                    9,
+                    4,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    14,
+                    12,
+                    26,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    447,
+                    59,
+                    72,
+                    6,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    725,
+                    72,
+                    110,
+                    56,
+                    55
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "JIGOKU STATION CENTRAL GATE",
+            "artist": "鬱P feat.000",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 160,
+            "release_date": "20251017",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[机台联动]"
+        }
+    },
+    {
+        "id": 11826,
+        "title": "Lover's Trick",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    12,
+                    6,
+                    13,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    212,
+                    16,
+                    5,
+                    21,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    245,
+                    82,
+                    46,
+                    35,
+                    34
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    520,
+                    88,
+                    37,
+                    85,
+                    18
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Lover's Trick",
+            "artist": "litmus*",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 130,
+            "release_date": "20251017",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
@@ -92886,6 +93454,218 @@
             "genre": "ゲーム & バラエティ",
             "bpm": 180,
             "release_date": "20250822",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11850,
+        "title": "あいたい星人",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            9.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    175,
+                    11,
+                    4,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    18,
+                    13,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    379,
+                    76,
+                    50,
+                    17,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    519,
+                    62,
+                    103,
+                    11,
+                    57
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "あいたい星人",
+            "artist": "DECO*27",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 150,
+            "release_date": "20251003",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11851,
+        "title": "ハオ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.0,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    155,
+                    11,
+                    4,
+                    7,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    288,
+                    14,
+                    7,
+                    27,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    27,
+                    21,
+                    24,
+                    38
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    442,
+                    28,
+                    136,
+                    76,
+                    70
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "ハオ",
+            "artist": "DECO*27",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 176,
+            "release_date": "20251003",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11852,
+        "title": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.5,
+            12.5
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "12"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    131,
+                    11,
+                    6,
+                    6,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    247,
+                    12,
+                    9,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    250,
+                    39,
+                    22,
+                    43
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    294,
+                    63,
+                    55,
+                    28,
+                    50
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 160,
+            "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
@@ -94991,6 +95771,41 @@
         }
     },
     {
+        "id": 111628,
+        "title": "[逆]WE'RE BACK!!",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            12.7
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    489,
+                    47,
+                    56,
+                    26,
+                    30
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[逆]WE'RE BACK!!",
+            "artist": "Zekk",
+            "genre": "宴会場",
+            "bpm": 185,
+            "release_date": "20251017",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 111636,
         "title": "[奏]さくゆいたいそう",
         "type": "UTAGE",
@@ -95201,6 +96016,41 @@
         }
     },
     {
+        "id": 111852,
+        "title": "[好]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    689,
+                    61,
+                    123,
+                    28,
+                    25
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[好]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 120227,
         "title": "[r]Garakuta Doll Play",
         "type": "UTAGE",
@@ -95231,6 +96081,41 @@
             "release_date": "20240725",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 121852,
+        "title": "[譜]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    574,
+                    51,
+                    119,
+                    32,
+                    55
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[譜]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
             "key": ""
         }
     },
@@ -95269,6 +96154,41 @@
         }
     },
     {
+        "id": 131852,
+        "title": "[面]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            14.0
+        ],
+        "level": [
+            "14?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    533,
+                    70,
+                    115,
+                    73,
+                    69
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[面]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 140227,
         "title": "[某]Garakuta Doll Play",
         "type": "UTAGE",
@@ -95299,6 +96219,111 @@
             "release_date": "20240725",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 141852,
+        "title": "[発]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    487,
+                    52,
+                    153,
+                    5,
+                    32
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[発]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 151852,
+        "title": "[表]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    399,
+                    75,
+                    102,
+                    79,
+                    30
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[表]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 161852,
+        "title": "[龍]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    545,
+                    62,
+                    80,
+                    5,
+                    15
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[龍]好きな惣菜発表ドラゴン",
+            "artist": "ンバヂ",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20250926",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
             "key": ""
         }
     }
