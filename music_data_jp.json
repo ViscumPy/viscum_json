@@ -43691,6 +43691,77 @@
         }
     },
     {
+        "id": 10674,
+        "title": "Magical Flavor",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.0,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    139,
+                    9,
+                    3,
+                    20,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    190,
+                    13,
+                    4,
+                    12,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    364,
+                    39,
+                    10,
+                    14,
+                    19
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    375,
+                    56,
+                    55,
+                    41,
+                    20
+                ],
+                "charter": "きょむりん"
+            }
+        ],
+        "basic_info": {
+            "title": "Magical Flavor",
+            "artist": "DECO*27 feat.Tia",
+            "genre": "maimai",
+            "bpm": 98,
+            "release_date": "20250926",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 10690,
         "title": "ダンスロボットダンス",
         "type": "DX",
@@ -100716,6 +100787,148 @@
             "genre": "ゲーム & バラエティ",
             "bpm": 256,
             "release_date": "20250918",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11919,
+        "title": "エンジェル ドリーム",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    18,
+                    4,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    19,
+                    12,
+                    7,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    407,
+                    44,
+                    48,
+                    21,
+                    19
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    56,
+                    101,
+                    24,
+                    61
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "エンジェル ドリーム",
+            "artist": "「太鼓の達人」より",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 180,
+            "release_date": "20250926",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11920,
+        "title": "Hurtling Boys",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    12,
+                    6,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    92,
+                    79,
+                    3,
+                    59
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    694,
+                    76,
+                    92,
+                    38,
+                    31
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Hurtling Boys",
+            "artist": "さだきち イシカダス「太鼓の達人」より",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 195,
+            "release_date": "20250926",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""
