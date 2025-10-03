@@ -174334,6 +174334,188 @@
         "bpm": 195
     },
     {
+        "id": 11921,
+        "title": "しゅ～しん？変身☆ハカイシンzzZ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                8.0,
+                10.7,
+                13.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "8",
+                "10+",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    14,
+                    4,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    305,
+                    26,
+                    12,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    87,
+                    46,
+                    38,
+                    71
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    524,
+                    56,
+                    92,
+                    105,
+                    126
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251003",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "YOFUKASHi Sound Team feat.編井うも",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 180
+    },
+    {
+        "id": 11922,
+        "title": "命テステス",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                8.0,
+                11.2,
+                13.6
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "8",
+                "11",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    13,
+                    4,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    10,
+                    12,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    89,
+                    46,
+                    19,
+                    17
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    289,
+                    33,
+                    108,
+                    71,
+                    8
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251003",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ぱりぱりさらうどん",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 240
+    },
+    {
         "id": 110227,
         "title": "[J]Garakuta Doll Play",
         "type": "UTAGE",
@@ -174394,6 +174576,255 @@
         "artist": "t+pazolite",
         "genre": "宴会場",
         "bpm": 256
+    },
+    {
+        "id": 11923,
+        "title": "拝啓、最高の思い出たち",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.0,
+                9.2,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "9",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    137,
+                    11,
+                    6,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    195,
+                    10,
+                    6,
+                    26,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    278,
+                    46,
+                    16,
+                    18,
+                    19
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    528,
+                    48,
+                    75,
+                    38,
+                    28
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251003",
+            "jp_key": "【需要解禁】[课题曲] [FEAT CONTESTちほー]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ヤレギノ",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 124
+    },
+    {
+        "id": 11924,
+        "title": "おべんきょうたいむ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                5.0,
+                7.8,
+                12.4,
+                14.1
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "5",
+                "7+",
+                "12",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    211,
+                    13,
+                    7,
+                    13,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    16,
+                    6,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    410,
+                    103,
+                    56,
+                    19,
+                    65
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    626,
+                    96,
+                    127,
+                    66,
+                    91
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251003",
+            "jp_key": "【需要解禁】[课题曲] [FEAT CONTESTちほー]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "litmus*",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 165
+    },
+    {
+        "id": 11925,
+        "title": "るろうらんる",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.8,
+                11.8,
+                14.3
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "11+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [],
+                "charter": "るしえる"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251003",
+            "jp_key": "【需要解禁】[完美挑战曲] [FEAT CONTESTちほー]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ちから",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 156
     },
     {
         "id": 11951,
