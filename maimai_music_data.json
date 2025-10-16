@@ -75047,6 +75047,97 @@
         "bpm": 100
     },
     {
+        "id": 10077,
+        "title": "怪盗Rのテーマ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.2,
+                10.5,
+                13.2
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "10",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    11,
+                    4,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    226,
+                    12,
+                    8,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    65,
+                    46,
+                    9,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    423,
+                    67,
+                    85,
+                    33,
+                    39
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": "【需要解禁】[课题曲] [バラエティDXnew1曲(Lock)追加]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」",
+        "genre": "ゲーム & バラエティ",
+        "bpm": 147
+    },
+    {
         "id": 100199,
         "title": "[蛸]チルノのパーフェクトさんすう教室",
         "type": "UTAGE",
@@ -172843,6 +172934,188 @@
         "bpm": 200
     },
     {
+        "id": 11883,
+        "title": "廃墟にいますキャンペーン",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                5.0,
+                8.0,
+                10.8,
+                13.9
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "5",
+                "8",
+                "10+",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    235,
+                    18,
+                    3,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    604,
+                    53,
+                    153,
+                    33,
+                    34
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "吉田夜世 feat.ちっく。",
+        "genre": "maimai",
+        "bpm": 215
+    },
+    {
+        "id": 11884,
+        "title": "Customized Justice",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                6.0,
+                8.8,
+                13.0,
+                14.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "6",
+                "8+",
+                "13",
+                "14+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    758,
+                    93,
+                    62,
+                    71,
+                    92
+                ],
+                "charter": "サファ太 vs じゃこレモン"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Kobaryo",
+        "genre": "maimai",
+        "bpm": 292
+    },
+    {
         "id": 11899,
         "title": "イーヴィルガール",
         "type": "DX",
@@ -174791,21 +175064,21 @@
         "charts": [
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    169,
+                    13,
+                    4,
+                    7,
+                    9
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    251,
+                    8,
+                    7,
+                    26,
+                    8
                 ],
                 "charter": "-"
             },
@@ -174849,6 +175122,188 @@
         "artist": "ちから",
         "genre": "niconico & ボーカロイド",
         "bpm": 156
+    },
+    {
+        "id": 11926,
+        "title": "はじまりの未来",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                6.5,
+                10.2,
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "6",
+                "10",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    102,
+                    17,
+                    5,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    224,
+                    18,
+                    8,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    39,
+                    27,
+                    8,
+                    27
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    335,
+                    50,
+                    62,
+                    121,
+                    55
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 156
+    },
+    {
+        "id": 11927,
+        "title": "Worlders",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                2.0,
+                6.5,
+                9.8,
+                12.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "2",
+                "6",
+                "9+",
+                "12+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    106,
+                    9,
+                    4,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    181,
+                    16,
+                    6,
+                    32,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    34,
+                    35,
+                    5,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    382,
+                    17,
+                    74,
+                    3,
+                    56
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 137
     },
     {
         "id": 11951,
@@ -175864,6 +176319,61 @@
         "artist": "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)",
         "genre": "宴会場",
         "bpm": 183
+    },
+    {
+        "id": 111188,
+        "title": "[藍]絶え間なく藍色",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "絶え間なく青色",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    505,
+                    2,
+                    109,
+                    35,
+                    1
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "獅子志司",
+        "genre": "宴会場",
+        "bpm": 125
     },
     {
         "id": 111222,
@@ -177796,6 +178306,61 @@
             "jp_is_new": false
         },
         "artist": "原口沙輔 feat.重音テト",
+        "genre": "宴会場",
+        "bpm": 150
+    },
+    {
+        "id": 111783,
+        "title": "[音]snooze",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "～音取りほぼMAXバージョン～",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    831,
+                    70,
+                    64,
+                    32,
+                    55
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251016",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "wotaku feat.SHIKI",
         "genre": "宴会場",
         "bpm": 150
     },
