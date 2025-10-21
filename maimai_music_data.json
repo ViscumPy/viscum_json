@@ -78366,11 +78366,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                6.5,
+                10.7,
+                13.3
+            ],
             "jp": [
                 3.0,
                 6.5,
@@ -78380,7 +78385,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "6",
+                "10+",
+                "13"
+            ],
             "jp": [
                 "3",
                 "6",
@@ -78433,16 +78443,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[盖章]",
             "jp": "20250704",
             "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171445,11 +171455,17 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                7.8,
+                10.5,
+                13.0,
+                13.7
+            ],
             "jp": [
                 3.0,
                 7.8,
@@ -171460,7 +171476,13 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "7+",
+                "10",
+                "13",
+                "13+"
+            ],
             "jp": [
                 "3",
                 "7+",
@@ -171524,7 +171546,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251030",
             "intl_key": "",
             "jp": "20250620",
             "jp_key": ""
@@ -171532,8 +171554,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171548,11 +171570,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                6.5,
+                9.7,
+                13.3
+            ],
             "jp": [
                 3.0,
                 6.5,
@@ -171562,7 +171589,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "6",
+                "9+",
+                "13"
+            ],
             "jp": [
                 "3",
                 "6",
@@ -171615,7 +171647,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251030",
             "intl_key": "",
             "jp": "20250620",
             "jp_key": ""
@@ -171623,8 +171655,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171639,11 +171671,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                7.7,
+                10.8,
+                13.6
+            ],
             "jp": [
                 4.0,
                 7.7,
@@ -171653,7 +171690,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "7+",
+                "10+",
+                "13+"
+            ],
             "jp": [
                 "4",
                 "7+",
@@ -171706,7 +171748,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251030",
             "intl_key": "",
             "jp": "20250620",
             "jp_key": ""
@@ -171714,8 +171756,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171730,11 +171772,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                8.0,
+                11.0,
+                13.8
+            ],
             "jp": [
                 4.0,
                 8.0,
@@ -171744,7 +171791,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "8",
+                "11",
+                "13+"
+            ],
             "jp": [
                 "4",
                 "8",
@@ -171797,7 +171849,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251030",
             "intl_key": "",
             "jp": "20250620",
             "jp_key": ""
@@ -171805,8 +171857,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -173117,6 +173169,97 @@
         "artist": "Kobaryo",
         "genre": "maimai",
         "bpm": 292
+    },
+    {
+        "id": 11885,
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [
+                6.0,
+                9.0,
+                13.2,
+                14.8
+            ],
+            "jp": []
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "6",
+                "9",
+                "13",
+                "14+"
+            ],
+            "jp": []
+        },
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    16,
+                    10,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    12,
+                    10,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    655,
+                    70,
+                    22,
+                    34,
+                    27
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    823,
+                    72,
+                    37,
+                    110,
+                    150
+                ],
+                "charter": "Safari"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20251030",
+            "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
+            "jp": "",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "",
+            "jp_is_new": false
+        },
+        "artist": "かめりあ",
+        "genre": "maimai",
+        "bpm": 132
     },
     {
         "id": 11899,

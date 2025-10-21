@@ -38915,6 +38915,77 @@
         }
     },
     {
+        "id": 10303,
+        "title": "Endless, Sleepless Night",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    157,
+                    9,
+                    4,
+                    8,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    227,
+                    17,
+                    6,
+                    27,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    35,
+                    37,
+                    20,
+                    25
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    557,
+                    34,
+                    95,
+                    13,
+                    33
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Endless, Sleepless Night",
+            "artist": "samfree feat.(V)・∀・(V)かにぱん。(A-ONE)",
+            "genre": "東方Project",
+            "bpm": 165,
+            "release_date": "20251114",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[盖章]"
+        }
+    },
+    {
         "id": 10315,
         "title": "深海少女",
         "type": "DX",
@@ -93675,6 +93746,302 @@
         }
     },
     {
+        "id": 11867,
+        "title": "うぇいびー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.8,
+            10.5,
+            13.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    185,
+                    12,
+                    4,
+                    20,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    355,
+                    10,
+                    16,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    370,
+                    72,
+                    37,
+                    29,
+                    37
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    580,
+                    44,
+                    133,
+                    35,
+                    47
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    629,
+                    48,
+                    176,
+                    23,
+                    59
+                ],
+                "charter": "三枝明那とはっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "うぇいびー",
+            "artist": "三枝明那",
+            "genre": "POPS & アニメ",
+            "bpm": 200,
+            "release_date": "20251030",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11868,
+        "title": "RED",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    11,
+                    6,
+                    8,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    253,
+                    12,
+                    12,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    317,
+                    31,
+                    27,
+                    16,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    385,
+                    36,
+                    60,
+                    65,
+                    57
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "RED",
+            "artist": "三枝明那",
+            "genre": "POPS & アニメ",
+            "bpm": 168,
+            "release_date": "20251030",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11869,
+        "title": "ホラフキパペット",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    191,
+                    12,
+                    8,
+                    7,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    16,
+                    6,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    390,
+                    49,
+                    28,
+                    26,
+                    37
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    457,
+                    54,
+                    126,
+                    80,
+                    39
+                ],
+                "charter": "メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "ホラフキパペット",
+            "artist": "七次元生徒会！",
+            "genre": "POPS & アニメ",
+            "bpm": 205,
+            "release_date": "20251030",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11870,
+        "title": "BlackFlagBreaker!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    186,
+                    9,
+                    5,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    349,
+                    12,
+                    15,
+                    26,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    406,
+                    50,
+                    50,
+                    41,
+                    42
+                ],
+                "charter": "鳩ホルダー"
+            },
+            {
+                "notes": [
+                    693,
+                    112,
+                    124,
+                    27,
+                    42
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "BlackFlagBreaker!!",
+            "artist": "社築 × sasakure.UK",
+            "genre": "POPS & アニメ",
+            "bpm": 163,
+            "release_date": "20251030",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 11871,
         "title": "クーネル・エンゲイザー",
         "type": "DX",
@@ -93885,6 +94252,77 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": 11885,
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            13.2,
+            14.8
+        ],
+        "level": [
+            "6",
+            "9",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    16,
+                    10,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    12,
+                    10,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    655,
+                    70,
+                    22,
+                    34,
+                    27
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    823,
+                    72,
+                    37,
+                    110,
+                    150
+                ],
+                "charter": "Safari"
+            }
+        ],
+        "basic_info": {
+            "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+            "artist": "かめりあ",
+            "genre": "maimai",
+            "bpm": 132,
+            "release_date": "20251030",
+            "from": "maimai でらっくす PRiSM PLUS",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         }
     },
     {
