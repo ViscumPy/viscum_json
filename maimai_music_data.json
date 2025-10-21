@@ -173178,7 +173178,7 @@
         "comment": "",
         "cn_is_open": false,
         "intl_is_open": true,
-        "jp_is_open": false,
+        "jp_is_open": true,
         "ds": {
             "cn": [],
             "intl": [
@@ -173187,7 +173187,12 @@
                 13.2,
                 14.8
             ],
-            "jp": []
+            "jp": [
+                6.0,
+                9.0,
+                13.2,
+                14.8
+            ]
         },
         "level": {
             "cn": [],
@@ -173197,7 +173202,12 @@
                 "13",
                 "14+"
             ],
-            "jp": []
+            "jp": [
+                "6",
+                "9",
+                "13",
+                "14+"
+            ]
         },
         "charts": [
             {
@@ -173246,16 +173256,16 @@
             "cn_key": "",
             "intl": "20251030",
             "intl_key": "【需要解禁】KOP7th予選楽曲解禁",
-            "jp": "",
-            "jp_key": ""
+            "jp": "20251030",
+            "jp_key": "【需要解禁】KOP7th予選楽曲解禁"
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
             "intl": "maimai でらっくす PRiSM PLUS",
             "intl_is_new": true,
-            "jp": "",
-            "jp_is_new": false
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
         },
         "artist": "かめりあ",
         "genre": "maimai",
