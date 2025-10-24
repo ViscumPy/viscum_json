@@ -77371,11 +77371,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                7.2,
+                10.0,
+                13.4
+            ],
             "intl": [
                 5.0,
                 7.2,
@@ -77390,7 +77395,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "7",
+                "10",
+                "13"
+            ],
             "intl": [
                 "5",
                 "7",
@@ -77447,16 +77457,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[盖章]",
             "intl": "20241004",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240607",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153123,11 +153133,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                7.0,
+                10.8,
+                13.7
+            ],
             "intl": [
                 5.0,
                 7.0,
@@ -153142,7 +153157,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "7",
+                "10+",
+                "13+"
+            ],
             "intl": [
                 "5",
                 "7",
@@ -153199,16 +153219,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [天界ちほー7]",
             "intl": "20241206",
             "intl_key": "",
             "jp": "20240802",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153224,11 +153244,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                6.8,
+                11.0,
+                13.5
+            ],
             "intl": [
                 3.0,
                 6.8,
@@ -153243,7 +153268,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "6+",
+                "11",
+                "13"
+            ],
             "intl": [
                 "3",
                 "6+",
@@ -153300,16 +153330,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [天界ちほー7]",
             "intl": "20241206",
             "intl_key": "",
             "jp": "20240802",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153325,11 +153355,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                8.5,
+                12.5,
+                14.5
+            ],
             "intl": [
                 5.0,
                 8.5,
@@ -153344,7 +153379,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "8",
+                "12",
+                "14"
+            ],
             "intl": [
                 "5",
                 "8",
@@ -153401,16 +153441,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [天界ちほー7]",
             "intl": "20241206",
             "intl_key": "",
             "jp": "20240802",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153426,11 +153466,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                6.0,
+                9.0,
+                12.9,
+                14.8
+            ],
             "intl": [
                 6.0,
                 9.0,
@@ -153445,7 +153490,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "6",
+                "9",
+                "12+",
+                "14+"
+            ],
             "intl": [
                 "6",
                 "9",
@@ -153501,16 +153551,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[完美挑战曲] [天界ちほー7]",
             "intl": "20241206",
             "intl_key": "",
             "jp": "20240802",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153748,11 +153798,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                4.0,
+                7.5,
+                10.7,
+                13.5
+            ],
             "intl": [
                 4.0,
                 7.5,
@@ -153767,7 +153822,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "4",
+                "7",
+                "10+",
+                "13"
+            ],
             "intl": [
                 "4",
                 "7",
@@ -153824,7 +153884,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241129",
             "intl_key": "",
@@ -153832,8 +153892,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153849,11 +153909,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                7.2,
+                11.2,
+                13.7
+            ],
             "intl": [
                 5.0,
                 7.2,
@@ -153868,7 +153933,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "7",
+                "11",
+                "13+"
+            ],
             "intl": [
                 "5",
                 "7",
@@ -153925,7 +153995,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241129",
             "intl_key": "",
@@ -153933,8 +154003,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -153950,11 +154020,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                6.5,
+                10.8,
+                13.8
+            ],
             "intl": [
                 3.0,
                 6.5,
@@ -153969,7 +154044,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "6",
+                "10+",
+                "13+"
+            ],
             "intl": [
                 "3",
                 "6",
@@ -154026,16 +154106,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[机台联动]",
             "intl": "20241129",
             "intl_key": "",
             "jp": "20240830",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -154051,11 +154131,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                8.2,
+                12.0,
+                14.0
+            ],
             "intl": [
                 5.0,
                 8.2,
@@ -154070,7 +154155,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "8",
+                "12",
+                "14"
+            ],
             "intl": [
                 "5",
                 "8",
@@ -154127,16 +154217,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [オンゲキちほー7]",
             "intl": "20241129",
             "intl_key": "",
             "jp": "20240830",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -157283,11 +157373,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                7.8,
+                10.8,
+                13.4
+            ],
             "intl": [
                 5.0,
                 7.8,
@@ -157302,7 +157397,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "7+",
+                "10+",
+                "13"
+            ],
             "intl": [
                 "5",
                 "7+",
@@ -157359,7 +157459,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241115",
             "intl_key": "",
@@ -157367,8 +157467,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -157384,11 +157484,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                4.0,
+                7.0,
+                10.5,
+                13.6
+            ],
             "intl": [
                 4.0,
                 7.0,
@@ -157403,7 +157508,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "4",
+                "7",
+                "10",
+                "13+"
+            ],
             "intl": [
                 "4",
                 "7",
@@ -157460,7 +157570,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241115",
             "intl_key": "",
@@ -157468,8 +157578,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -157485,11 +157595,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                5.0,
+                8.0,
+                10.7,
+                13.5
+            ],
             "intl": [
                 5.0,
                 8.0,
@@ -157504,7 +157619,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "5",
+                "8",
+                "10+",
+                "13"
+            ],
             "intl": [
                 "5",
                 "8",
@@ -157561,16 +157681,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [TANO*C2ちほー]",
             "intl": "20241115",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240705",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -157586,11 +157706,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                6.0,
+                8.5,
+                12.5,
+                14.2
+            ],
             "intl": [
                 6.0,
                 8.5,
@@ -157605,7 +157730,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "6",
+                "8",
+                "12",
+                "14"
+            ],
             "intl": [
                 "6",
                 "8",
@@ -157662,16 +157792,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [TANO*C2ちほー]",
             "intl": "20241115",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240705",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -157687,11 +157817,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                7.0,
+                11.2,
+                13.6
+            ],
             "intl": [
                 3.0,
                 7.0,
@@ -157706,7 +157841,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "7",
+                "11",
+                "13+"
+            ],
             "intl": [
                 "3",
                 "7",
@@ -157763,16 +157903,16 @@
             }
         ],
         "release_date": {
-            "cn": "",
-            "cn_key": "",
+            "cn": "20251105",
+            "cn_key": "【需要解禁】[课题曲] [TANO*C2ちほー]",
             "intl": "20241115",
             "intl_key": "【需要解禁】[课题曲/盖章/机台联动] [?]",
             "jp": "20240705",
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES PLUS",
@@ -159686,11 +159826,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                6.0,
+                8.0,
+                12.9,
+                14.8
+            ],
             "intl": [
                 6.0,
                 8.0,
@@ -159705,7 +159850,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "6",
+                "8",
+                "12+",
+                "14+"
+            ],
             "intl": [
                 "6",
                 "8",
@@ -159762,7 +159912,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241031",
             "intl_key": "",
@@ -159770,8 +159920,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす PRiSM",
@@ -177223,11 +177373,13 @@
         "type": "UTAGE",
         "longmusic": false,
         "comment": "君たちが三妖精だ！！！",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                13.0
+            ],
             "intl": [
                 13.0
             ],
@@ -177236,7 +177388,9 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "13?"
+            ],
             "intl": [
                 "13?"
             ],
@@ -177257,7 +177411,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241004",
             "intl_key": "",
@@ -177265,7 +177419,7 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
+            "cn": "maimai 舞萌DX 2024",
             "cn_is_new": false,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
@@ -177394,11 +177548,14 @@
         "type": "UTAGE",
         "longmusic": false,
         "comment": "隣を見てなぞる順番を覚えるゲーム（初級）",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                12.0,
+                12.0
+            ],
             "intl": [
                 12.0,
                 12.0
@@ -177409,7 +177566,10 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "12?",
+                "12?"
+            ],
             "intl": [
                 "12?",
                 "12?"
@@ -177442,7 +177602,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251105",
             "cn_key": "",
             "intl": "20241004",
             "intl_key": "",
@@ -177450,7 +177610,7 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
+            "cn": "maimai 舞萌DX 2024",
             "cn_is_new": false,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
