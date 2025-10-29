@@ -74453,11 +74453,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                6.5,
+                9.5,
+                13.2
+            ],
             "jp": [
                 4.0,
                 6.5,
@@ -74467,7 +74472,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "6",
+                "9",
+                "13"
+            ],
             "jp": [
                 "4",
                 "6",
@@ -74516,16 +74526,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
             "jp": "20250712",
             "jp_key": ""
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -74540,11 +74550,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                7.7,
+                12.5,
+                14.2
+            ],
             "jp": [
                 3.0,
                 7.7,
@@ -74554,7 +74569,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "7+",
+                "12",
+                "14"
+            ],
             "jp": [
                 "3",
                 "7+",
@@ -74603,16 +74623,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
             "jp": "20250712",
             "jp_key": ""
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -78804,97 +78824,6 @@
         "bpm": 230
     },
     {
-        "id": 11821,
-        "title": "Ref:rain (for 7th Heaven)",
-        "type": "DX",
-        "longmusic": true,
-        "comment": "",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                4.0,
-                8.0,
-                12.5,
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "4",
-                "8",
-                "12",
-                "14"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    279,
-                    28,
-                    14,
-                    32,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    523,
-                    20,
-                    19,
-                    31,
-                    28
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    762,
-                    58,
-                    69,
-                    96,
-                    56
-                ],
-                "charter": "きょむりん ＆ Luxizhel"
-            },
-            {
-                "notes": [
-                    777,
-                    107,
-                    147,
-                    147,
-                    47
-                ],
-                "charter": "Jack + Soma"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20250712",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "カモメサノエレクトリックオーケストラ include Limonène",
-        "genre": "maimai",
-        "bpm": 188
-    },
-    {
         "id": 100456,
         "title": "[蔵]Glorious Crown",
         "type": "UTAGE",
@@ -82840,11 +82769,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                2.0,
+                6.2,
+                9.9,
+                13.0
+            ],
             "jp": [
                 2.0,
                 6.2,
@@ -82854,7 +82788,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "2",
+                "6",
+                "9+",
+                "13"
+            ],
             "jp": [
                 "2",
                 "6",
@@ -82907,16 +82846,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
             "jp": "20250712",
             "jp_key": ""
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -166634,11 +166573,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                7.7,
+                11.0,
+                14.1
+            ],
             "jp": [
                 4.0,
                 7.7,
@@ -166648,7 +166592,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "7+",
+                "11",
+                "14"
+            ],
             "jp": [
                 "4",
                 "7+",
@@ -166701,69 +166650,10 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[课题曲] [7sRefちほー4]",
             "jp": "20250711",
             "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "qfeileadh feat.のあ",
-        "genre": "maimai",
-        "bpm": 176
-    },
-    {
-        "id": 110121,
-        "title": "[甘]スイートマジック",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "そんな「甘い魔法」",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                12.0
-            ],
-            "jp": [
-                12.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "12?"
-            ],
-            "jp": [
-                "12?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    303,
-                    43,
-                    21,
-                    18,
-                    47
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250724",
-            "intl_key": "",
-            "jp": "20250313",
-            "jp_key": ""
         },
         "version": {
             "cn": "",
@@ -166773,9 +166663,9 @@
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
-        "artist": "ろん×Junky",
-        "genre": "宴会場",
-        "bpm": 123
+        "artist": "qfeileadh feat.のあ",
+        "genre": "maimai",
+        "bpm": 176
     },
     {
         "id": 11816,
@@ -166784,11 +166674,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                6.2,
+                11.2,
+                14.0
+            ],
             "jp": [
                 3.0,
                 6.2,
@@ -166798,7 +166693,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "6",
+                "11",
+                "14"
+            ],
             "jp": [
                 "3",
                 "6",
@@ -166851,16 +166751,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[课题曲] [7sRefちほー4]",
             "jp": "20250711",
             "jp_key": "【需要解禁】[课题曲/盖章/机台联动] [?]"
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -166875,11 +166775,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                5.0,
+                8.0,
+                12.5,
+                13.9
+            ],
             "jp": [
                 5.0,
                 8.0,
@@ -166889,7 +166794,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "5",
+                "8",
+                "12",
+                "13+"
+            ],
             "jp": [
                 "5",
                 "8",
@@ -166942,16 +166852,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[完美挑战曲] [7sRefちほー4]",
             "jp": "20250711",
             "jp_key": "【需要解禁】[完美挑战曲] [?]"
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -166966,11 +166876,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                7.8,
+                10.5,
+                13.1,
+                14.9
+            ],
             "jp": [
                 7.8,
                 10.5,
@@ -166980,7 +166895,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "7+",
+                "10",
+                "13",
+                "14+"
+            ],
             "jp": [
                 "7+",
                 "10",
@@ -167033,16 +166953,16 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [プリズムタワー]",
             "jp": "20250711",
             "jp_key": ""
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -167057,11 +166977,17 @@
         "longmusic": true,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                7.9,
+                11.0,
+                13.7,
+                14.9,
+                15.0
+            ],
             "jp": [
                 7.9,
                 11.0,
@@ -167072,7 +166998,13 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "7+",
+                "11",
+                "13+",
+                "14+",
+                "15"
+            ],
             "jp": [
                 "7+",
                 "11",
@@ -167136,22 +167068,123 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
             "jp": "20250712",
             "jp_key": ""
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
         "artist": "xi",
         "genre": "maimai",
         "bpm": 180
+    },
+    {
+        "id": 11821,
+        "title": "Ref:rain (for 7th Heaven)",
+        "type": "DX",
+        "longmusic": true,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                4.0,
+                8.0,
+                12.5,
+                14.0
+            ],
+            "jp": [
+                4.0,
+                8.0,
+                12.5,
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "4",
+                "8",
+                "12",
+                "14"
+            ],
+            "jp": [
+                "4",
+                "8",
+                "12",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    279,
+                    28,
+                    14,
+                    32,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    523,
+                    20,
+                    19,
+                    31,
+                    28
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    762,
+                    58,
+                    69,
+                    96,
+                    56
+                ],
+                "charter": "きょむりん ＆ Luxizhel"
+            },
+            {
+                "notes": [
+                    777,
+                    107,
+                    147,
+                    147,
+                    47
+                ],
+                "charter": "Jack + Soma"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20251114",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
+            "jp": "20250712",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "カモメサノエレクトリックオーケストラ include Limonène",
+        "genre": "maimai",
+        "bpm": 188
     },
     {
         "id": 11822,
@@ -170332,11 +170365,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                7.8,
+                10.7,
+                13.3
+            ],
             "jp": [
                 4.0,
                 7.8,
@@ -170346,7 +170384,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "7+",
+                "10+",
+                "13"
+            ],
             "jp": [
                 "4",
                 "7+",
@@ -170399,7 +170442,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251128",
             "intl_key": "",
             "jp": "20250521",
             "jp_key": ""
@@ -170407,8 +170450,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -170423,11 +170466,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                5.0,
+                8.2,
+                12.6,
+                13.9
+            ],
             "jp": [
                 5.0,
                 8.2,
@@ -170437,7 +170485,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "5",
+                "8",
+                "12+",
+                "13+"
+            ],
             "jp": [
                 "5",
                 "8",
@@ -170490,7 +170543,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251128",
             "intl_key": "",
             "jp": "20250521",
             "jp_key": ""
@@ -170498,8 +170551,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -170514,11 +170567,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                4.0,
+                8.2,
+                12.5,
+                14.2
+            ],
             "jp": [
                 4.0,
                 8.2,
@@ -170528,7 +170586,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "4",
+                "8",
+                "12",
+                "14"
+            ],
             "jp": [
                 "4",
                 "8",
@@ -170581,7 +170644,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251128",
             "intl_key": "",
             "jp": "20250521",
             "jp_key": ""
@@ -170589,8 +170652,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -170969,11 +171032,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                6.0,
+                8.0,
+                12.9,
+                14.5
+            ],
             "jp": [
                 6.0,
                 8.0,
@@ -170983,7 +171051,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "6",
+                "8",
+                "12+",
+                "14"
+            ],
             "jp": [
                 "6",
                 "8",
@@ -171036,7 +171109,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251121",
             "intl_key": "",
             "jp": "20250530",
             "jp_key": ""
@@ -171044,8 +171117,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171151,11 +171224,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                7.5,
+                9.8,
+                13.5
+            ],
             "jp": [
                 3.0,
                 7.5,
@@ -171165,7 +171243,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "7",
+                "9+",
+                "13"
+            ],
             "jp": [
                 "3",
                 "7",
@@ -171217,7 +171300,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251121",
             "intl_key": "",
             "jp": "20250627",
             "jp_key": ""
@@ -171225,8 +171308,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -171241,11 +171324,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                3.0,
+                7.7,
+                10.0,
+                13.0
+            ],
             "jp": [
                 3.0,
                 7.7,
@@ -171255,7 +171343,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "3",
+                "7+",
+                "10",
+                "13"
+            ],
             "jp": [
                 "3",
                 "7+",
@@ -171308,7 +171401,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251121",
             "intl_key": "",
             "jp": "20250627",
             "jp_key": ""
@@ -171316,8 +171409,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
@@ -172781,11 +172874,16 @@
         "longmusic": false,
         "comment": "",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
             "jp": [
                 0.0,
                 0.0,
@@ -172795,7 +172893,12 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "縺ｪ縺",
+                "繧上°繧峨↑縺",
+                "繝輔Γ繧､",
+                "縺ｵ繧√＞"
+            ],
             "jp": [
                 "縺ｪ縺",
                 "繧上°繧峨↑縺",
@@ -172848,15 +172951,15 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
-            "intl_key": "",
+            "intl": "繧ｻ繝ｼ繧ｰ",
+            "intl_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]",
             "jp": "繧ｻ繝ｼ繧ｰ",
             "jp_key": "【需要解禁】[KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
         },
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
+            "intl": "maimai でらっくす PRiSM PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": false
@@ -178314,6 +178417,65 @@
         "bpm": 160
     },
     {
+        "id": 110121,
+        "title": "[甘]スイートマジック",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "そんな「甘い魔法」",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                12.0
+            ],
+            "jp": [
+                12.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "12?"
+            ],
+            "jp": [
+                "12?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    303,
+                    43,
+                    21,
+                    18,
+                    47
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250724",
+            "intl_key": "",
+            "jp": "20250313",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ろん×Junky",
+        "genre": "宴会場",
+        "bpm": 123
+    },
+    {
         "id": 111697,
         "title": "[音]ラビットホール",
         "type": "UTAGE",
@@ -178506,11 +178668,14 @@
         "longmusic": false,
         "comment": "みんなでFull Flavor!",
         "cn_is_open": false,
-        "intl_is_open": false,
+        "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                13.7,
+                13.7
+            ],
             "jp": [
                 13.7,
                 13.7
@@ -178518,7 +178683,10 @@
         },
         "level": {
             "cn": [],
-            "intl": [],
+            "intl": [
+                "13+?",
+                "13+?"
+            ],
             "jp": [
                 "13+?",
                 "13+?"
@@ -178549,7 +178717,7 @@
         "release_date": {
             "cn": "",
             "cn_key": "",
-            "intl": "",
+            "intl": "20251128",
             "intl_key": "",
             "jp": "20250521",
             "jp_key": ""
@@ -178557,8 +178725,8 @@
         "version": {
             "cn": "",
             "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
             "jp": "maimai でらっくす PRiSM PLUS",
             "jp_is_new": true
         },
