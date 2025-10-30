@@ -100047,7 +100047,7 @@
             "release_date": "20251030",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
-            "key": "【需要解禁】KOP7th予選楽曲解禁"
+            "key": "【需要解禁】[课题曲] [maimai]"
         }
     },
     {
@@ -101713,6 +101713,77 @@
             "genre": "niconico & ボーカロイド",
             "bpm": 137,
             "release_date": "20251016",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11929,
+        "title": "ヒアソビ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    10,
+                    5,
+                    23,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    273,
+                    14,
+                    8,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    101,
+                    35,
+                    26,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    605,
+                    85,
+                    99,
+                    29,
+                    106
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒアソビ",
+            "artist": "かめりあ",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 134,
+            "release_date": "20251030",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""

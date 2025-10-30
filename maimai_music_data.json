@@ -173510,7 +173510,7 @@
             "intl": "20251030",
             "intl_key": "【需要解禁】KOP7th予選楽曲解禁",
             "jp": "20251030",
-            "jp_key": "【需要解禁】KOP7th予選楽曲解禁"
+            "jp_key": "【需要解禁】[课题曲] [maimai]"
         },
         "version": {
             "cn": "",
@@ -175713,6 +175713,97 @@
         "artist": "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
         "genre": "niconico & ボーカロイド",
         "bpm": 137
+    },
+    {
+        "id": 11929,
+        "title": "ヒアソビ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                3.0,
+                7.5,
+                10.5,
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "3",
+                "7",
+                "10",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    10,
+                    5,
+                    23,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    273,
+                    14,
+                    8,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    101,
+                    35,
+                    26,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    605,
+                    85,
+                    99,
+                    29,
+                    106
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251030",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "かめりあ",
+        "genre": "niconico & ボーカロイド",
+        "bpm": 134
     },
     {
         "id": 11951,

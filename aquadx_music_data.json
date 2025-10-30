@@ -28798,7 +28798,7 @@
     },
     "11885": {
         "name": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
-        "ver": "25509",
+        "ver": "26004",
         "composer": "かめりあ",
         "genre": "maimai",
         "notes": [
@@ -29282,6 +29282,26 @@
             },
             {
                 "lv": 12.8
+            }
+        ]
+    },
+    "11929": {
+        "name": "ヒアソビ",
+        "ver": "26004",
+        "composer": "かめりあ",
+        "genre": "niconicoボーカロイド",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 7.5
+            },
+            {
+                "lv": 10.5
+            },
+            {
+                "lv": 13.7
             }
         ]
     },
