@@ -66220,65 +66220,6 @@
         "bpm": 200
     },
     {
-        "id": 131852,
-        "title": "[面]好きな惣菜発表ドラゴン",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "好きな譜面発表鳩ホルダー",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                14.0
-            ],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "14?"
-            ],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    533,
-                    70,
-                    115,
-                    73,
-                    69
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250926",
-            "intl_key": "",
-            "jp": "20250509",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "ンバヂ",
-        "genre": "宴会場",
-        "bpm": 160
-    },
-    {
         "id": 781,
         "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
         "type": "SD",
@@ -73512,68 +73453,6 @@
         "bpm": 104
     },
     {
-        "id": 140227,
-        "title": "[某]Garakuta Doll Play",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "パリピS氏のやべーやつ版",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    699,
-                    44,
-                    120,
-                    341
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20250611",
-            "cn_key": "",
-            "intl": "20240725",
-            "intl_key": "",
-            "jp": "20240321",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES PLUS",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES PLUS",
-            "jp_is_new": false
-        },
-        "artist": "t+pazolite",
-        "genre": "宴会場",
-        "bpm": 256
-    },
-    {
         "id": 1020,
         "title": "Technicians High",
         "type": "SD",
@@ -74323,130 +74202,6 @@
         "bpm": 165
     },
     {
-        "id": 100018,
-        "title": "[協]Love You",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "リア充専用譜面だよ！リア充向けだってば！",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                12.0
-            ],
-            "intl": [
-                12.0
-            ],
-            "jp": [
-                12.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "12?"
-            ],
-            "intl": [
-                "12?"
-            ],
-            "jp": [
-                "12?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    268,
-                    44,
-                    30,
-                    6
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240606",
-            "cn_key": "",
-            "intl": "20240118",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "Q;indivi [cover]",
-        "genre": "宴会場",
-        "bpm": 135
-    },
-    {
-        "id": 100022,
-        "title": "[蔵]In Chaos",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "チャンさんは今日もアクセル全開",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    824,
-                    0,
-                    110,
-                    9
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "Hiro「Crackin’DJ」",
-        "genre": "宴会場",
-        "bpm": 140
-    },
-    {
         "id": 1736,
         "title": "プリズム△▽リズム",
         "type": "SD",
@@ -75158,309 +74913,6 @@
         "bpm": 147
     },
     {
-        "id": 100199,
-        "title": "[蛸]チルノのパーフェクトさんすう教室",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "パーフェクトホールド教室",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                12.7
-            ],
-            "intl": [
-                12.7
-            ],
-            "jp": [
-                12.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "12+?"
-            ],
-            "intl": [
-                "12+?"
-            ],
-            "jp": [
-                "12+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    58,
-                    217,
-                    27,
-                    7
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
-        "genre": "宴会場",
-        "bpm": 175
-    },
-    {
-        "id": 100206,
-        "title": "[星]しゅわスパ大作戦☆",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "☆TAP大作戦☆",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    405,
-                    54,
-                    81,
-                    34
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "SOUND HOLIC feat. Nana Takahashi",
-        "genre": "宴会場",
-        "bpm": 140
-    },
-    {
-        "id": 100207,
-        "title": "[蛸]時空を超えて久しぶり！",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "つなげたりして消すぷよ（令和最新版）",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                12.7
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "12+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    478,
-                    119,
-                    18,
-                    20,
-                    8
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20250918",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす CiRCLE",
-            "jp_is_new": true
-        },
-        "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
-        "genre": "宴会場",
-        "bpm": 145
-    },
-    {
-        "id": 100220,
-        "title": "[宴]セガサターン起動音[H.][Remix]",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "回転タップ検定起動音",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.7
-            ],
-            "intl": [
-                13.7
-            ],
-            "jp": [
-                13.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "13+?"
-            ],
-            "intl": [
-                "13+?"
-            ],
-            "jp": [
-                "13+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    904,
-                    0,
-                    2,
-                    44
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "Hiro",
-        "genre": "宴会場",
-        "bpm": 148
-    },
-    {
-        "id": 100227,
-        "title": "[は]Garakuta Doll Play",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "はっぴーの若干ストイック気味版",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.0
-            ],
-            "intl": [
-                14.0
-            ],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "14?"
-            ],
-            "intl": [
-                "14?"
-            ],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    659,
-                    52,
-                    202,
-                    20
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "t+pazolite",
-        "genre": "宴会場",
-        "bpm": 256
-    },
-    {
         "id": 10117,
         "title": "炎歌 -ほむらうた-",
         "type": "DX",
@@ -75570,68 +75022,6 @@
         "artist": "Hiro/森山愛子",
         "genre": "maimai",
         "bpm": 108
-    },
-    {
-        "id": 100230,
-        "title": "[宴]CYCLES",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "いつもより多く回っております",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    357,
-                    0,
-                    361,
-                    62
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "Masayoshi Minoshima feat. 綾倉盟",
-        "genre": "宴会場",
-        "bpm": 135
     },
     {
         "id": 10122,
@@ -76157,68 +75547,6 @@
         "artist": "sasakure.UK x DECO*27",
         "genre": "niconico & ボーカロイド",
         "bpm": 175
-    },
-    {
-        "id": 100259,
-        "title": "[協]ぽっぴっぽー",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "ぽ・っぴ・っぽー",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [
-                13.7
-            ],
-            "intl": [
-                13.7
-            ],
-            "jp": [
-                13.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "13+?"
-            ],
-            "intl": [
-                "13+?"
-            ],
-            "jp": [
-                "13+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    659,
-                    141,
-                    56,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240606",
-            "cn_key": "",
-            "intl": "20240118",
-            "intl_key": "",
-            "jp": "20240118",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "ラマーズP",
-        "genre": "宴会場",
-        "bpm": 150
     },
     {
         "id": 10181,
@@ -77270,122 +76598,6 @@
         "bpm": 180
     },
     {
-        "id": 100319,
-        "title": "[藏]幻想のサテライト",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "蔵入り、はい、それでサヨナラ ",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    624,
-                    41,
-                    178,
-                    19
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "豚乙女",
-        "genre": "宴会場",
-        "bpm": 230
-    },
-    {
-        "id": 100327,
-        "title": "[狂]タカハせ！名人マン",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "名人マンよくばりセット",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    682,
-                    564,
-                    3,
-                    3
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "ビートまりお + ARM feat. 高橋名人",
-        "genre": "宴会場",
-        "bpm": 150
-    },
-    {
         "id": 10225,
         "title": "sweet little sister",
         "type": "DX",
@@ -77495,60 +76707,6 @@
         "artist": "Silver Forest",
         "genre": "東方Project",
         "bpm": 168
-    },
-    {
-        "id": 100339,
-        "title": "[宴]DRAGONLADY",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "TATERENLADY",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                14.6
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    610,
-                    0,
-                    19,
-                    14
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "Nankumo/CUBE3",
-        "genre": "宴会場",
-        "bpm": 150
     },
     {
         "id": 10235,
@@ -77882,68 +77040,6 @@
         "artist": "Sta",
         "genre": "maimai",
         "bpm": 182
-    },
-    {
-        "id": 100363,
-        "title": "[宴]Oshama Scramble!",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "Let's Party Night !",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    87,
-                    36,
-                    132,
-                    35
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240904",
-            "cn_key": "",
-            "intl": "20240315",
-            "intl_key": "",
-            "jp": "20231012",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "t+pazolite",
-        "genre": "宴会場",
-        "bpm": 190
     },
     {
         "id": 10256,
@@ -78824,68 +77920,6 @@
         "bpm": 230
     },
     {
-        "id": 100456,
-        "title": "[蔵]Glorious Crown",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "チャンさんの初稿シリーズ～王～",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1192,
-                    15,
-                    56,
-                    19
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "xi",
-        "genre": "宴会場",
-        "bpm": 225
-    },
-    {
         "id": 10363,
         "title": "Oshama Scramble!",
         "type": "DX",
@@ -79310,122 +78344,6 @@
         "bpm": 186
     },
     {
-        "id": 100496,
-        "title": "[藏]AMAZING MIGHTYYYY!!!!",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "やる気いっぱい夢いっぱい、ノーツも。",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                14.8
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1011,
-                    58,
-                    136,
-                    38
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "WAiKURO",
-        "genre": "宴会場",
-        "bpm": 185
-    },
-    {
-        "id": 100508,
-        "title": "[協]恋愛裁判",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "リア充向け譜面　～爆発しろ～",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    607,
-                    160,
-                    56,
-                    32
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240606",
-            "cn_key": "",
-            "intl": "20240118",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "40mP",
-        "genre": "宴会場",
-        "bpm": 134
-    },
-    {
         "id": 10404,
         "title": "響縁",
         "type": "DX",
@@ -79537,68 +78455,6 @@
         "bpm": 180
     },
     {
-        "id": 100517,
-        "title": "[覚]東京リアルワールド",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "なぞる順番を覚えるゲーム(初級編)",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                12.0
-            ],
-            "intl": [
-                12.0
-            ],
-            "jp": [
-                12.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "12?"
-            ],
-            "intl": [
-                "12?"
-            ],
-            "jp": [
-                "12?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    146,
-                    46,
-                    154,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "out of service",
-        "genre": "宴会場",
-        "bpm": 150
-    },
-    {
         "id": 10411,
         "title": "初音ミクの消失",
         "type": "DX",
@@ -79708,68 +78564,6 @@
         "artist": "cosMo＠暴走P",
         "genre": "niconico & ボーカロイド",
         "bpm": 240
-    },
-    {
-        "id": 100524,
-        "title": "[協]Hand in Hand",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "Hand in Hand in Hand in Hand",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    903,
-                    165,
-                    84,
-                    55
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240606",
-            "cn_key": "",
-            "intl": "20240118",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "livetune",
-        "genre": "宴会場",
-        "bpm": 128
     },
     {
         "id": 10420,
@@ -79982,68 +78776,6 @@
         "artist": "Ras",
         "genre": "maimai",
         "bpm": 156
-    },
-    {
-        "id": 100548,
-        "title": "[疑]DETARAME ROCK&ROLL THEORY",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "スライドの発射タイミング 速度がデタラメ",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                13.0
-            ],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "13?"
-            ],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    475,
-                    16,
-                    150,
-                    22
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20241204",
-            "cn_key": "",
-            "intl": "20240517",
-            "intl_key": "",
-            "jp": "20231225",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "箱部 なる(CV:M・A・O)",
-        "genre": "宴会場",
-        "bpm": 140
     },
     {
         "id": 10475,
@@ -81066,68 +79798,6 @@
         "bpm": 148
     },
     {
-        "id": 100700,
-        "title": "[協]疾走あんさんぶる",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "なりきれ！プリズムリバー三姉妹",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.0
-            ],
-            "intl": [
-                14.0
-            ],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "14?"
-            ],
-            "intl": [
-                "14?"
-            ],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1092,
-                    220,
-                    2,
-                    51
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20240606",
-            "cn_key": "",
-            "intl": "20240118",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "ビートまりお（COOL&CREATE）",
-        "genre": "宴会場",
-        "bpm": 195
-    },
-    {
         "id": 10593,
         "title": "conflict",
         "type": "DX",
@@ -81661,60 +80331,6 @@
         "artist": "LeaF",
         "genre": "東方Project",
         "bpm": 200
-    },
-    {
-        "id": 100772,
-        "title": "[狂]FREEDOM DiVE (tpz Overcute Remix",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "サファ太人間卒業シリーズ",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                15.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "15?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1181,
-                    37,
-                    120,
-                    93
-                ],
-                "charter": "\n        "
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "t+pazolite",
-        "genre": "宴会場",
-        "bpm": 234
     },
     {
         "id": 10665,
@@ -82646,123 +81262,6 @@
         "bpm": 160
     },
     {
-        "id": 100851,
-        "title": "[幸]犬日和。(はっぴー歌唱Ver)",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "HOLDだけでがんばろうとした。",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                13.0
-            ],
-            "jp": [
-                13.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "13?"
-            ],
-            "jp": [
-                "13?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1,
-                    402,
-                    1,
-                    8
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250905",
-            "intl_key": "",
-            "jp": "20250401",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
-        "genre": "宴会場",
-        "bpm": 138
-    },
-    {
-        "id": 141852,
-        "title": "[発]好きな惣菜発表ドラゴン",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "好きな譜面発表メロンポップ",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                13.7
-            ],
-            "jp": [
-                13.7
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "13+?"
-            ],
-            "jp": [
-                "13+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    487,
-                    52,
-                    153,
-                    5,
-                    32
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250926",
-            "intl_key": "",
-            "jp": "20250509",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "ンバヂ",
-        "genre": "宴会場",
-        "bpm": 160
-    },
-    {
         "id": 10835,
         "title": "Believe the Rainbow",
         "type": "DX",
@@ -82862,68 +81361,6 @@
         "artist": "Shoichiro Hirata feat.Sana",
         "genre": "maimai",
         "bpm": 133
-    },
-    {
-        "id": 100998,
-        "title": "[宴]Oshama Scramble! (Cranky Remix)",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "ぼくらのかんがえたさいきょうのまいまい",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    849,
-                    66,
-                    210,
-                    76
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20250716",
-            "cn_key": "",
-            "intl": "20240906",
-            "intl_key": "",
-            "jp": "20240524",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES PLUS",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES PLUS",
-            "jp_is_new": false
-        },
-        "artist": "Cranky",
-        "genre": "宴会場",
-        "bpm": 190
     },
     {
         "id": 11001,
@@ -166000,68 +164437,6 @@
         "bpm": 242
     },
     {
-        "id": 110114,
-        "title": "[耐]Space Harrier Main Theme [Reborn]",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "HOLDがSQUILLAに！？",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.7
-            ],
-            "intl": [
-                14.7
-            ],
-            "jp": [
-                14.7
-            ]
-        },
-        "level": {
-            "cn": [
-                "14+?"
-            ],
-            "intl": [
-                "14+?"
-            ],
-            "jp": [
-                "14+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    1476,
-                    0,
-                    7,
-                    7
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20250416",
-            "cn_key": "",
-            "intl": "20240705",
-            "intl_key": "",
-            "jp": "20240229",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "佐野 信義「スペースハリアー」",
-        "genre": "宴会場",
-        "bpm": 125
-    },
-    {
         "id": 11810,
         "title": "ATLAS RUSH",
         "type": "DX",
@@ -175198,68 +173573,6 @@
         "bpm": 240
     },
     {
-        "id": 110227,
-        "title": "[J]Garakuta Doll Play",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "Jackの現代風アレンジ版",
-        "cn_is_open": true,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [
-                14.0
-            ],
-            "intl": [
-                14.0
-            ],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [
-                "14?"
-            ],
-            "intl": [
-                "14?"
-            ],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    718,
-                    6,
-                    134,
-                    19
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "20250611",
-            "cn_key": "",
-            "intl": "20240725",
-            "intl_key": "",
-            "jp": "20240321",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "maimai 舞萌DX 2024",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす BUDDiES PLUS",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES PLUS",
-            "jp_is_new": false
-        },
-        "artist": "t+pazolite",
-        "genre": "宴会場",
-        "bpm": 256
-    },
-    {
         "id": 11923,
         "title": "拝啓、最高の思い出たち",
         "type": "DX",
@@ -175895,6 +174208,1626 @@
         "artist": "MIMI",
         "genre": "niconico & ボーカロイド",
         "bpm": 188
+    },
+    {
+        "id": 100018,
+        "title": "[協]Love You",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "リア充専用譜面だよ！リア充向けだってば！",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                12.0
+            ],
+            "intl": [
+                12.0
+            ],
+            "jp": [
+                12.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "12?"
+            ],
+            "intl": [
+                "12?"
+            ],
+            "jp": [
+                "12?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    268,
+                    44,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240606",
+            "cn_key": "",
+            "intl": "20240118",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "Q;indivi [cover]",
+        "genre": "宴会場",
+        "bpm": 135
+    },
+    {
+        "id": 100022,
+        "title": "[蔵]In Chaos",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "チャンさんは今日もアクセル全開",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    824,
+                    0,
+                    110,
+                    9
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "Hiro「Crackin’DJ」",
+        "genre": "宴会場",
+        "bpm": 140
+    },
+    {
+        "id": 100199,
+        "title": "[蛸]チルノのパーフェクトさんすう教室",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "パーフェクトホールド教室",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                12.7
+            ],
+            "intl": [
+                12.7
+            ],
+            "jp": [
+                12.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "12+?"
+            ],
+            "intl": [
+                "12+?"
+            ],
+            "jp": [
+                "12+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    58,
+                    217,
+                    27,
+                    7
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+        "genre": "宴会場",
+        "bpm": 175
+    },
+    {
+        "id": 100206,
+        "title": "[星]しゅわスパ大作戦☆",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "☆TAP大作戦☆",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    405,
+                    54,
+                    81,
+                    34
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "SOUND HOLIC feat. Nana Takahashi",
+        "genre": "宴会場",
+        "bpm": 140
+    },
+    {
+        "id": 100207,
+        "title": "[蛸]時空を超えて久しぶり！",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "つなげたりして消すぷよ（令和最新版）",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                12.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "12+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    478,
+                    119,
+                    18,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20250918",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+        "genre": "宴会場",
+        "bpm": 145
+    },
+    {
+        "id": 100220,
+        "title": "[宴]セガサターン起動音[H.][Remix]",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "回転タップ検定起動音",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.7
+            ],
+            "intl": [
+                13.7
+            ],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "13+?"
+            ],
+            "intl": [
+                "13+?"
+            ],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    904,
+                    0,
+                    2,
+                    44
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "Hiro",
+        "genre": "宴会場",
+        "bpm": 148
+    },
+    {
+        "id": 100227,
+        "title": "[は]Garakuta Doll Play",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "はっぴーの若干ストイック気味版",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.0
+            ],
+            "intl": [
+                14.0
+            ],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "14?"
+            ],
+            "intl": [
+                "14?"
+            ],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    659,
+                    52,
+                    202,
+                    20
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "t+pazolite",
+        "genre": "宴会場",
+        "bpm": 256
+    },
+    {
+        "id": 100230,
+        "title": "[宴]CYCLES",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "いつもより多く回っております",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    357,
+                    0,
+                    361,
+                    62
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "Masayoshi Minoshima feat. 綾倉盟",
+        "genre": "宴会場",
+        "bpm": 135
+    },
+    {
+        "id": 100259,
+        "title": "[協]ぽっぴっぽー",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "ぽ・っぴ・っぽー",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [
+                13.7
+            ],
+            "intl": [
+                13.7
+            ],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "13+?"
+            ],
+            "intl": [
+                "13+?"
+            ],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    659,
+                    141,
+                    56,
+                    12
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240606",
+            "cn_key": "",
+            "intl": "20240118",
+            "intl_key": "",
+            "jp": "20240118",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "ラマーズP",
+        "genre": "宴会場",
+        "bpm": 150
+    },
+    {
+        "id": 100319,
+        "title": "[藏]幻想のサテライト",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "蔵入り、はい、それでサヨナラ ",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    624,
+                    41,
+                    178,
+                    19
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "豚乙女",
+        "genre": "宴会場",
+        "bpm": 230
+    },
+    {
+        "id": 100327,
+        "title": "[狂]タカハせ！名人マン",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "名人マンよくばりセット",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    682,
+                    564,
+                    3,
+                    3
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "ビートまりお + ARM feat. 高橋名人",
+        "genre": "宴会場",
+        "bpm": 150
+    },
+    {
+        "id": 100339,
+        "title": "[宴]DRAGONLADY",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "TATERENLADY",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                14.6
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    610,
+                    0,
+                    19,
+                    14
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "Nankumo/CUBE3",
+        "genre": "宴会場",
+        "bpm": 150
+    },
+    {
+        "id": 100363,
+        "title": "[宴]Oshama Scramble!",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "Let's Party Night !",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    87,
+                    36,
+                    132,
+                    35
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240904",
+            "cn_key": "",
+            "intl": "20240315",
+            "intl_key": "",
+            "jp": "20231012",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "t+pazolite",
+        "genre": "宴会場",
+        "bpm": 190
+    },
+    {
+        "id": 100456,
+        "title": "[蔵]Glorious Crown",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "チャンさんの初稿シリーズ～王～",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1192,
+                    15,
+                    56,
+                    19
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "xi",
+        "genre": "宴会場",
+        "bpm": 225
+    },
+    {
+        "id": 100496,
+        "title": "[藏]AMAZING MIGHTYYYY!!!!",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "やる気いっぱい夢いっぱい、ノーツも。",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                14.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1011,
+                    58,
+                    136,
+                    38
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "WAiKURO",
+        "genre": "宴会場",
+        "bpm": 185
+    },
+    {
+        "id": 100508,
+        "title": "[協]恋愛裁判",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "リア充向け譜面　～爆発しろ～",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    607,
+                    160,
+                    56,
+                    32
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240606",
+            "cn_key": "",
+            "intl": "20240118",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "40mP",
+        "genre": "宴会場",
+        "bpm": 134
+    },
+    {
+        "id": 100517,
+        "title": "[覚]東京リアルワールド",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "なぞる順番を覚えるゲーム(初級編)",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                12.0
+            ],
+            "intl": [
+                12.0
+            ],
+            "jp": [
+                12.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "12?"
+            ],
+            "intl": [
+                "12?"
+            ],
+            "jp": [
+                "12?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    46,
+                    154,
+                    12
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "out of service",
+        "genre": "宴会場",
+        "bpm": 150
+    },
+    {
+        "id": 100524,
+        "title": "[協]Hand in Hand",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "Hand in Hand in Hand in Hand",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    903,
+                    165,
+                    84,
+                    55
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240606",
+            "cn_key": "",
+            "intl": "20240118",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "livetune",
+        "genre": "宴会場",
+        "bpm": 128
+    },
+    {
+        "id": 100548,
+        "title": "[疑]DETARAME ROCK&ROLL THEORY",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "スライドの発射タイミング 速度がデタラメ",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                13.0
+            ],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "13?"
+            ],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    475,
+                    16,
+                    150,
+                    22
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20241204",
+            "cn_key": "",
+            "intl": "20240517",
+            "intl_key": "",
+            "jp": "20231225",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "箱部 なる(CV:M・A・O)",
+        "genre": "宴会場",
+        "bpm": 140
+    },
+    {
+        "id": 100700,
+        "title": "[協]疾走あんさんぶる",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "なりきれ！プリズムリバー三姉妹",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.0
+            ],
+            "intl": [
+                14.0
+            ],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "14?"
+            ],
+            "intl": [
+                "14?"
+            ],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1092,
+                    220,
+                    2,
+                    51
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20240606",
+            "cn_key": "",
+            "intl": "20240118",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "ビートまりお（COOL&CREATE）",
+        "genre": "宴会場",
+        "bpm": 195
+    },
+    {
+        "id": 100772,
+        "title": "[狂]FREEDOM DiVE (tpz Overcute Remix",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "サファ太人間卒業シリーズ",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                15.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "15?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1181,
+                    37,
+                    120,
+                    93
+                ],
+                "charter": "\n        "
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "t+pazolite",
+        "genre": "宴会場",
+        "bpm": 234
+    },
+    {
+        "id": 100851,
+        "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "HOLDだけでがんばろうとした。",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                13.0
+            ],
+            "jp": [
+                13.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "13?"
+            ],
+            "jp": [
+                "13?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1,
+                    402,
+                    1,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250905",
+            "intl_key": "",
+            "jp": "20250401",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+        "genre": "宴会場",
+        "bpm": 138
+    },
+    {
+        "id": 100998,
+        "title": "[宴]Oshama Scramble! (Cranky Remix)",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "ぼくらのかんがえたさいきょうのまいまい",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    849,
+                    66,
+                    210,
+                    76
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20250716",
+            "cn_key": "",
+            "intl": "20240906",
+            "intl_key": "",
+            "jp": "20240524",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES PLUS",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES PLUS",
+            "jp_is_new": false
+        },
+        "artist": "Cranky",
+        "genre": "宴会場",
+        "bpm": 190
+    },
+    {
+        "id": 110082,
+        "title": "[藏]Reach For The Stars",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "お蔵入り",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": false,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    516,
+                    29,
+                    50,
+                    14
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20230914",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "大谷智哉, Jean Paul Makhlouf of Cash Cash「ソニック カラーズ」",
+        "genre": "宴会場",
+        "bpm": 203
+    },
+    {
+        "id": 110114,
+        "title": "[耐]Space Harrier Main Theme [Reborn]",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "HOLDがSQUILLAに！？",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    1476,
+                    0,
+                    7,
+                    7
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20250416",
+            "cn_key": "",
+            "intl": "20240705",
+            "intl_key": "",
+            "jp": "20240229",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES",
+            "jp_is_new": false
+        },
+        "artist": "佐野 信義「スペースハリアー」",
+        "genre": "宴会場",
+        "bpm": 125
+    },
+    {
+        "id": 110121,
+        "title": "[甘]スイートマジック",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "そんな「甘い魔法」",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                12.0
+            ],
+            "jp": [
+                12.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "12?"
+            ],
+            "jp": [
+                "12?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    303,
+                    43,
+                    21,
+                    18,
+                    47
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250724",
+            "intl_key": "",
+            "jp": "20250313",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ろん×Junky",
+        "genre": "宴会場",
+        "bpm": 123
+    },
+    {
+        "id": 110227,
+        "title": "[J]Garakuta Doll Play",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "Jackの現代風アレンジ版",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.0
+            ],
+            "intl": [
+                14.0
+            ],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [
+                "14?"
+            ],
+            "intl": [
+                "14?"
+            ],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    718,
+                    6,
+                    134,
+                    19
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20250611",
+            "cn_key": "",
+            "intl": "20240725",
+            "intl_key": "",
+            "jp": "20240321",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES PLUS",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES PLUS",
+            "jp_is_new": false
+        },
+        "artist": "t+pazolite",
+        "genre": "宴会場",
+        "bpm": 256
     },
     {
         "id": 110281,
@@ -176569,65 +176502,6 @@
         "artist": "みきとP",
         "genre": "宴会場",
         "bpm": 150
-    },
-    {
-        "id": 151852,
-        "title": "[表]好きな惣菜発表ドラゴン",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "好きな譜面発表きょむりん",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                13.7
-            ],
-            "jp": [
-                13.7
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "13+?"
-            ],
-            "jp": [
-                "13+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    399,
-                    75,
-                    102,
-                    79,
-                    30
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250926",
-            "intl_key": "",
-            "jp": "20250509",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "ンバヂ",
-        "genre": "宴会場",
-        "bpm": 160
     },
     {
         "id": 111069,
@@ -177683,60 +177557,6 @@
         "bpm": 175
     },
     {
-        "id": 110082,
-        "title": "[藏]Reach For The Stars",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "お蔵入り",
-        "cn_is_open": false,
-        "intl_is_open": false,
-        "jp_is_open": false,
-        "ds": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                14.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [],
-            "jp": [
-                "14?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    516,
-                    29,
-                    50,
-                    14
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "",
-            "intl_key": "",
-            "jp": "20230914",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "",
-            "intl_is_new": false,
-            "jp": "maimai でらっくす BUDDiES",
-            "jp_is_new": false
-        },
-        "artist": "大谷智哉, Jean Paul Makhlouf of Cash Cash「ソニック カラーズ」",
-        "genre": "宴会場",
-        "bpm": 203
-    },
-    {
         "id": 111488,
         "title": "[覚]スカーレット警察のゲットーパトロール24時",
         "type": "UTAGE",
@@ -178508,65 +178328,6 @@
         "bpm": 160
     },
     {
-        "id": 110121,
-        "title": "[甘]スイートマジック",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "そんな「甘い魔法」",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                12.0
-            ],
-            "jp": [
-                12.0
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "12?"
-            ],
-            "jp": [
-                "12?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    303,
-                    43,
-                    21,
-                    18,
-                    47
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250724",
-            "intl_key": "",
-            "jp": "20250313",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "ろん×Junky",
-        "genre": "宴会場",
-        "bpm": 123
-    },
-    {
         "id": 111697,
         "title": "[音]ラビットホール",
         "type": "UTAGE",
@@ -179256,65 +179017,6 @@
         "bpm": 256
     },
     {
-        "id": 161852,
-        "title": "[龍]好きな惣菜発表ドラゴン",
-        "type": "UTAGE",
-        "longmusic": false,
-        "comment": "好きな譜面発表アマリリス",
-        "cn_is_open": false,
-        "intl_is_open": true,
-        "jp_is_open": true,
-        "ds": {
-            "cn": [],
-            "intl": [
-                13.7
-            ],
-            "jp": [
-                13.7
-            ]
-        },
-        "level": {
-            "cn": [],
-            "intl": [
-                "13+?"
-            ],
-            "jp": [
-                "13+?"
-            ]
-        },
-        "charts": [
-            {
-                "notes": [
-                    545,
-                    62,
-                    80,
-                    5,
-                    15
-                ],
-                "charter": "-"
-            }
-        ],
-        "release_date": {
-            "cn": "",
-            "cn_key": "",
-            "intl": "20250926",
-            "intl_key": "",
-            "jp": "20250509",
-            "jp_key": ""
-        },
-        "version": {
-            "cn": "",
-            "cn_is_new": false,
-            "intl": "maimai でらっくす PRiSM PLUS",
-            "intl_is_new": true,
-            "jp": "maimai でらっくす PRiSM PLUS",
-            "jp_is_new": true
-        },
-        "artist": "ンバヂ",
-        "genre": "宴会場",
-        "bpm": 160
-    },
-    {
         "id": 121634,
         "title": "[協]青春コンプレックス",
         "type": "UTAGE",
@@ -179501,5 +179203,303 @@
         "artist": "t+pazolite",
         "genre": "宴会場",
         "bpm": 256
+    },
+    {
+        "id": 131852,
+        "title": "[面]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "好きな譜面発表鳩ホルダー",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                14.0
+            ],
+            "jp": [
+                14.0
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "14?"
+            ],
+            "jp": [
+                "14?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    533,
+                    70,
+                    115,
+                    73,
+                    69
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250926",
+            "intl_key": "",
+            "jp": "20250509",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": 160
+    },
+    {
+        "id": 140227,
+        "title": "[某]Garakuta Doll Play",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "パリピS氏のやべーやつ版",
+        "cn_is_open": true,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [
+                14.7
+            ],
+            "intl": [
+                14.7
+            ],
+            "jp": [
+                14.7
+            ]
+        },
+        "level": {
+            "cn": [
+                "14+?"
+            ],
+            "intl": [
+                "14+?"
+            ],
+            "jp": [
+                "14+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    699,
+                    44,
+                    120,
+                    341
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "20250611",
+            "cn_key": "",
+            "intl": "20240725",
+            "intl_key": "",
+            "jp": "20240321",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "maimai 舞萌DX 2024",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす BUDDiES PLUS",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす BUDDiES PLUS",
+            "jp_is_new": false
+        },
+        "artist": "t+pazolite",
+        "genre": "宴会場",
+        "bpm": 256
+    },
+    {
+        "id": 141852,
+        "title": "[発]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "好きな譜面発表メロンポップ",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                13.7
+            ],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "13+?"
+            ],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    487,
+                    52,
+                    153,
+                    5,
+                    32
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250926",
+            "intl_key": "",
+            "jp": "20250509",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": 160
+    },
+    {
+        "id": 151852,
+        "title": "[表]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "好きな譜面発表きょむりん",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                13.7
+            ],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "13+?"
+            ],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    399,
+                    75,
+                    102,
+                    79,
+                    30
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250926",
+            "intl_key": "",
+            "jp": "20250509",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": 160
+    },
+    {
+        "id": 161852,
+        "title": "[龍]好きな惣菜発表ドラゴン",
+        "type": "UTAGE",
+        "longmusic": false,
+        "comment": "好きな譜面発表アマリリス",
+        "cn_is_open": false,
+        "intl_is_open": true,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [
+                13.7
+            ],
+            "jp": [
+                13.7
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [
+                "13+?"
+            ],
+            "jp": [
+                "13+?"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    545,
+                    62,
+                    80,
+                    5,
+                    15
+                ],
+                "charter": "-"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "20250926",
+            "intl_key": "",
+            "jp": "20250509",
+            "jp_key": ""
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "maimai でらっくす PRiSM PLUS",
+            "intl_is_new": true,
+            "jp": "maimai でらっくす PRiSM PLUS",
+            "jp_is_new": true
+        },
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": 160
     }
 ]
