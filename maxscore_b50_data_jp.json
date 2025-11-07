@@ -149,6 +149,22 @@
             {
                 "achievements": 101.0,
                 "ds": 14.5,
+                "dxScore": 0,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 327,
+                "rate": "sssp",
+                "song_id": 11889,
+                "title": "Get U ♭ack",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
+                "ds": 14.5,
                 "dxScore": 2793,
                 "fc": "app",
                 "fs": "fdxp",
@@ -224,22 +240,6 @@
                 "song_id": 11925,
                 "title": "るろうらんる",
                 "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.2,
-                "dxScore": 1728,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 320,
-                "rate": "sssp",
-                "song_id": 1819,
-                "title": "AFTER PANDORA",
-                "type": "SD",
                 "play_count": 9999
             }
         ],
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16649,
+    "rating": 16656,
     "user_general_data": null,
     "username": "MaxScore"
 }

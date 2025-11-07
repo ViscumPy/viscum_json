@@ -28816,6 +28816,86 @@
             }
         ]
     },
+    "11886": {
+        "name": "真空都市",
+        "ver": "26005",
+        "composer": "ナナツカゼ",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 10.8
+            },
+            {
+                "lv": 13.4
+            }
+        ]
+    },
+    "11887": {
+        "name": "Eternal Return",
+        "ver": "26005",
+        "composer": "Tatsunoshin & Aira Arere",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 11.0
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
+    "11888": {
+        "name": "ぱぱぱらビーチ",
+        "ver": "26005",
+        "composer": "ぱぱぱらビーチ",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.5
+            },
+            {
+                "lv": 10.7
+            },
+            {
+                "lv": 13.6
+            }
+        ]
+    },
+    "11889": {
+        "name": "Get U ♭ack",
+        "ver": "26005",
+        "composer": "Ryo Fukuda",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 5.0
+            },
+            {
+                "lv": 8.7
+            },
+            {
+                "lv": 12.9
+            },
+            {
+                "lv": 14.5
+            }
+        ]
+    },
     "11899": {
         "name": "イーヴィルガール",
         "ver": "26000",

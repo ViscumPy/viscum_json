@@ -173530,6 +173530,374 @@
         "bpm": 132
     },
     {
+        "id": 11886,
+        "jacket_id": "001886",
+        "title": "真空都市",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.8,
+                10.8,
+                13.4
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "10+",
+                "13"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    12,
+                    5,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    16,
+                    11,
+                    48,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    77,
+                    35,
+                    36,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    27,
+                    66,
+                    38,
+                    29
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251107",
+            "jp_key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ナナツカゼ",
+        "genre": "maimai",
+        "bpm": 185
+    },
+    {
+        "id": 11887,
+        "jacket_id": "001887",
+        "title": "Eternal Return",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.8,
+                11.0,
+                13.8
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7+",
+                "11",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    197,
+                    17,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    103,
+                    43,
+                    44,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    624,
+                    56,
+                    112,
+                    77,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251107",
+            "jp_key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Tatsunoshin & Aira Arere",
+        "genre": "maimai",
+        "bpm": 180
+    },
+    {
+        "id": 11888,
+        "jacket_id": "001888",
+        "title": "ぱぱぱらビーチ",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                4.0,
+                7.5,
+                10.7,
+                13.6
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "4",
+                "7",
+                "10+",
+                "13+"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    205,
+                    10,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    311,
+                    14,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    394,
+                    37,
+                    62,
+                    11,
+                    49
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    626,
+                    21,
+                    87,
+                    41,
+                    56
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251107",
+            "jp_key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "ぱぱぱらビーチ",
+        "genre": "maimai",
+        "bpm": 160
+    },
+    {
+        "id": 11889,
+        "jacket_id": "001889",
+        "title": "Get U ♭ack",
+        "type": "DX",
+        "longmusic": false,
+        "comment": "",
+        "cn_is_open": false,
+        "intl_is_open": false,
+        "jp_is_open": true,
+        "ds": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                5.0,
+                8.7,
+                12.9,
+                14.5
+            ]
+        },
+        "level": {
+            "cn": [],
+            "intl": [],
+            "jp": [
+                "5",
+                "8+",
+                "12+",
+                "14"
+            ]
+        },
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "release_date": {
+            "cn": "",
+            "cn_key": "",
+            "intl": "",
+            "intl_key": "",
+            "jp": "20251107",
+            "jp_key": "【需要解禁】[完美挑战曲] [kawaiiちほー2]"
+        },
+        "version": {
+            "cn": "",
+            "cn_is_new": false,
+            "intl": "",
+            "intl_is_new": false,
+            "jp": "maimai でらっくす CiRCLE",
+            "jp_is_new": true
+        },
+        "artist": "Ryo Fukuda",
+        "genre": "maimai",
+        "bpm": 205
+    },
+    {
         "id": 11899,
         "jacket_id": "001899",
         "title": "イーヴィルガール",
