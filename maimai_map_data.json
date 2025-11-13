@@ -4236,7 +4236,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす SPLASH",
       "release_date": "20210121"
@@ -4246,8 +4246,8 @@
       "release_date": "20230203"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2021",
+      "release_date": "20251204"
     },
     "treasure": {
       "itemID": [
@@ -7363,7 +7363,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす UNiVERSE",
       "release_date": "20211015"
@@ -7373,8 +7373,8 @@
       "release_date": "20230519"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2022",
+      "release_date": "20251204"
     },
     "treasure": {
       "itemID": [
@@ -10790,7 +10790,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす FESTiVAL",
       "release_date": "20221007"
@@ -10800,8 +10800,8 @@
       "release_date": "20231006"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2023",
+      "release_date": "20251204"
     },
     "treasure": {
       "itemID": [
@@ -15454,7 +15454,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす BUDDiES",
       "release_date": "20240111"
@@ -15464,8 +15464,8 @@
       "release_date": "20241220"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2024",
+      "release_date": "20251204"
     },
     "treasure": {
       "itemID": [

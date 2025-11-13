@@ -102132,11 +102132,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                4.0,
+                6.5,
+                10.0,
+                13.2
+            ],
             "intl": [
                 4.0,
                 6.5,
@@ -102151,7 +102156,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "4",
+                "6",
+                "10",
+                "13"
+            ],
             "intl": [
                 "4",
                 "6",
@@ -102208,7 +102218,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20230203",
             "intl_key": "",
@@ -102216,8 +102226,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL",
             "intl_is_new": false,
             "jp": "maimai でらっくす Splash",
@@ -104342,11 +104352,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                2.0,
+                5.8,
+                9.0,
+                12.8
+            ],
             "intl": [
                 2.0,
                 5.8,
@@ -104361,7 +104376,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "2",
+                "5+",
+                "9",
+                "12+"
+            ],
             "intl": [
                 "2",
                 "5+",
@@ -104418,7 +104438,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20230203",
             "intl_key": "",
@@ -104426,8 +104446,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL",
             "intl_is_new": false,
             "jp": "maimai でらっくす Splash",
@@ -116890,11 +116910,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                2.0,
+                6.0,
+                8.7,
+                12.7
+            ],
             "intl": [
                 2.0,
                 6.0,
@@ -116909,7 +116934,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "2",
+                "6",
+                "8+",
+                "12+"
+            ],
             "intl": [
                 "2",
                 "6",
@@ -116966,7 +116996,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20230519",
             "intl_key": "",
@@ -116974,8 +117004,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL",
             "intl_is_new": false,
             "jp": "maimai でらっくす UNiVERSE",
@@ -120052,11 +120082,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                2.0,
+                7.4,
+                9.7,
+                12.1
+            ],
             "intl": [
                 2.0,
                 7.4,
@@ -120071,7 +120106,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "2",
+                "7",
+                "9+",
+                "12"
+            ],
             "intl": [
                 "2",
                 "7",
@@ -120128,7 +120168,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20230519",
             "intl_key": "",
@@ -120136,8 +120176,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL",
             "intl_is_new": false,
             "jp": "maimai でらっくす UNiVERSE",
@@ -120154,11 +120194,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                2.0,
+                7.7,
+                9.8,
+                12.8
+            ],
             "intl": [
                 2.0,
                 7.7,
@@ -120173,7 +120218,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "2",
+                "7+",
+                "9+",
+                "12+"
+            ],
             "intl": [
                 "2",
                 "7+",
@@ -120230,7 +120280,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20230519",
             "intl_key": "",
@@ -120238,8 +120288,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL",
             "intl_is_new": false,
             "jp": "maimai でらっくす UNiVERSE",
@@ -132596,11 +132646,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                1.0,
+                6.2,
+                9.5,
+                12.4
+            ],
             "intl": [
                 1.0,
                 6.2,
@@ -132615,7 +132670,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "1",
+                "6",
+                "9",
+                "12"
+            ],
             "intl": [
                 "1",
                 "6",
@@ -132672,7 +132732,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20231006",
             "intl_key": "",
@@ -132680,8 +132740,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす FESTiVAL",
@@ -132698,11 +132758,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                2.0,
+                6.0,
+                10.0,
+                12.8
+            ],
             "intl": [
                 2.0,
                 6.0,
@@ -132717,7 +132782,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "2",
+                "6",
+                "10",
+                "12+"
+            ],
             "intl": [
                 "2",
                 "6",
@@ -132774,7 +132844,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20231006",
             "intl_key": "",
@@ -132782,8 +132852,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす FESTiVAL",
@@ -132800,11 +132870,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                6.2,
+                9.7,
+                13.0
+            ],
             "intl": [
                 3.0,
                 6.2,
@@ -132819,7 +132894,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "6",
+                "9+",
+                "13"
+            ],
             "intl": [
                 "3",
                 "6",
@@ -132876,7 +132956,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20231006",
             "intl_key": "",
@@ -132884,8 +132964,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす FESTiVAL PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす FESTiVAL",
@@ -151064,11 +151144,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                6.5,
+                10.0,
+                13.0
+            ],
             "intl": [
                 3.0,
                 6.5,
@@ -151083,7 +151168,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "6",
+                "10",
+                "13"
+            ],
             "intl": [
                 "3",
                 "6",
@@ -151140,7 +151230,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20241220",
             "intl_key": "",
@@ -151148,8 +151238,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES",
@@ -151166,11 +151256,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                7.0,
+                9.7,
+                12.8
+            ],
             "intl": [
                 3.0,
                 7.0,
@@ -151185,7 +151280,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "7",
+                "9+",
+                "12+"
+            ],
             "intl": [
                 "3",
                 "7",
@@ -151242,7 +151342,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20241220",
             "intl_key": "",
@@ -151250,8 +151350,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES",
@@ -151268,11 +151368,16 @@
         "type": "DX",
         "longmusic": false,
         "comment": "",
-        "cn_is_open": false,
+        "cn_is_open": true,
         "intl_is_open": true,
         "jp_is_open": true,
         "ds": {
-            "cn": [],
+            "cn": [
+                3.0,
+                6.8,
+                10.5,
+                12.8
+            ],
             "intl": [
                 3.0,
                 6.8,
@@ -151287,7 +151392,12 @@
             ]
         },
         "level": {
-            "cn": [],
+            "cn": [
+                "3",
+                "6+",
+                "10",
+                "12+"
+            ],
             "intl": [
                 "3",
                 "6+",
@@ -151344,7 +151454,7 @@
             }
         ],
         "release_date": {
-            "cn": "",
+            "cn": "20251204",
             "cn_key": "",
             "intl": "20241220",
             "intl_key": "",
@@ -151352,8 +151462,8 @@
             "jp_key": ""
         },
         "version": {
-            "cn": "",
-            "cn_is_new": false,
+            "cn": "maimai 舞萌DX 2025",
+            "cn_is_new": true,
             "intl": "maimai でらっくす BUDDiES PLUS",
             "intl_is_new": false,
             "jp": "maimai でらっくす BUDDiES",
