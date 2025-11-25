@@ -132,6 +132,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.4,
+                "dxScore": 3264,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 324,
+                "rate": "sssp",
+                "song_id": 11876,
+                "title": "Retribution ～ Cycle of Redemption ～",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.3,
                 "dxScore": 2226,
                 "fc": "app",
@@ -196,6 +212,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.2,
+                "dxScore": 2010,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 319,
+                "rate": "sssp",
+                "song_id": 11861,
+                "title": "∀",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.1,
                 "dxScore": 2829,
                 "fc": "app",
@@ -207,38 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11815,
                 "title": "IMBRUED:FLUX",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.1,
-                "dxScore": 3309,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 317,
-                "rate": "sssp",
-                "song_id": 11842,
-                "title": "Synthesis.",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.1,
-                "dxScore": 3222,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 317,
-                "rate": "sssp",
-                "song_id": 11848,
-                "title": "Overjoy ★ OVERDOSE!!",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16563,
+    "rating": 16572,
     "user_general_data": null,
     "username": "MaxScore"
 }
