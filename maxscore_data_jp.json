@@ -97027,6 +97027,22 @@
         },
         {
             "achievements": 101.0,
+            "ds": 5.0,
+            "dxScore": 48,
+            "fc": "app",
+            "fs": "fdxp",
+            "level": "5?",
+            "level_index": 0,
+            "level_label": "Basic",
+            "ra": 113,
+            "rate": "sssp",
+            "song_id": 111936,
+            "title": "[鍛]Let's ミクササイズ！！",
+            "type": "UTAGE",
+            "play_count": 9999
+        },
+        {
+            "achievements": 101.0,
             "ds": 14.0,
             "dxScore": 2997,
             "fc": "app",
