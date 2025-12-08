@@ -39950,6 +39950,73 @@
         }
     },
     {
+        "id": "1327",
+        "title": "僕は空気が嫁ない",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    144,
+                    10,
+                    4,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    15,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    374,
+                    52,
+                    46,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    581,
+                    19,
+                    135,
+                    35
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "僕は空気が嫁ない",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 192,
+            "release_date": "20251205",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [サークルフェスタ報酬 STnew]"
+        }
+    },
+    {
         "id": "1736",
         "title": "プリズム△▽リズム",
         "type": "SD",
@@ -40365,6 +40432,77 @@
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": "【需要解禁】[课题曲] [バラエティDXnew1曲(Lock)追加]"
+        }
+    },
+    {
+        "id": "10106",
+        "title": "BAD∞END∞NIGHT",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.2,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    8,
+                    4,
+                    12,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    12,
+                    6,
+                    13,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    45,
+                    33,
+                    9,
+                    72
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    411,
+                    45,
+                    111,
+                    15,
+                    36
+                ],
+                "charter": "メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "BAD∞END∞NIGHT",
+            "artist": "ひとしずくP・やま△",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 204,
+            "release_date": "20251205",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [niconicoDXnew]"
         }
     },
     {
@@ -100537,6 +100675,77 @@
         }
     },
     {
+        "id": "11901",
+        "title": "ラストピースに祝福と栄光を",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            7.0,
+            9.0,
+            12.9,
+            14.6
+        ],
+        "level": [
+            "7",
+            "9",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    312,
+                    8,
+                    6,
+                    28,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    426,
+                    25,
+                    13,
+                    40,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    539,
+                    80,
+                    53,
+                    55,
+                    44
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    960,
+                    43,
+                    118,
+                    179,
+                    99
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "ラストピースに祝福と栄光を",
+            "artist": "cosMo＠暴走P",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 280,
+            "release_date": "20251205",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [cosMo＠暴走Pちほー2]"
+        }
+    },
+    {
         "id": "11906",
         "title": "Unwelcome School",
         "type": "DX",
@@ -102484,6 +102693,148 @@
             "genre": "niconico & ボーカロイド",
             "bpm": 180,
             "release_date": "20251120",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11935",
+        "title": "初音ミクの暴走",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.8,
+            12.7,
+            13.9
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    280,
+                    12,
+                    4,
+                    9,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    339,
+                    14,
+                    10,
+                    38,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    678,
+                    39,
+                    52,
+                    20,
+                    27
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    671,
+                    159,
+                    75,
+                    65,
+                    121
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "初音ミクの暴走",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 310,
+            "release_date": "20251205",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11936",
+        "title": "Let's ミクササイズ！！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            12.4,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    244,
+                    17,
+                    8,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    16,
+                    13,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    657,
+                    70,
+                    27,
+                    19,
+                    97
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    817,
+                    69,
+                    142,
+                    21,
+                    62
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Let's ミクササイズ！！",
+            "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 239,
+            "release_date": "20251205",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""

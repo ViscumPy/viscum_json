@@ -21903,5 +21903,130 @@
         425000
       ]
     }
+  },
+  {
+    "mapId": "600057",
+    "mapName": "cosMo@暴走Pちほー2",
+    "IsInfinity": "false",
+    "IsCollabo": "true",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20251205"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        605701,
+        11936,
+        605701,
+        605701,
+        605702,
+        10411,
+        605703,
+        605702,
+        750,
+        605703,
+        11935,
+        605702,
+        605704,
+        11901,
+        605703
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Frame",
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "NamePlate",
+        "MapTaskMusic",
+        "NamePlate",
+        "MapTaskMusic",
+        "Frame",
+        "Character",
+        "MapTaskMusic",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "背景",
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "姓名框",
+        "课题曲",
+        "姓名框",
+        "课题曲",
+        "背景",
+        "旅行伙伴",
+        "课题曲",
+        "背景"
+      ],
+      "treasureId": [
+        605701,
+        605771,
+        605751,
+        605761,
+        605702,
+        605774,
+        605703,
+        605752,
+        605775,
+        605753,
+        605772,
+        605762,
+        605704,
+        605773,
+        605763
+      ],
+      "treasureName": [
+        "初音ミク（Let's ミクササイズ！！）",
+        "Let's ミクササイズ！！",
+        "cosMo@暴走Pちほー2 その1",
+        "cosMo@暴走Pちほー2 その1",
+        "初音ミク（初音ミクの消失）",
+        "初音ミクの消失",
+        "初音ミク（ヤミナベ!!!!）",
+        "cosMo@暴走Pちほー2 その2",
+        "初音ミクの激唱",
+        "cosMo@暴走Pちほー2 その3",
+        "初音ミクの暴走",
+        "cosMo@暴走Pちほー2 その2",
+        "アストライア／審判の炎",
+        "ラストピースに祝福と栄光を",
+        "cosMo@暴走Pちほー2 その3"
+      ],
+      "distance": [
+        0,
+        20000,
+        30000,
+        50000,
+        60000,
+        80000,
+        100000,
+        120000,
+        140000,
+        150000,
+        175000,
+        200000,
+        300000,
+        500000,
+        550000
+      ]
+    }
   }
 ]
