@@ -105316,6 +105316,40 @@
         }
     },
     {
+        "id": 111936,
+        "title": "[鍛]Let's ミクササイズ！！",
+        "type": "UTAGE",
+        "comment": "ここにコメントが入ります[Sega官方测试用谱面]",
+        "ds": [
+            5.0
+        ],
+        "level": [
+            "5?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    15,
+                    0,
+                    0,
+                    1
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[鍛]Let's ミクササイズ！！",
+            "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
+            "genre": "宴会場",
+            "bpm": 239,
+            "release_date": "20251205",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 120227,
         "title": "[r]Garakuta Doll Play",
         "type": "UTAGE",
