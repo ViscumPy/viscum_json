@@ -20808,6 +20808,101 @@
     }
   },
   {
+    "mapId": "600003",
+    "mapName": "高天原ちほー2",
+    "IsInfinity": "false",
+    "IsCollabo": "false",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20251212"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        600301,
+        11890,
+        600302,
+        11891,
+        600301,
+        600303,
+        11892,
+        600304,
+        118930,
+        600301
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "Challenge",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "完美挑战曲",
+        "背景"
+      ],
+      "treasureId": [
+        600301,
+        600371,
+        600302,
+        600372,
+        600351,
+        600303,
+        600373,
+        600304,
+        600381,
+        600361
+      ],
+      "treasureName": [
+        "ミクマリ",
+        "ミクマリ",
+        "クロツネ",
+        "雲外蒼電 -Dreaming Voltage-",
+        "高天原ちほー2",
+        "ニギ",
+        "鬼女紅妖",
+        "メノウ",
+        "華天月兎 高天原ちほー2 チャレンジ",
+        "高天原ちほー2"
+      ],
+      "distance": [
+        0,
+        75000,
+        150000,
+        300000,
+        350000,
+        450000,
+        600000,
+        700000,
+        800000,
+        1000000
+      ]
+    }
+  },
+  {
     "mapId": "600005",
     "mapName": "サークルちほー",
     "IsInfinity": "true",
