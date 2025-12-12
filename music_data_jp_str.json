@@ -100765,19 +100765,43 @@
         "cids": [],
         "charts": [
             {
-                "notes": [],
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "charter": "-"
             },
             {
-                "notes": [],
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "charter": "-"
             },
             {
-                "notes": [],
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "charter": "Jack"
             },
             {
-                "notes": [],
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
                 "charter": "はっぴー"
             }
         ],
