@@ -212,6 +212,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.4,
+                "dxScore": 0,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 325,
+                "rate": "sssp",
+                "song_id": 11893,
+                "title": "華天月兎",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.3,
                 "dxScore": 2226,
                 "fc": "app",
@@ -223,22 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11823,
                 "title": "Zitronectar",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.3,
-                "dxScore": 2640,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 322,
-                "rate": "sssp",
-                "song_id": 11918,
-                "title": "ニルヴの心臓",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16663,
+    "rating": 16666,
     "user_general_data": null,
     "username": "MaxScore"
 }

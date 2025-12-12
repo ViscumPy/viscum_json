@@ -100533,6 +100533,266 @@
         }
     },
     {
+        "id": 11890,
+        "title": "ミクマリ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.6,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    171,
+                    11,
+                    9,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    315,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    74,
+                    53,
+                    31,
+                    16
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    549,
+                    59,
+                    67,
+                    73,
+                    29
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ミクマリ",
+            "artist": "テヅカ",
+            "genre": "maimai",
+            "bpm": 174,
+            "release_date": "20251212",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [高天原ちほー2]"
+        }
+    },
+    {
+        "id": 11891,
+        "title": "雲外蒼電 -Dreaming Voltage-",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            12.2,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    184,
+                    13,
+                    5,
+                    14,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    275,
+                    14,
+                    9,
+                    27,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    46,
+                    56,
+                    16,
+                    87
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    584,
+                    53,
+                    96,
+                    72,
+                    71
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "雲外蒼電 -Dreaming Voltage-",
+            "artist": "adaptor vs DRIVE.",
+            "genre": "maimai",
+            "bpm": 160,
+            "release_date": "20251212",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [高天原ちほー2]"
+        }
+    },
+    {
+        "id": 11892,
+        "title": "鬼女紅妖",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            11.7,
+            14.1
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    209,
+                    13,
+                    4,
+                    9,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    282,
+                    14,
+                    12,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    378,
+                    95,
+                    33,
+                    9,
+                    16
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    690,
+                    53,
+                    73,
+                    15,
+                    103
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "鬼女紅妖",
+            "artist": "Earliri",
+            "genre": "maimai",
+            "bpm": 165,
+            "release_date": "20251212",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [高天原ちほー2]"
+        }
+    },
+    {
+        "id": 11893,
+        "title": "華天月兎",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.2,
+            12.5,
+            14.4
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "-"
+            },
+            {
+                "notes": [],
+                "charter": "Jack"
+            },
+            {
+                "notes": [],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "華天月兎",
+            "artist": "satella feat.Risa Yuzuki",
+            "genre": "maimai",
+            "bpm": 184,
+            "release_date": "20251212",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[完美挑战曲] [高天原ちほー2]"
+        }
+    },
+    {
         "id": 11899,
         "title": "イーヴィルガール",
         "type": "DX",
@@ -105313,40 +105573,6 @@
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""
-        }
-    },
-    {
-        "id": 111936,
-        "title": "[鍛]Let's ミクササイズ！！",
-        "type": "UTAGE",
-        "comment": "ここにコメントが入ります[Sega官方测试用谱面]",
-        "ds": [
-            5.0
-        ],
-        "level": [
-            "5?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    15,
-                    0,
-                    0,
-                    1
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[鍛]Let's ミクササイズ！！",
-            "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
-            "genre": "宴会場",
-            "bpm": 239,
-            "release_date": "20251205",
-            "from": "maimai でらっくす CiRCLE",
-            "is_new": true,
-            "key": "[不可游玩]"
         }
     },
     {

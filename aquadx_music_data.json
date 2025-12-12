@@ -28948,6 +28948,86 @@
             }
         ]
     },
+    "11890": {
+        "name": "ミクマリ",
+        "ver": "26008",
+        "composer": "テヅカ",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 10.6
+            },
+            {
+                "lv": 13.5
+            }
+        ]
+    },
+    "11891": {
+        "name": "雲外蒼電 -Dreaming Voltage-",
+        "ver": "26008",
+        "composer": "adaptor vs DRIVE.",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 7.7
+            },
+            {
+                "lv": 12.2
+            },
+            {
+                "lv": 13.9
+            }
+        ]
+    },
+    "11892": {
+        "name": "鬼女紅妖",
+        "ver": "26008",
+        "composer": "Earliri",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 5.0
+            },
+            {
+                "lv": 8.0
+            },
+            {
+                "lv": 11.7
+            },
+            {
+                "lv": 14.1
+            }
+        ]
+    },
+    "11893": {
+        "name": "華天月兎",
+        "ver": "26008",
+        "composer": "satella feat.Risa Yuzuki",
+        "genre": "maimai",
+        "notes": [
+            {
+                "lv": 5.0
+            },
+            {
+                "lv": 8.2
+            },
+            {
+                "lv": 12.5
+            },
+            {
+                "lv": 14.4
+            }
+        ]
+    },
     "11899": {
         "name": "イーヴィルガール",
         "ver": "26000",
@@ -30307,17 +30387,6 @@
         "notes": [
             {
                 "lv": 13.0
-            }
-        ]
-    },
-    "111936": {
-        "name": "[鍛]Let's ミクササイズ！！",
-        "ver": "26007",
-        "composer": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
-        "genre": "宴会場",
-        "notes": [
-            {
-                "lv": 5.0
             }
         ]
     },
