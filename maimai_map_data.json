@@ -17513,7 +17513,7 @@
     "IsCollabo": "false",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PRiSM",
       "release_date": "20240912"
@@ -17523,8 +17523,8 @@
       "release_date": "20250116"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2025",
+      "release_date": "20251224"
     },
     "treasure": {
       "itemID": [
@@ -17893,7 +17893,7 @@
     "IsCollabo": "false",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PRiSM",
       "release_date": "20240912"
@@ -17903,8 +17903,8 @@
       "release_date": "20250116"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2025",
+      "release_date": "20251224"
     },
     "treasure": {
       "itemID": [
@@ -18143,7 +18143,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PRiSM",
       "release_date": "20240912"
@@ -18153,8 +18153,8 @@
       "release_date": "20250116"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2025",
+      "release_date": "20251224"
     },
     "treasure": {
       "itemID": [
@@ -18428,7 +18428,7 @@
     "IsCollabo": "true",
     "jp_available": true,
     "intl_available": true,
-    "cn_available": false,
+    "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PRiSM",
       "release_date": "20241108"
@@ -18438,8 +18438,8 @@
       "release_date": "20250425"
     },
     "cn": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai 舞萌DX 2025",
+      "release_date": "20251224"
     },
     "treasure": {
       "itemID": [

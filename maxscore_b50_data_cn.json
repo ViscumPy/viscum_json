@@ -52,6 +52,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.7,
+                "dxScore": 2985,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14+",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 330,
+                "rate": "sssp",
+                "song_id": 11741,
+                "title": "Cryptarithm",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.6,
                 "dxScore": 3867,
                 "fc": "app",
@@ -223,22 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11725,
                 "title": "ミラクルポップ☆アドベンチャー!!!!!",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.0,
-                "dxScore": 2607,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 315,
-                "rate": "sssp",
-                "song_id": 11691,
-                "title": "Ai C",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16541,
+    "rating": 16556,
     "user_general_data": null,
     "username": "MaxScore"
 }
