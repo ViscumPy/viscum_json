@@ -116,6 +116,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.7,
+                "dxScore": 3459,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14+?",
+                "level_index": 0,
+                "level_label": "Basic",
+                "ra": 331,
+                "rate": "sssp",
+                "song_id": 110684,
+                "title": "[一]もうみんなしねばいいのに",
+                "type": "UTAGE",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.6,
                 "dxScore": 3117,
                 "fc": "app",
@@ -196,6 +212,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.5,
+                "dxScore": 0,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 327,
+                "rate": "sssp",
+                "song_id": 11942,
+                "title": "ヤミナベ!!!!",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.4,
                 "dxScore": 3264,
                 "fc": "app",
@@ -207,38 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11876,
                 "title": "Retribution ～ Cycle of Redemption ～",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.4,
-                "dxScore": 2664,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 325,
-                "rate": "sssp",
-                "song_id": 11893,
-                "title": "華天月兎",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.3,
-                "dxScore": 2226,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 322,
-                "rate": "sssp",
-                "song_id": 11823,
-                "title": "Zitronectar",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16666,
+    "rating": 16677,
     "user_general_data": null,
     "username": "MaxScore"
 }
