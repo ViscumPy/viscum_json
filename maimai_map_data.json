@@ -22123,5 +22123,100 @@
         550000
       ]
     }
+  },
+  {
+    "mapId": "600058",
+    "mapName": "しぐれういちほー",
+    "IsInfinity": "false",
+    "IsCollabo": "true",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260109"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        605801,
+        11939,
+        605801,
+        605802,
+        605801,
+        605802,
+        605803,
+        605804,
+        11940,
+        605802
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Character",
+        "Frame",
+        "NamePlate",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "旅行伙伴",
+        "背景",
+        "姓名框",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "背景"
+      ],
+      "treasureId": [
+        605801,
+        605871,
+        605851,
+        605802,
+        605861,
+        605852,
+        605803,
+        605804,
+        605872,
+        605862
+      ],
+      "treasureName": [
+        "しぐれうい",
+        "うい麦畑でつかまえて",
+        "しぐれういちほー その1",
+        "しぐれうい（私服）",
+        "しぐれういちほー その1",
+        "しぐれういちほー その2",
+        "しぐれうい（夏服）",
+        "しぐれうい（9さい）",
+        "勝手に生きましょ",
+        "しぐれういちほー その2"
+      ],
+      "distance": [
+        0,
+        15000,
+        30000,
+        45000,
+        60000,
+        90000,
+        120000,
+        150000,
+        180000,
+        200000
+      ]
+    }
   }
 ]
