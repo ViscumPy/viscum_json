@@ -37345,7 +37345,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "key": ""
         }
     },
     {
@@ -37412,7 +37412,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "key": ""
         }
     },
     {
@@ -37483,7 +37483,7 @@
             "release_date": "20250905",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [盖章乐曲]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -37554,7 +37554,7 @@
             "release_date": "20240725",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -37767,7 +37767,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [盖章乐曲]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -38122,7 +38122,7 @@
             "release_date": "20251205",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [盖章乐曲]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -38410,6 +38410,77 @@
         }
     },
     {
+        "id": 10199,
+        "title": "チルノのパーフェクトさんすう教室",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.7,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    147,
+                    9,
+                    4,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    12,
+                    4,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    186,
+                    122,
+                    19,
+                    26,
+                    9
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    457,
+                    43,
+                    107,
+                    49,
+                    37
+                ],
+                "charter": "まぐランド"
+            }
+        ],
+        "basic_info": {
+            "title": "チルノのパーフェクトさんすう教室",
+            "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+            "genre": "東方Project",
+            "bpm": 175,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": "[需要解禁] [盖章乐曲]"
+        }
+    },
+    {
         "id": 10202,
         "title": "Grip & Break down !!",
         "type": "DX",
@@ -38619,7 +38690,7 @@
             "release_date": "20241004",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -39187,7 +39258,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [盖章乐曲]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -39613,7 +39684,7 @@
             "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [盖章乐曲]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -39684,7 +39755,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -39968,7 +40039,7 @@
             "release_date": "20250328",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -40039,7 +40110,7 @@
             "release_date": "20250704",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -40891,7 +40962,7 @@
             "release_date": "20250411",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -41175,7 +41246,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "key": ""
         }
     },
     {
@@ -49399,77 +49470,6 @@
             "genre": "ゲーム & バラエティ",
             "bpm": 190,
             "release_date": "20201023",
-            "from": "maimai でらっくす PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 11150,
-        "title": "ウマイネームイズうまみちゃん",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            2.0,
-            6.5,
-            8.8,
-            12.0
-        ],
-        "level": [
-            "2",
-            "6",
-            "8+",
-            "12"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    60,
-                    11,
-                    3,
-                    12,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    200,
-                    15,
-                    13,
-                    9,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    241,
-                    47,
-                    36,
-                    21,
-                    16
-                ],
-                "charter": "ロシェ@ペンギン"
-            },
-            {
-                "notes": [
-                    380,
-                    14,
-                    109,
-                    22,
-                    19
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "ウマイネームイズうまみちゃん",
-            "artist": "UMAINA",
-            "genre": "POPS & アニメ",
-            "bpm": 184,
-            "release_date": "20201204",
             "from": "maimai でらっくす PLUS",
             "is_new": false,
             "key": ""
@@ -65240,148 +65240,6 @@
         }
     },
     {
-        "id": 11420,
-        "title": "Photon Melodies",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            6.5,
-            10.5,
-            13.2
-        ],
-        "level": [
-            "3",
-            "6",
-            "10",
-            "13"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    106,
-                    8,
-                    3,
-                    0,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    116,
-                    16,
-                    14,
-                    27,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    222,
-                    86,
-                    23,
-                    18,
-                    12
-                ],
-                "charter": "ロシェ@ペンギン"
-            },
-            {
-                "notes": [
-                    359,
-                    26,
-                    121,
-                    54,
-                    15
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "Photon Melodies",
-            "artist": "Photon Maiden",
-            "genre": "POPS & アニメ",
-            "bpm": 128,
-            "release_date": "20220922",
-            "from": "maimai でらっくす UNiVERSE PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 11421,
-        "title": "吾輩よ猫であれ",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            6.8,
-            8.7,
-            12.2
-        ],
-        "level": [
-            "3",
-            "6+",
-            "8+",
-            "12"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    103,
-                    7,
-                    3,
-                    7,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    169,
-                    23,
-                    10,
-                    25,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    223,
-                    72,
-                    22,
-                    25,
-                    6
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    377,
-                    56,
-                    90,
-                    27,
-                    8
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "吾輩よ猫であれ",
-            "artist": "Lyrical Lily",
-            "genre": "POPS & アニメ",
-            "bpm": 136,
-            "release_date": "20220922",
-            "from": "maimai でらっくす UNiVERSE PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": 11422,
         "title": "　",
         "type": "DX",
@@ -65944,148 +65802,6 @@
             "genre": "ゲーム & バラエティ",
             "bpm": 202,
             "release_date": "20221007",
-            "from": "maimai でらっくす UNiVERSE PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 11430,
-        "title": "オントロジー",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            7.2,
-            10.2,
-            12.8
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "12+"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    103,
-                    4,
-                    6,
-                    15,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    329,
-                    15,
-                    13,
-                    15,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    449,
-                    39,
-                    24,
-                    16,
-                    14
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    479,
-                    30,
-                    149,
-                    20,
-                    24
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "オントロジー",
-            "artist": "Rain Drops",
-            "genre": "POPS & アニメ",
-            "bpm": 192,
-            "release_date": "20221104",
-            "from": "maimai でらっくす UNiVERSE PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 11431,
-        "title": "剣を抜け！GCCX MAX",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            3.0,
-            6.5,
-            9.0,
-            12.9
-        ],
-        "level": [
-            "3",
-            "6",
-            "9",
-            "12+"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    143,
-                    5,
-                    5,
-                    9,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    181,
-                    20,
-                    8,
-                    66,
-                    16
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    218,
-                    114,
-                    44,
-                    17,
-                    32
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    359,
-                    96,
-                    101,
-                    168,
-                    64
-                ],
-                "charter": "ぴちネコ"
-            }
-        ],
-        "basic_info": {
-            "title": "剣を抜け！GCCX MAX",
-            "artist": "メッセメッセクラブ",
-            "genre": "POPS & アニメ",
-            "bpm": 140,
-            "release_date": "20221028",
             "from": "maimai でらっくす UNiVERSE PLUS",
             "is_new": false,
             "key": ""
@@ -67222,77 +66938,6 @@
             "genre": "オンゲキ & CHUNITHM",
             "bpm": 215,
             "release_date": "20221223",
-            "from": "maimai でらっくす UNiVERSE PLUS",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 11450,
-        "title": "YONA YONA DANCE",
-        "type": "DX",
-        "comment": "",
-        "ds": [
-            1.0,
-            6.5,
-            9.0,
-            12.5
-        ],
-        "level": [
-            "1",
-            "6",
-            "9",
-            "12"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    72,
-                    8,
-                    7,
-                    8,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    260,
-                    26,
-                    9,
-                    11,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    280,
-                    93,
-                    23,
-                    96,
-                    12
-                ],
-                "charter": "隅田川星人"
-            },
-            {
-                "notes": [
-                    404,
-                    67,
-                    116,
-                    53,
-                    27
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "YONA YONA DANCE",
-            "artist": "和田アキ子",
-            "genre": "POPS & アニメ",
-            "bpm": 145,
-            "release_date": "20220728",
             "from": "maimai でらっくす UNiVERSE PLUS",
             "is_new": false,
             "key": ""
@@ -85485,7 +85130,7 @@
             "release_date": "20241115",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -85556,7 +85201,7 @@
             "release_date": "20241115",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -85627,7 +85272,7 @@
             "release_date": "20241115",
             "from": "maimai でらっくす BUDDiES PLUS",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -86337,7 +85982,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -86408,7 +86053,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -86479,7 +86124,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [完美挑战曲] [?]"
+            "key": ""
         }
     },
     {
@@ -86692,7 +86337,7 @@
             "release_date": "20250523",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -86763,7 +86408,7 @@
             "release_date": "20250523",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -86834,7 +86479,7 @@
             "release_date": "20250523",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [完美挑战曲] [?]"
+            "key": ""
         }
     },
     {
@@ -87260,7 +86905,7 @@
             "release_date": "20250227",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -87331,7 +86976,7 @@
             "release_date": "20250227",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -87402,7 +87047,7 @@
             "release_date": "20250227",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [完美挑战曲] [?]"
+            "key": ""
         }
     },
     {
@@ -87544,7 +87189,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -87828,7 +87473,7 @@
             "release_date": "20250620",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲] [チュウニズム&オンゲキ]"
+            "key": ""
         }
     },
     {
@@ -87899,7 +87544,7 @@
             "release_date": "20250620",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲] [チュウニズム&オンゲキ]"
+            "key": ""
         }
     },
     {
@@ -89876,7 +89521,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -89947,7 +89592,7 @@
             "release_date": "20250116",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -90018,7 +89663,7 @@
             "release_date": "20250523",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
+            "key": ""
         }
     },
     {
@@ -90728,7 +90373,7 @@
             "release_date": "20250704",
             "from": "maimai でらっくす PRiSM",
             "is_new": false,
-            "key": "[需要解禁] [课题曲] [バラエティ]"
+            "key": ""
         }
     },
     {
@@ -91083,7 +90728,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [なないろちほー]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91154,7 +90799,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [なないろちほー]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91225,7 +90870,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [完美挑战曲] [なないろちほー]"
+            "key": "[需要解禁] [完美挑战曲] [?]"
         }
     },
     {
@@ -91296,7 +90941,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [黄の扉]"
+            "key": ""
         }
     },
     {
@@ -91367,7 +91012,7 @@
             "release_date": "20250801",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [LEGEND乐曲]"
+            "key": ""
         }
     },
     {
@@ -91438,7 +91083,7 @@
             "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [ドラゴンちほー4]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91509,7 +91154,7 @@
             "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [ドラゴンちほー4]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91580,7 +91225,7 @@
             "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [完美挑战曲] [ドラゴンちほー4]"
+            "key": "[需要解禁] [完美挑战曲] [?]"
         }
     },
     {
@@ -91651,7 +91296,7 @@
             "release_date": "20250926",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [赤の扉]"
+            "key": ""
         }
     },
     {
@@ -91722,7 +91367,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [7sRefちほー4]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91793,7 +91438,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [7sRefちほー4]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -91864,7 +91509,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [完美挑战曲] [7sRefちほー4]"
+            "key": "[需要解禁] [完美挑战曲] [?]"
         }
     },
     {
@@ -91935,7 +91580,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [プリズムタワー]"
+            "key": ""
         }
     },
     {
@@ -92018,7 +91663,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "key": ""
         }
     },
     {
@@ -92089,7 +91734,7 @@
             "release_date": "20251114",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [KALEIDXSCOPE] [繧ｫ繝ｬ繧､繝峨せ繧ｳ繝ｼ繝励?]"
+            "key": ""
         }
     },
     {
@@ -92373,7 +92018,7 @@
             "release_date": "20251017",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [机台联动乐曲]"
+            "key": ""
         }
     },
     {
@@ -92586,7 +92231,7 @@
             "release_date": "20250801",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [CHUNITHMちほー4]"
+            "key": ""
         }
     },
     {
@@ -92657,7 +92302,7 @@
             "release_date": "20250801",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [CHUNITHMちほー4]"
+            "key": ""
         }
     },
     {
@@ -92728,7 +92373,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [机台联动乐曲]"
+            "key": ""
         }
     },
     {
@@ -92870,7 +92515,7 @@
             "release_date": "20250724",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [NEEDY GIRL OVERDOSEちほー2]"
+            "key": ""
         }
     },
     {
@@ -95900,7 +95545,7 @@
             "release_date": "20251219",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [Phigrosちほー]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -95971,7 +95616,7 @@
             "release_date": "20251219",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
-            "key": "[需要解禁] [课题曲] [Phigrosちほー]"
+            "key": "[需要解禁] [课题曲/盖章/机台联动] [?]"
         }
     },
     {
@@ -96188,6 +95833,219 @@
         }
     },
     {
+        "id": 11880,
+        "title": "CiRCLE CAMPAiGN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    9,
+                    8,
+                    6,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    337,
+                    18,
+                    15,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    418,
+                    65,
+                    54,
+                    19,
+                    63
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    661,
+                    40,
+                    188,
+                    37,
+                    39
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "CiRCLE CAMPAiGN",
+            "artist": "サツキ feat.天音かなた",
+            "genre": "maimai",
+            "bpm": 182,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11881,
+        "title": "Magical Paradox",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    227,
+                    30,
+                    4,
+                    15,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    319,
+                    16,
+                    13,
+                    46,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    365,
+                    84,
+                    68,
+                    47,
+                    22
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    737,
+                    82,
+                    102,
+                    45,
+                    86
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Magical Paradox",
+            "artist": "Mr.Asyu",
+            "genre": "maimai",
+            "bpm": 192,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": "【需要解禁】[课题曲] [トリコロちほー]"
+        }
+    },
+    {
+        "id": 11882,
+        "title": "殿ッ！？ご乱心！？",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.7,
+            14.2
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    258,
+                    14,
+                    6,
+                    13,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    25,
+                    12,
+                    30,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    62,
+                    53,
+                    15,
+                    69
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    81,
+                    98,
+                    96,
+                    112
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "殿ッ！？ご乱心！？",
+            "artist": "Shu feat. 天羽しろっぷ",
+            "genre": "maimai",
+            "bpm": 200,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": "[需要解禁] [完美挑战曲] [トリコロちほー]"
+        }
+    },
+    {
         "id": 11885,
         "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
         "type": "DX",
@@ -96256,6 +96114,1249 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "[需要解禁] [KOP7th] 予選楽曲"
+        }
+    },
+    {
+        "id": 11899,
+        "title": "イーヴィルガール",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.2,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    196,
+                    15,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    18,
+                    8,
+                    28,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    438,
+                    99,
+                    62,
+                    18,
+                    25
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    782,
+                    128,
+                    78,
+                    65,
+                    67
+                ],
+                "charter": "Luxizhel & 鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "イーヴィルガール",
+            "artist": "Fushi feat.吉乃",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": "[需要解禁] [机台联动乐曲]"
+        }
+    },
+    {
+        "id": 11900,
+        "title": "Dazzle hop",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            9.0,
+            12.8,
+            14.2
+        ],
+        "level": [
+            "6",
+            "9",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    229,
+                    5,
+                    11,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    389,
+                    12,
+                    19,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    470,
+                    98,
+                    79,
+                    12,
+                    75
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    593,
+                    58,
+                    111,
+                    78,
+                    13
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Dazzle hop",
+            "artist": "Sampling Masters MEGA",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 220,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11906,
+        "title": "Unwelcome School",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            10.7,
+            12.2,
+            14.0
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    258,
+                    12,
+                    6,
+                    28,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    76,
+                    48,
+                    16,
+                    13
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    566,
+                    29,
+                    95,
+                    33,
+                    22
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    706,
+                    17,
+                    152,
+                    37,
+                    48
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Unwelcome School",
+            "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11907,
+        "title": "彩りキャンバス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    88,
+                    13,
+                    2,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    169,
+                    16,
+                    8,
+                    11,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    235,
+                    28,
+                    30,
+                    20,
+                    15
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    333,
+                    28,
+                    56,
+                    22,
+                    27
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "彩りキャンバス",
+            "artist": "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11908,
+        "title": "死ぬな！",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.5,
+            9.8,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    19,
+                    4,
+                    19,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    296,
+                    11,
+                    7,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    269,
+                    48,
+                    43,
+                    0,
+                    15
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    457,
+                    32,
+                    64,
+                    58,
+                    30
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "POPS & アニメ",
+            "bpm": 220,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11909,
+        "title": "どんぐりGAME",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.5,
+            10.2,
+            13.6
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    134,
+                    13,
+                    4,
+                    10,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    207,
+                    19,
+                    7,
+                    28,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    237,
+                    91,
+                    33,
+                    39,
+                    20
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    326,
+                    13,
+                    189,
+                    57,
+                    23
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "どんぐりGAME",
+            "artist": "こっちのけんと",
+            "genre": "POPS & アニメ",
+            "bpm": 130,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11911,
+        "title": "Overdose",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            1.0,
+            6.5,
+            9.7,
+            13.0
+        ],
+        "level": [
+            "1",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    84,
+                    10,
+                    3,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    181,
+                    8,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    214,
+                    12,
+                    32,
+                    12,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    336,
+                    23,
+                    88,
+                    6,
+                    15
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Overdose",
+            "artist": "なとり",
+            "genre": "POPS & アニメ",
+            "bpm": 118,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11912,
+        "title": "Bring it on",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    10,
+                    6,
+                    10,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    233,
+                    10,
+                    10,
+                    28,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    31,
+                    40,
+                    29,
+                    56
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    572,
+                    84,
+                    87,
+                    59,
+                    22
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Bring it on",
+            "artist": "ROF-MAO",
+            "genre": "POPS & アニメ",
+            "bpm": 143,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11913,
+        "title": "モニタリング",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.2,
+            10.7,
+            11.8,
+            13.4
+        ],
+        "level": [
+            "3",
+            "6",
+            "10+",
+            "11+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    123,
+                    11,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    202,
+                    8,
+                    9,
+                    26,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    49,
+                    60,
+                    17,
+                    17
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    344,
+                    26,
+                    97,
+                    19,
+                    11
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    439,
+                    43,
+                    102,
+                    31,
+                    31
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "モニタリング",
+            "artist": "DECO*27",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 132,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11914,
+        "title": "テトリス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.0,
+            10.8,
+            12.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "12",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    218,
+                    7,
+                    4,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    19,
+                    8,
+                    24,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    346,
+                    65,
+                    60,
+                    26,
+                    64
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    545,
+                    20,
+                    142,
+                    13,
+                    21
+                ],
+                "charter": "緑風 犬三郎"
+            },
+            {
+                "notes": [
+                    618,
+                    38,
+                    171,
+                    55,
+                    59
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "テトリス",
+            "artist": "柊マグネタイト",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 170,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11916,
+        "title": "有頂天ドリーマーズ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.2,
+            10.8,
+            13.1
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    135,
+                    13,
+                    4,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    14,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    330,
+                    56,
+                    21,
+                    17,
+                    22
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    481,
+                    37,
+                    74,
+                    18,
+                    35
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "有頂天ドリーマーズ",
+            "artist": "森羅万象",
+            "genre": "東方Project",
+            "bpm": 188,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11917,
+        "title": "Eureka",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.7,
+            11.8,
+            14.1
+        ],
+        "level": [
+            "3",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    10,
+                    5,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    28,
+                    8,
+                    24,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    294,
+                    88,
+                    46,
+                    23,
+                    24
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    629,
+                    112,
+                    72,
+                    60,
+                    34
+                ],
+                "charter": "Luxizhel vs サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Eureka",
+            "artist": "sasakure.UK × ArmyTom (w/z Bitplane)",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 150,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11918,
+        "title": "ニルヴの心臓",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.0,
+            12.7,
+            14.3
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    278,
+                    8,
+                    12,
+                    9,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    340,
+                    15,
+                    8,
+                    28,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    506,
+                    97,
+                    18,
+                    43,
+                    9
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    585,
+                    111,
+                    72,
+                    33,
+                    79
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ニルヴの心臓",
+            "artist": "TJ.hangneil + Atomic Sphere feat.Annabel",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 256,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11944,
+        "title": "Restricted Access",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    15,
+                    4,
+                    20,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    13,
+                    11,
+                    45,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    58,
+                    38,
+                    72,
+                    58
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    556,
+                    68,
+                    98,
+                    165,
+                    33
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Restricted Access",
+            "artist": "Knighthood",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 222,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11945,
+        "title": "胡蝶乃舞",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.7,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    177,
+                    10,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    266,
+                    17,
+                    6,
+                    23,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    65,
+                    61,
+                    17,
+                    38
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    632,
+                    45,
+                    97,
+                    20,
+                    38
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "胡蝶乃舞",
+            "artist": "Srav3R",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 180,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 11946,
+        "title": "零號車輛",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.5,
+            12.8,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    263,
+                    15,
+                    8,
+                    7,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    354,
+                    17,
+                    13,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    460,
+                    63,
+                    34,
+                    38,
+                    61
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    836,
+                    83,
+                    92,
+                    72,
+                    60
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "零號車輛",
+            "artist": "seatrus",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 240,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": "【需要解禁】[课题曲] [Paradigm: Rebootちほー]"
+        }
+    },
+    {
+        "id": 11951,
+        "title": "サイエンス",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            10.0,
+            13.0
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    162,
+                    13,
+                    8,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    356,
+                    12,
+                    6,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    359,
+                    72,
+                    47,
+                    42,
+                    12
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    530,
+                    61,
+                    93,
+                    32,
+                    34
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "サイエンス",
+            "artist": "MIMI",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 188,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
         }
     },
     {
@@ -96395,6 +97496,41 @@
         }
     },
     {
+        "id": 100207,
+        "title": "[蛸]時空を超えて久しぶり！",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            12.7
+        ],
+        "level": [
+            "12+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    478,
+                    119,
+                    18,
+                    20,
+                    8
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蛸]時空を超えて久しぶり！",
+            "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
+            "genre": "宴会場",
+            "bpm": 145,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": 100220,
         "title": "[宴]セガサターン起動音[H.][Remix]",
         "type": "UTAGE",
@@ -96491,40 +97627,6 @@
             "genre": "宴会場",
             "bpm": 135,
             "release_date": "20240517",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 100259,
-        "title": "[協]ぽっぴっぽー",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!!!",
-        "ds": [
-            13.7
-        ],
-        "level": [
-            "13+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    659,
-                    141,
-                    56,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]ぽっぴっぽー",
-            "artist": "ラマーズP",
-            "genre": "宴会場",
-            "bpm": 150,
-            "release_date": "20240118",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false,
             "key": ""
@@ -97145,109 +98247,6 @@
         }
     },
     {
-        "id": 110579,
-        "title": "[協]ポップミュージックは僕のもの",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!!",
-        "ds": [
-            12.7
-        ],
-        "level": [
-            "12+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    241,
-                    47,
-                    101,
-                    8,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]ポップミュージックは僕のもの",
-            "artist": "ONIGAWARA",
-            "genre": "宴会場",
-            "bpm": 135,
-            "release_date": "20240118",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 110606,
-        "title": "[右]The wheel to the right",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!",
-        "ds": [
-            14.7
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    603,
-                    20,
-                    185,
-                    200
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[右]The wheel to the right",
-            "artist": "Sampling Masters MEGA",
-            "genre": "宴会場",
-            "bpm": 200,
-            "release_date": "20240705",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 110631,
-        "title": "[逆]KING is BACK!!",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!",
-        "ds": [
-            13.7
-        ],
-        "level": [
-            "13+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    777,
-                    24,
-                    138,
-                    96
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[逆]KING is BACK!!",
-            "artist": "A-One",
-            "genre": "宴会場",
-            "bpm": 176,
-            "release_date": "20240705",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": 110647,
         "title": "[協]エイリアンエイリアン",
         "type": "UTAGE",
@@ -97488,41 +98487,6 @@
             "bpm": 183,
             "release_date": "20250313",
             "from": "maimai でらっくす PRiSM",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
-        "id": 111222,
-        "title": "[光]BREaK! BREaK! BREaK!",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!",
-        "ds": [
-            14.7
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    0,
-                    5,
-                    0,
-                    60,
-                    1039
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[光]BREaK! BREaK! BREaK!",
-            "artist": "HiTECH NINJA vs Cranky",
-            "genre": "宴会場",
-            "bpm": 165,
-            "release_date": "20240315",
-            "from": "maimai でらっくす BUDDiES",
             "is_new": false,
             "key": ""
         }
@@ -98052,36 +99016,35 @@
         }
     },
     {
-        "id": 111516,
-        "title": "[蔵]Aegleseeker",
+        "id": 111545,
+        "title": "[餡]隠密あんみつDX",
         "type": "UTAGE",
         "comment": "LET'S PARTY!",
         "ds": [
-            14.7
+            12.7
         ],
         "level": [
-            "14+?"
+            "12+?"
         ],
         "cids": [],
         "charts": [
             {
                 "notes": [
-                    987,
-                    106,
-                    42,
-                    61,
-                    73
+                    444,
+                    10,
+                    8,
+                    278
                 ],
                 "charter": "-"
             }
         ],
         "basic_info": {
-            "title": "[蔵]Aegleseeker",
-            "artist": "Silentroom vs Frums",
+            "title": "[餡]隠密あんみつDX",
+            "artist": "カルロス袴田 feat. 日南めい, 古川由彩",
             "genre": "宴会場",
-            "bpm": 234,
-            "release_date": "20240315",
-            "from": "maimai でらっくす BUDDiES",
+            "bpm": 155,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
             "is_new": false,
             "key": ""
         }
@@ -98305,6 +99268,88 @@
             "release_date": "20251226",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 111670,
+        "title": "[奏]のじゃロリック",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!!",
+        "ds": [
+            13.0,
+            13.0
+        ],
+        "level": [
+            "13?",
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    577,
+                    66,
+                    73,
+                    17,
+                    110
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    581,
+                    62,
+                    75,
+                    23,
+                    83
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[奏]のじゃロリック",
+            "artist": "なみぐる feat.ちょこ 桃寝ちのい",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
+        "id": 111697,
+        "title": "[音]ラビットホール",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    956,
+                    19,
+                    120,
+                    32,
+                    68
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[音]ラビットホール",
+            "artist": "DECO*27",
+            "genre": "宴会場",
+            "bpm": 173,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
             "key": ""
         }
     },
@@ -98597,6 +99642,41 @@
             "release_date": "20251226",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 111908,
+        "title": "[耐]死ぬな！",
+        "type": "UTAGE",
+        "comment": "LET'S PARTY!",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    438,
+                    44,
+                    64,
+                    65,
+                    61
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[耐]死ぬな！",
+            "artist": "こっちのけんと",
+            "genre": "宴会場",
+            "bpm": 220,
+            "release_date": "20260122",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
             "key": ""
         }
     },
