@@ -1327,15 +1327,15 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす",
-      "release_date": "20191004"
+      "release_date": "20230914"
     },
     "intl": {
       "version": "maimai でらっくす",
-      "release_date": "20220127"
+      "release_date": "20240118"
     },
     "cn": {
       "version": "maimai 舞萌DX",
-      "release_date": "20210304"
+      "release_date": "20240606"
     },
     "treasure": {
       "itemID": [
@@ -2774,7 +2774,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PLUS",
-      "release_date": "20200410"
+      "release_date": "20200710"
     },
     "intl": {
       "version": "maimai でらっくす PLUS",
@@ -2851,7 +2851,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PLUS",
-      "release_date": "20200508"
+      "release_date": "20200619"
     },
     "intl": {
       "version": "maimai でらっくす PLUS",
@@ -2928,7 +2928,7 @@
     "cn_available": false,
     "jp": {
       "version": "maimai でらっくす PLUS",
-      "release_date": "20200522"
+      "release_date": "20200724"
     },
     "intl": {
       "version": "",
@@ -3017,7 +3017,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす PLUS",
-      "release_date": "20200619"
+      "release_date": "20200821"
     },
     "intl": {
       "version": "maimai でらっくす PLUS",
@@ -3986,7 +3986,7 @@
     },
     "cn": {
       "version": "maimai 舞萌DX 2021",
-      "release_date": "20220505"
+      "release_date": "20240606"
     },
     "treasure": {
       "itemID": [
@@ -4063,7 +4063,7 @@
     },
     "cn": {
       "version": "maimai 舞萌DX 2021",
-      "release_date": "20220505"
+      "release_date": "20240606"
     },
     "treasure": {
       "itemID": [
@@ -4346,7 +4346,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす SPLASH",
-      "release_date": "20201225"
+      "release_date": "20230914"
     },
     "intl": {
       "version": "maimai でらっくす SPLASH",
@@ -10654,7 +10654,7 @@
     },
     "intl": {
       "version": "maimai でらっくす FESTiVAL",
-      "release_date": "20230119"
+      "release_date": "20251003"
     },
     "cn": {
       "version": "maimai 舞萌DX 2023",
@@ -14863,7 +14863,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす BUDDiES",
-      "release_date": "20231209"
+      "release_date": "20231208"
     },
     "intl": {
       "version": "maimai でらっくす BUDDiES",
@@ -14976,7 +14976,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす BUDDiES",
-      "release_date": "20231210"
+      "release_date": "20231208"
     },
     "intl": {
       "version": "maimai でらっくす BUDDiES",
@@ -15059,7 +15059,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす BUDDiES",
-      "release_date": "20231210"
+      "release_date": "20231208"
     },
     "intl": {
       "version": "maimai でらっくす BUDDiES",
@@ -15142,7 +15142,7 @@
     "cn_available": true,
     "jp": {
       "version": "maimai でらっくす BUDDiES",
-      "release_date": "20231210"
+      "release_date": "20231208"
     },
     "intl": {
       "version": "maimai でらっくす BUDDiES",
@@ -15221,7 +15221,7 @@
     },
     "cn": {
       "version": "maimai 舞萌DX 2024",
-      "release_date": "20240724"
+      "release_date": "20250416"
     },
     "treasure": {
       "itemID": [
@@ -22233,7 +22233,7 @@
     },
     "intl": {
       "version": "maimai でらっくす CiRCLE",
-      "release_date": "20260515"
+      "release_date": "20260122"
     },
     "cn": {
       "version": "",
