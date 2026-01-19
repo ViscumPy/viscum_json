@@ -103693,6 +103693,77 @@
         }
     },
     {
+        "id": 11943,
+        "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.9,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    185,
+                    13,
+                    6,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    20,
+                    9,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    334,
+                    94,
+                    41,
+                    6,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    659,
+                    61,
+                    176,
+                    4,
+                    26
+                ],
+                "charter": "はっぴー(INFP)"
+            }
+        ],
+        "basic_info": {
+            "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+            "artist": "3markets[ ]",
+            "genre": "POPS & アニメ",
+            "bpm": 150,
+            "release_date": "20260116",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 11951,
         "title": "サイエンス",
         "type": "DX",
@@ -104491,6 +104562,40 @@
         }
     },
     {
+        "id": 110351,
+        "title": "[鏡]MIRROR of MAGIC",
+        "type": "UTAGE",
+        "comment": "MIRROR of ADVANCED(↻)",
+        "ds": [
+            12.0
+        ],
+        "level": [
+            "12?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    600,
+                    40,
+                    28,
+                    16
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[鏡]MIRROR of MAGIC",
+            "artist": "Shoichiro Hirata feat.SUIMI",
+            "genre": "宴会場",
+            "bpm": 135,
+            "release_date": "20260116",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 110417,
         "title": "[習]ウミユリ海底譚",
         "type": "UTAGE",
@@ -104693,6 +104798,41 @@
             "genre": "宴会場",
             "bpm": 180,
             "release_date": "20251224",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 110766,
+        "title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+        "type": "UTAGE",
+        "comment": "ぜたっ作を面譜なルワジイ",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    115,
+                    0,
+                    128,
+                    1,
+                    2
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[邪]アマノジャクリバース feat. ｙｔｒ",
+            "artist": "魂音泉",
+            "genre": "宴会場",
+            "bpm": 160,
+            "release_date": "20260116",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""

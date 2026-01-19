@@ -29837,6 +29837,26 @@
             }
         ]
     },
+    "11943": {
+        "name": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+        "ver": "26011",
+        "composer": "3markets[ ]",
+        "genre": "POPSアニメ",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 6.5
+            },
+            {
+                "lv": 9.9
+            },
+            {
+                "lv": 13.3
+            }
+        ]
+    },
     "11951": {
         "name": "サイエンス",
         "ver": "26000",
@@ -30088,6 +30108,17 @@
             }
         ]
     },
+    "110351": {
+        "name": "[鏡]MIRROR of MAGIC",
+        "ver": "26011",
+        "composer": "Shoichiro Hirata feat.SUIMI",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 12.0
+            }
+        ]
+    },
     "110417": {
         "name": "[習]ウミユリ海底譚",
         "ver": "25000",
@@ -30140,6 +30171,17 @@
         "notes": [
             {
                 "lv": 14.7
+            }
+        ]
+    },
+    "110766": {
+        "name": "[邪]アマノジャクリバース feat. ｙｔｒ",
+        "ver": "26011",
+        "composer": "魂音泉",
+        "genre": "宴会場",
+        "notes": [
+            {
+                "lv": 13.7
             }
         ]
     },
