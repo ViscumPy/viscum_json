@@ -13598,6 +13598,77 @@
         }
     },
     {
+        "id": 11943,
+        "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            6.5,
+            9.9,
+            13.3
+        ],
+        "level": [
+            "3",
+            "6",
+            "9+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    185,
+                    13,
+                    6,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    302,
+                    20,
+                    9,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    334,
+                    94,
+                    41,
+                    6,
+                    21
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    659,
+                    61,
+                    176,
+                    4,
+                    26
+                ],
+                "charter": "はっぴー(INFP)"
+            }
+        ],
+        "basic_info": {
+            "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+            "artist": "3markets[ ]",
+            "genre": "POPS & アニメ",
+            "bpm": 150,
+            "release_date": "20260116",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": false,
+            "key": ""
+        }
+    },
+    {
         "id": 100022,
         "title": "[蔵]In Chaos",
         "type": "UTAGE",
