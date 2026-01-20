@@ -116,6 +116,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.6,
+                "dxScore": 3429,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14+",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 328,
+                "rate": "sssp",
+                "song_id": 11946,
+                "title": "零號車輛",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.5,
                 "dxScore": 3333,
                 "fc": "app",
@@ -164,6 +180,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.3,
+                "dxScore": 2640,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 321,
+                "rate": "sssp",
+                "song_id": 11918,
+                "title": "ニルヴの心臓",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.2,
                 "dxScore": 1728,
                 "fc": "app",
@@ -207,38 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11855,
                 "title": "Destined Marionette",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.2,
-                "dxScore": 2010,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 319,
-                "rate": "sssp",
-                "song_id": 11861,
-                "title": "∀",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.1,
-                "dxScore": 2829,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 317,
-                "rate": "sssp",
-                "song_id": 11815,
-                "title": "IMBRUED:FLUX",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16572,
+    "rating": 16585,
     "user_general_data": null,
     "username": "MaxScore"
 }
