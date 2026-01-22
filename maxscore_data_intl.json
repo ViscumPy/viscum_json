@@ -90531,22 +90531,6 @@
         },
         {
             "achievements": 101.0,
-            "ds": 14.7,
-            "dxScore": 2829,
-            "fc": "app",
-            "fs": "fdxp",
-            "level": "14+?",
-            "level_index": 0,
-            "level_label": "Basic",
-            "ra": 330,
-            "rate": "sssp",
-            "song_id": 100022,
-            "title": "[蔵]In Chaos",
-            "type": "UTAGE",
-            "play_count": 9999
-        },
-        {
-            "achievements": 101.0,
             "ds": 12.7,
             "dxScore": 927,
             "fc": "app",

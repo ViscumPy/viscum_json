@@ -97394,40 +97394,6 @@
         }
     },
     {
-        "id": 100022,
-        "title": "[蔵]In Chaos",
-        "type": "UTAGE",
-        "comment": "LET'S PARTY!",
-        "ds": [
-            14.7
-        ],
-        "level": [
-            "14+?"
-        ],
-        "cids": [],
-        "charts": [
-            {
-                "notes": [
-                    824,
-                    0,
-                    110,
-                    9
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[蔵]In Chaos",
-            "artist": "Hiro「Crackin’DJ」",
-            "genre": "宴会場",
-            "bpm": 140,
-            "release_date": "20240517",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false,
-            "key": ""
-        }
-    },
-    {
         "id": 100199,
         "title": "[蛸]チルノのパーフェクトさんすう教室",
         "type": "UTAGE",
