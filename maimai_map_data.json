@@ -22224,12 +22224,12 @@
     "mapName": "Paradigm: Rebootちほー",
     "IsInfinity": "false",
     "IsCollabo": "true",
-    "jp_available": false,
+    "jp_available": true,
     "intl_available": true,
     "cn_available": false,
     "jp": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260123"
     },
     "intl": {
       "version": "maimai でらっくす CiRCLE",

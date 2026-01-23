@@ -39816,6 +39816,73 @@
         }
     },
     {
+        "id": "1200",
+        "title": "Paranoia",
+        "type": "SD",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.2,
+            13.6
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    141,
+                    12,
+                    4,
+                    13
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    246,
+                    18,
+                    6,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    331,
+                    59,
+                    22,
+                    35
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    579,
+                    33,
+                    118,
+                    88
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Paranoia",
+            "artist": "DiGiTAL WiNG feat. 花たん",
+            "genre": "東方Project",
+            "bpm": 150,
+            "release_date": "20260123",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [東方ProjectSTnew]"
+        }
+    },
+    {
         "id": "1235",
         "title": "VIIIbit Explorer",
         "type": "SD",
@@ -103761,6 +103828,219 @@
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": "11944",
+        "title": "Restricted Access",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    172,
+                    15,
+                    4,
+                    20,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    13,
+                    11,
+                    45,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    58,
+                    38,
+                    72,
+                    58
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    556,
+                    68,
+                    98,
+                    165,
+                    33
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Restricted Access",
+            "artist": "Knighthood",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 185,
+            "release_date": "20260123",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11945",
+        "title": "胡蝶乃舞",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.7,
+            13.9
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    177,
+                    10,
+                    4,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    266,
+                    17,
+                    6,
+                    23,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    65,
+                    61,
+                    17,
+                    38
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    632,
+                    45,
+                    97,
+                    20,
+                    38
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "胡蝶乃舞",
+            "artist": "Srav3R",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 180,
+            "release_date": "20260123",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": "11946",
+        "title": "零號車輛",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.5,
+            12.8,
+            14.6
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    263,
+                    15,
+                    8,
+                    7,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    354,
+                    17,
+                    13,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    460,
+                    63,
+                    34,
+                    38,
+                    61
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    836,
+                    83,
+                    92,
+                    72,
+                    60
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "零號車輛",
+            "artist": "seatrus",
+            "genre": "ゲーム & バラエティ",
+            "bpm": 240,
+            "release_date": "20260123",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [Paradigm: Rebootちほー]"
         }
     },
     {
