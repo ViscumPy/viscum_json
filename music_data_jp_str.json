@@ -100884,6 +100884,290 @@
         }
     },
     {
+        "id": "11894",
+        "title": "スローグロー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.8,
+            13.3
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    161,
+                    15,
+                    8,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    256,
+                    26,
+                    10,
+                    13,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    424,
+                    35,
+                    28,
+                    33,
+                    17
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    487,
+                    32,
+                    60,
+                    100,
+                    31
+                ],
+                "charter": "ロシェ@ペンギン"
+            }
+        ],
+        "basic_info": {
+            "title": "スローグロー",
+            "artist": "nayuta",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "20260206",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [スカイストリートちほー7]"
+        }
+    },
+    {
+        "id": "11895",
+        "title": "ECHO,",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.9,
+            11.2,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    214,
+                    12,
+                    8,
+                    9,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    20,
+                    15,
+                    15,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    447,
+                    56,
+                    59,
+                    2,
+                    17
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    608,
+                    27,
+                    135,
+                    24,
+                    45
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ECHO,",
+            "artist": "棗いつき",
+            "genre": "maimai",
+            "bpm": 193,
+            "release_date": "20260206",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [スカイストリートちほー7]"
+        }
+    },
+    {
+        "id": "11896",
+        "title": "Phase: Theatre",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    181,
+                    25,
+                    7,
+                    16,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    351,
+                    19,
+                    11,
+                    13,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    400,
+                    79,
+                    57,
+                    22,
+                    62
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    681,
+                    56,
+                    112,
+                    48,
+                    68
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "Phase: Theatre",
+            "artist": "藍月なくる",
+            "genre": "maimai",
+            "bpm": 195,
+            "release_date": "20260206",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [スカイストリートちほー7]"
+        }
+    },
+    {
+        "id": "11897",
+        "title": "Sky Trails",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.0,
+            12.8,
+            14.7
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    234,
+                    20,
+                    10,
+                    9,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    364,
+                    11,
+                    16,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    454,
+                    48,
+                    72,
+                    28,
+                    74
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    651,
+                    65,
+                    165,
+                    150,
+                    21
+                ],
+                "charter": "Luxizhel+カマボコ君+はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Sky Trails",
+            "artist": "La prière",
+            "genre": "maimai",
+            "bpm": 171,
+            "release_date": "20260206",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "[需要解禁] [完美挑战曲] [スカイストリートちほー7]"
+        }
+    },
+    {
         "id": "11899",
         "title": "イーヴィルガール",
         "type": "DX",
