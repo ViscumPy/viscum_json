@@ -104328,6 +104328,77 @@
         }
     },
     {
+        "id": "11950",
+        "title": "ラプラスショコラ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            9.9,
+            12.9
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    130,
+                    11,
+                    6,
+                    7,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    211,
+                    18,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    276,
+                    37,
+                    54,
+                    16,
+                    20
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    488,
+                    42,
+                    135,
+                    9,
+                    17
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "ラプラスショコラ",
+            "artist": "Kai",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 130,
+            "release_date": "20260213",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": "11951",
         "title": "サイエンス",
         "type": "DX",
