@@ -20903,6 +20903,101 @@
     }
   },
   {
+    "mapId": "600004",
+    "mapName": "スカイストリートちほー7",
+    "IsInfinity": "false",
+    "IsCollabo": "false",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260206"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        600401,
+        11894,
+        600402,
+        600403,
+        11895,
+        600404,
+        11896,
+        600401,
+        118970,
+        600401
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Challenge",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "完美挑战曲",
+        "背景"
+      ],
+      "treasureId": [
+        600401,
+        600471,
+        600402,
+        600403,
+        600472,
+        600404,
+        600473,
+        600451,
+        600481,
+        600461
+      ],
+      "treasureName": [
+        "トキヤ（ぬいぐるみ）",
+        "スローグロー",
+        "モモ",
+        "コハク",
+        "ECHO,",
+        "ノア",
+        "Phase: Theatre",
+        "スカイストリートちほー7",
+        "Sky Trails スカイストリートちほー7 チャレンジ",
+        "スカイストリートちほー7"
+      ],
+      "distance": [
+        0,
+        150000,
+        200000,
+        350000,
+        500000,
+        600000,
+        800000,
+        900000,
+        1200000,
+        1400000
+      ]
+    }
+  },
+  {
     "mapId": "600005",
     "mapName": "サークルちほー",
     "IsInfinity": "true",
@@ -22311,6 +22406,119 @@
         450000,
         600000,
         700000
+      ]
+    }
+  },
+  {
+    "mapId": "600060",
+    "mapName": "IOSYSちほー",
+    "IsInfinity": "false",
+    "IsCollabo": "true",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260220"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        606001,
+        11947,
+        606001,
+        606001,
+        606002,
+        606003,
+        11948,
+        606002,
+        606002,
+        606004,
+        606005,
+        11949,
+        606003
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Frame",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Frame",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "背景",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "背景",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "背景"
+      ],
+      "treasureId": [
+        606001,
+        606071,
+        606051,
+        606061,
+        606002,
+        606003,
+        606072,
+        606052,
+        606062,
+        606004,
+        606005,
+        606073,
+        606063
+      ],
+      "treasureName": [
+        "博麗 霊夢",
+        "恋の氷結おてんば湯けむりチルノ温泉",
+        "IOSYSちほー その1",
+        "IOSYSちほー その1",
+        "霧雨 魔理沙",
+        "チルノ",
+        "イタ電はやめて！ ぼくらのスカーレット・コール",
+        "IOSYSちほー その2",
+        "IOSYSちほー その2",
+        "十六夜 咲夜",
+        "レミリア・スカーレット",
+        "むしみこうにゃーのハッピッピー",
+        "IOSYSちほー その3"
+      ],
+      "distance": [
+        0,
+        25000,
+        50000,
+        75000,
+        100000,
+        125000,
+        175000,
+        200000,
+        250000,
+        300000,
+        325000,
+        375000,
+        400000
       ]
     }
   }
