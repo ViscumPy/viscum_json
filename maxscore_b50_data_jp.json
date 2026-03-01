@@ -21,6 +21,22 @@
             {
                 "achievements": 101.0,
                 "ds": 14.9,
+                "dxScore": 3855,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14+",
+                "level_index": 3,
+                "level_label": "Master",
+                "ra": 336,
+                "rate": "sssp",
+                "song_id": 11898,
+                "title": "7 Wonders",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
+                "ds": 14.9,
                 "dxScore": 3966,
                 "fc": "app",
                 "fs": "fdxp",
@@ -223,22 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11889,
                 "title": "Get U ♭ack",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.5,
-                "dxScore": 2793,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 3,
-                "level_label": "Master",
-                "ra": 327,
-                "rate": "sssp",
-                "song_id": 11920,
-                "title": "Hurtling Boys",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16685,
+    "rating": 16694,
     "user_general_data": null,
     "username": "MaxScore"
 }

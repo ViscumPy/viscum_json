@@ -67,6 +67,77 @@
         }
     },
     {
+        "id": "11898",
+        "title": "7 Wonders",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            0.0,
+            0.0,
+            0.0,
+            14.9
+        ],
+        "level": [
+            "0",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": ""
+            },
+            {
+                "notes": [
+                    977,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "charter": ""
+            }
+        ],
+        "basic_info": {
+            "title": "7 Wonders",
+            "artist": "削除",
+            "genre": "maimai",
+            "bpm": 168,
+            "release_date": "20260301",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "[需要解禁] [KOP传导] "
+        }
+    },
+    {
         "id": "9",
         "title": "Color My World",
         "type": "SD",
