@@ -3824,13 +3824,15 @@
             4.0,
             8.7,
             13.0,
-            13.4
+            13.4,
+            14.4
         ],
         "level": [
             "4",
             "8+",
             "13",
-            "13"
+            "13",
+            "14"
         ],
         "cids": [],
         "charts": [
@@ -3869,6 +3871,15 @@
                     14
                 ],
                 "charter": "譜面-100号"
+            },
+            {
+                "notes": [
+                    512,
+                    48,
+                    54,
+                    52
+                ],
+                "charter": "Safata.Hz"
             }
         ],
         "basic_info": {
@@ -49993,13 +50004,15 @@
             5.0,
             7.8,
             11.0,
-            13.4
+            13.4,
+            14.1
         ],
         "level": [
             "5",
             "7+",
             "11",
-            "13"
+            "13",
+            "14"
         ],
         "cids": [],
         "charts": [
@@ -50042,6 +50055,16 @@
                     46
                 ],
                 "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    617,
+                    54,
+                    96,
+                    17,
+                    40
+                ],
+                "charter": "じゃこレモン"
             }
         ],
         "basic_info": {
@@ -54206,13 +54229,15 @@
             4.0,
             7.7,
             10.0,
-            13.0
+            13.0,
+            13.7
         ],
         "level": [
             "4",
             "7+",
             "10",
-            "13"
+            "13",
+            "13+"
         ],
         "cids": [],
         "charts": [
@@ -54255,6 +54280,16 @@
                     56
                 ],
                 "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    506,
+                    68,
+                    70,
+                    69,
+                    74
+                ],
+                "charter": "アマリリス"
             }
         ],
         "basic_info": {
@@ -62455,13 +62490,15 @@
             4.0,
             7.5,
             10.7,
-            13.0
+            13.0,
+            13.7
         ],
         "level": [
             "4",
             "7",
             "10+",
-            "13"
+            "13",
+            "13+"
         ],
         "cids": [],
         "charts": [
@@ -62504,6 +62541,16 @@
                     16
                 ],
                 "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    676,
+                    47,
+                    184,
+                    14,
+                    35
+                ],
+                "charter": "Jack"
             }
         ],
         "basic_info": {
@@ -96259,6 +96306,77 @@
         }
     },
     {
+        "id": 11884,
+        "title": "Customized Justice",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.8,
+            13.0,
+            14.8
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    266,
+                    18,
+                    6,
+                    11,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    352,
+                    13,
+                    16,
+                    32,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    571,
+                    52,
+                    33,
+                    22,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    758,
+                    93,
+                    62,
+                    71,
+                    92
+                ],
+                "charter": "サファ太 vs じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Customized Justice",
+            "artist": "Kobaryo",
+            "genre": "maimai",
+            "bpm": 292,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 11885,
         "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
         "type": "DX",
@@ -96327,6 +96445,361 @@
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true,
             "key": "[需要解禁] [KOP7th] 予選楽曲"
+        }
+    },
+    {
+        "id": 11886,
+        "title": "真空都市",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    12,
+                    5,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    16,
+                    11,
+                    48,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    77,
+                    35,
+                    36,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    27,
+                    66,
+                    38,
+                    29
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "真空都市",
+            "artist": "ナナツカゼ",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "20260319",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        }
+    },
+    {
+        "id": 11887,
+        "title": "Eternal Return",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    197,
+                    17,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    103,
+                    43,
+                    44,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    624,
+                    56,
+                    112,
+                    77,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "Eternal Return",
+            "artist": "Tatsunoshin & Aira Arere",
+            "genre": "maimai",
+            "bpm": 180,
+            "release_date": "20260319",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        }
+    },
+    {
+        "id": 11888,
+        "title": "ぱぱぱらビーチ",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    205,
+                    10,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    311,
+                    14,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    394,
+                    37,
+                    62,
+                    11,
+                    49
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    626,
+                    21,
+                    87,
+                    41,
+                    56
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ぱぱぱらビーチ",
+            "artist": "ぱぱぱらビーチ",
+            "genre": "maimai",
+            "bpm": 160,
+            "release_date": "20260319",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [kawaiiちほー2]"
+        }
+    },
+    {
+        "id": 11889,
+        "title": "Get U ♭ack",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.7,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    198,
+                    13,
+                    8,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    339,
+                    11,
+                    6,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    60,
+                    56,
+                    15,
+                    55
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    693,
+                    74,
+                    83,
+                    62,
+                    87
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Get U ♭ack",
+            "artist": "Ryo Fukuda",
+            "genre": "maimai",
+            "bpm": 205,
+            "release_date": "20260319",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "[需要解禁] [完美挑战曲] [kawaiiちほー2]"
+        }
+    },
+    {
+        "id": 11898,
+        "title": "7 Wonders",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            6.0,
+            8.2,
+            12.8,
+            14.9
+        ],
+        "level": [
+            "6",
+            "8",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    200,
+                    25,
+                    6,
+                    11,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    298,
+                    25,
+                    13,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    478,
+                    89,
+                    51,
+                    20,
+                    65
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    977,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "charter": "7.3GHz"
+            }
+        ],
+        "basic_info": {
+            "title": "7 Wonders",
+            "artist": "削除",
+            "genre": "maimai",
+            "bpm": 168,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "[需要解禁] [LEGEND乐曲]"
         }
     },
     {
@@ -97999,6 +98472,361 @@
         }
     },
     {
+        "id": 11930,
+        "title": "電光刹歌",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    15,
+                    10,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    317,
+                    19,
+                    8,
+                    12,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    451,
+                    48,
+                    26,
+                    35,
+                    47
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    602,
+                    16,
+                    132,
+                    25,
+                    53
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "電光刹歌",
+            "artist": "かめりあ",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 207,
+            "release_date": "20260327",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11931,
+        "title": "ウィーアーピコピコハンマーズ!!!!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.5,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    14,
+                    6,
+                    8,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    368,
+                    21,
+                    4,
+                    25,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    444,
+                    34,
+                    24,
+                    34,
+                    44
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    692,
+                    76,
+                    119,
+                    22,
+                    129
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ウィーアーピコピコハンマーズ!!!!",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 202,
+            "release_date": "20260327",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11932,
+        "title": "ジェットブラック",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.5,
+            10.2,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    12,
+                    10,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    323,
+                    18,
+                    6,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    417,
+                    56,
+                    40,
+                    21,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    548,
+                    65,
+                    113,
+                    30,
+                    52
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "ジェットブラック",
+            "artist": "雄之助",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 170,
+            "release_date": "20260327",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11933,
+        "title": "トレジャーガーデン",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.7,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    237,
+                    18,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    373,
+                    29,
+                    8,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    52,
+                    42,
+                    30,
+                    34
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    697,
+                    80,
+                    113,
+                    53,
+                    108
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "トレジャーガーデン",
+            "artist": "Ponchi♪",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 169,
+            "release_date": "20260327",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11934,
+        "title": "最愛人生ランナー",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    216,
+                    22,
+                    5,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    26,
+                    8,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    496,
+                    99,
+                    62,
+                    9,
+                    70
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    735,
+                    61,
+                    151,
+                    44,
+                    63
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "最愛人生ランナー",
+            "artist": "かいりきベア",
+            "genre": "niconico & ボーカロイド",
+            "bpm": 180,
+            "release_date": "20260327",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
         "id": 11944,
         "title": "Restricted Access",
         "type": "DX",
@@ -98351,6 +99179,148 @@
             "from": "maimai でらっくす CiRCLE",
             "is_new": true,
             "key": ""
+        }
+    },
+    {
+        "id": 11956,
+        "title": "Break the Speaker",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            8.8,
+            12.9,
+            14.7
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    238,
+                    3,
+                    6,
+                    14,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    374,
+                    13,
+                    6,
+                    8,
+                    42
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    313,
+                    84,
+                    89,
+                    107,
+                    112
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    685,
+                    96,
+                    131,
+                    72,
+                    112
+                ],
+                "charter": "BELiZHEL"
+            }
+        ],
+        "basic_info": {
+            "title": "Break the Speaker",
+            "artist": "DJ Myosuke",
+            "genre": "maimai",
+            "bpm": 185,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11970,
+        "title": "Galaxy Blaster",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.8,
+            11.5,
+            14.3
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    239,
+                    8,
+                    4,
+                    8,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    328,
+                    13,
+                    10,
+                    10,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    413,
+                    75,
+                    50,
+                    26,
+                    7
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    606,
+                    84,
+                    97,
+                    45,
+                    106
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "Galaxy Blaster",
+            "artist": "ああああ",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 188,
+            "release_date": "20260319",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "[需要解禁] [机台联动乐曲]"
         }
     },
     {
