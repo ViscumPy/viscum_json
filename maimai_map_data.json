@@ -22523,6 +22523,119 @@
     }
   },
   {
+    "mapId": "600061",
+    "mapName": "オンゲキちほー9",
+    "IsInfinity": "false",
+    "IsCollabo": "true",
+    "jp_available": true,
+    "intl_available": false,
+    "cn_available": false,
+    "jp": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260305"
+    },
+    "intl": {
+      "version": "",
+      "release_date": ""
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        606101,
+        11902,
+        606102,
+        606103,
+        606104,
+        606105,
+        11903,
+        606106,
+        606107,
+        11904,
+        606101,
+        11905,
+        606101
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "Character",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "MapTaskMusic",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "旅行伙伴",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "课题曲",
+        "背景"
+      ],
+      "treasureId": [
+        606101,
+        606171,
+        606102,
+        606103,
+        606104,
+        606105,
+        606172,
+        606106,
+        606107,
+        606173,
+        606151,
+        606174,
+        606161
+      ],
+      "treasureName": [
+        "星咲 あかり（WakeUP MakeUP FEVER!）",
+        "WakeUP MakeUP FEVER!",
+        "高瀬 梨緒（WakeUP MakeUP FEVER!）",
+        "藍原 椿（WakeUP MakeUP FEVER!）",
+        "桜井 春菜（WakeUP MakeUP FEVER!）",
+        "東雲 つむぎ（WakeUP MakeUP FEVER!）",
+        "give it up to you",
+        "早乙女 彩華（シュータードレス）",
+        "桜井 春菜（シュータードレス）",
+        "ICEBURN",
+        "bitter flavor",
+        "Daredevil Glaive",
+        "オンゲキちほー9"
+      ],
+      "distance": [
+        0,
+        25000,
+        50000,
+        75000,
+        100000,
+        125000,
+        200000,
+        250000,
+        300000,
+        375000,
+        425000,
+        525000,
+        600000
+      ]
+    }
+  },
+  {
     "mapId": "600002",
     "mapName": "kawaiiちほー2",
     "IsInfinity": "false",

@@ -101452,6 +101452,290 @@
         }
     },
     {
+        "id": 11902,
+        "title": "WakeUP MakeUP FEVER!",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            2.0,
+            6.2,
+            10.0,
+            13.3
+        ],
+        "level": [
+            "2",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    17,
+                    2,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    236,
+                    12,
+                    10,
+                    26,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    30,
+                    40,
+                    27,
+                    41
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    549,
+                    73,
+                    96,
+                    96,
+                    73
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "WakeUP MakeUP FEVER!",
+            "artist": "曲：アオワイファイ／歌：オンゲキシューターズ",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 126,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11903,
+        "title": "give it up to you",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            3.0,
+            7.0,
+            10.7,
+            13.2
+        ],
+        "level": [
+            "3",
+            "7",
+            "10+",
+            "13"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    167,
+                    9,
+                    4,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    248,
+                    12,
+                    6,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    290,
+                    58,
+                    31,
+                    23,
+                    31
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    454,
+                    37,
+                    88,
+                    31,
+                    24
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "give it up to you",
+            "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 174,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": ""
+        }
+    },
+    {
+        "id": 11904,
+        "title": "ICEBURN",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            4.0,
+            8.0,
+            11.5,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    182,
+                    12,
+                    10,
+                    8,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    15,
+                    10,
+                    10,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    345,
+                    59,
+                    46,
+                    16,
+                    81
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    603,
+                    43,
+                    125,
+                    76,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "ICEBURN",
+            "artist": "Srav3R",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 190,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [オンゲキちほー9]"
+        }
+    },
+    {
+        "id": 11905,
+        "title": "Daredevil Glaive",
+        "type": "DX",
+        "comment": "",
+        "ds": [
+            5.0,
+            7.8,
+            11.8,
+            14.2
+        ],
+        "level": [
+            "5",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [],
+        "charts": [
+            {
+                "notes": [
+                    203,
+                    11,
+                    6,
+                    20,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    320,
+                    14,
+                    7,
+                    24,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    371,
+                    72,
+                    70,
+                    48,
+                    31
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    690,
+                    69,
+                    68,
+                    78,
+                    99
+                ],
+                "charter": "サファ太 & メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "Daredevil Glaive",
+            "artist": "Artifact",
+            "genre": "オンゲキ & CHUNITHM",
+            "bpm": 185,
+            "release_date": "20260305",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true,
+            "key": "【需要解禁】[课题曲] [オンゲキちほー9]"
+        }
+    },
+    {
         "id": 11906,
         "title": "Unwelcome School",
         "type": "DX",

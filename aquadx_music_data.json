@@ -29188,6 +29188,86 @@
             }
         ]
     },
+    "11902": {
+        "name": "WakeUP MakeUP FEVER!",
+        "ver": "26016",
+        "composer": "曲：アオワイファイ／歌：オンゲキシューターズ",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 2.0
+            },
+            {
+                "lv": 6.2
+            },
+            {
+                "lv": 10.0
+            },
+            {
+                "lv": 13.3
+            }
+        ]
+    },
+    "11903": {
+        "name": "give it up to you",
+        "ver": "26016",
+        "composer": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 3.0
+            },
+            {
+                "lv": 7.0
+            },
+            {
+                "lv": 10.7
+            },
+            {
+                "lv": 13.2
+            }
+        ]
+    },
+    "11904": {
+        "name": "ICEBURN",
+        "ver": "26016",
+        "composer": "Srav3R",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 4.0
+            },
+            {
+                "lv": 8.0
+            },
+            {
+                "lv": 11.5
+            },
+            {
+                "lv": 13.8
+            }
+        ]
+    },
+    "11905": {
+        "name": "Daredevil Glaive",
+        "ver": "26016",
+        "composer": "Artifact",
+        "genre": "オンゲキCHUNITHM",
+        "notes": [
+            {
+                "lv": 5.0
+            },
+            {
+                "lv": 7.8
+            },
+            {
+                "lv": 11.8
+            },
+            {
+                "lv": 14.2
+            }
+        ]
+    },
     "11906": {
         "name": "Unwelcome School",
         "ver": "26000",
