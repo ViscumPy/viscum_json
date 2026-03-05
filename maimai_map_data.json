@@ -21951,15 +21951,15 @@
     "IsInfinity": "false",
     "IsCollabo": "true",
     "jp_available": true,
-    "intl_available": false,
+    "intl_available": true,
     "cn_available": false,
     "jp": {
       "version": "maimai でらっくす CiRCLE",
       "release_date": "20251120"
     },
     "intl": {
-      "version": "",
-      "release_date": ""
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260327"
     },
     "cn": {
       "version": "",
@@ -22519,6 +22519,101 @@
         325000,
         375000,
         400000
+      ]
+    }
+  },
+  {
+    "mapId": "600002",
+    "mapName": "kawaiiちほー2",
+    "IsInfinity": "false",
+    "IsCollabo": "false",
+    "jp_available": false,
+    "intl_available": true,
+    "cn_available": false,
+    "jp": {
+      "version": "",
+      "release_date": ""
+    },
+    "intl": {
+      "version": "maimai でらっくす CiRCLE",
+      "release_date": "20260319"
+    },
+    "cn": {
+      "version": "",
+      "release_date": ""
+    },
+    "treasure": {
+      "itemID": [
+        600201,
+        11886,
+        600202,
+        11887,
+        600201,
+        600203,
+        11888,
+        600204,
+        118890,
+        600201
+      ],
+      "TreasureType": [
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "MapTaskMusic",
+        "NamePlate",
+        "Character",
+        "MapTaskMusic",
+        "Character",
+        "Challenge",
+        "Frame"
+      ],
+      "TreasureTypeCN": [
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "课题曲",
+        "姓名框",
+        "旅行伙伴",
+        "课题曲",
+        "旅行伙伴",
+        "完美挑战曲",
+        "背景"
+      ],
+      "treasureId": [
+        600201,
+        600271,
+        600202,
+        600272,
+        600251,
+        600203,
+        600273,
+        600204,
+        600281,
+        600261
+      ],
+      "treasureName": [
+        "スズメ",
+        "真空都市",
+        "パドザール",
+        "Eternal Return",
+        "kawaiiちほー2",
+        "オクト",
+        "ぱぱぱらビーチ",
+        "アモ",
+        "Get U ♭ack kawaiiちほー2 チャレンジ",
+        "kawaiiちほー2"
+      ],
+      "distance": [
+        0,
+        75000,
+        150000,
+        300000,
+        350000,
+        450000,
+        600000,
+        700000,
+        900000,
+        1000000
       ]
     }
   }
