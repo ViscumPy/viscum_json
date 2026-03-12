@@ -5860,6 +5860,45 @@
         ]
     },
     {
+        "id": 608571,
+        "asset_id": "608571",
+        "name": "審判正義の星女神",
+        "genre": "",
+        "extNum": "",
+        "jp_available": true,
+        "intl_available": false,
+        "cn_available": false,
+        "version": {
+            "jp": "maimai でらっくす CiRCLE",
+            "intl": "maimai でらっくす CiRCLE",
+            "cn": "maimai 舞萌DX 2026"
+        },
+        "music": [
+            11901,
+            11318,
+            719
+        ]
+    },
+    {
+        "id": 608581,
+        "asset_id": "608581",
+        "name": "fiction",
+        "genre": "",
+        "extNum": "",
+        "jp_available": true,
+        "intl_available": false,
+        "cn_available": false,
+        "version": {
+            "jp": "maimai でらっくす CiRCLE",
+            "intl": "maimai でらっくす CiRCLE",
+            "cn": "maimai 舞萌DX 2026"
+        },
+        "music": [
+            11939,
+            11940
+        ]
+    },
+    {
         "id": 609101,
         "asset_id": "609101",
         "name": "彩",
