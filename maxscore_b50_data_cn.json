@@ -196,6 +196,22 @@
             },
             {
                 "achievements": 101.0,
+                "ds": 14.5,
+                "dxScore": 2793,
+                "fc": "app",
+                "fs": "fdxp",
+                "level": "14",
+                "level_index": 14.5,
+                "level_label": 0,
+                "ra": 326,
+                "rate": "sssp",
+                "song_id": 11920,
+                "title": "Hurtling Boys",
+                "type": "DX",
+                "play_count": 9999
+            },
+            {
+                "achievements": 101.0,
                 "ds": 14.4,
                 "dxScore": 3324,
                 "fc": "app",
@@ -223,22 +239,6 @@
                 "rate": "sssp",
                 "song_id": 11707,
                 "title": "ouroboros -twin stroke of the end-",
-                "type": "DX",
-                "play_count": 9999
-            },
-            {
-                "achievements": 101.0,
-                "ds": 14.4,
-                "dxScore": 2622,
-                "fc": "app",
-                "fs": "fdxp",
-                "level": "14",
-                "level_index": 14.4,
-                "level_label": 0,
-                "ra": 324,
-                "rate": "sssp",
-                "song_id": 11744,
-                "title": "Deicide",
                 "type": "DX",
                 "play_count": 9999
             }
@@ -808,7 +808,7 @@
     },
     "nickname": "MaxScore",
     "plate": "",
-    "rating": 16582,
+    "rating": 16584,
     "user_general_data": null,
     "username": "MaxScore"
 }
