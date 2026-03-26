@@ -3823,10 +3823,68 @@
         "title": "Wonderland Wars オープニング",
         "type": "SD",
         "comment": "",
-        "ds": [],
-        "level": [],
+        "ds": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "level": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
         "cids": [],
-        "charts": [],
+        "charts": [
+            {
+                "notes": [
+                    0,
+                    42,
+                    4,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    58,
+                    22,
+                    8,
+                    26
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    42,
+                    30,
+                    34,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    84,
+                    56,
+                    18,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    257,
+                    50,
+                    25,
+                    14
+                ],
+                "charter": "-"
+            }
+        ],
         "basic_info": {
             "title": "Wonderland Wars オープニング",
             "artist": "「童話」は、全て「戦記」だった ",
